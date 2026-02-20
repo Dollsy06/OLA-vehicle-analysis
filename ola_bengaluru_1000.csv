@@ -1,0 +1,1001 @@
+Date,Time,Booking_ID,Booking_Status,Customer_ID,Vehicle_Type,Pickup_Location,Drop_Location,Avg_VTAT,Avg_CTAT,Cancelled_Rides_by_Customer,Reason_for_cancelling_by_Customer,Cancelled_Ride_by_Driver,Reason_for_cancelling_by_Driver,Incomplete_Rides,Incomplete_Rides_Reason,Booking_Value,Ride_Distance,Driver_Ratings,Customer_Rating,Payment_Method
+14-09-2025,06:05:00,CNR2329187,Cancelled by Driver,CUST119927,Prime Plus,Malleshwaram,Sarakki,,,No,,Yes,More than permitted people in there,No,,,17.2,,,UPI
+06-09-2025,10:55:00,CNR4986941,Successful,CUST415779,Auto,Richmond Town,Koramangala 1st Block,3.2,5.2,No,,No,,No,,409,10.6,3.8,3.6,Wallet
+21-09-2025,07:04:00,CNR2859886,Incomplete,CUST977330,Prime SUV,Kudlu,Chamarajpet,,,No,,No,,Yes,Other Issue,,3,,,UPI
+20-09-2025,18:15:00,CNR3408819,Other,CUST405420,Mini,Ejipura,Sanjay Nagar,,,No,,No,,No,,,3.3,,,Card
+14-09-2025,17:20:00,CNR2436363,Successful,CUST648913,Prime SUV,Jayanagar,Shivaji Nagar,9.7,10.6,No,,No,,No,,100,10.4,4.4,5,Card
+25-09-2025,14:39:00,CNR1341153,Successful,CUST509420,Prime SUV,MG Road,Vijayanagar,11.8,13.1,No,,No,,No,,248,2.8,4.3,3.8,UPI
+14-09-2025,18:45:00,CNR1272499,Successful,CUST474440,Bike,Sanjay Nagar,Richmond Town,4.9,8.3,No,,No,,No,,740,15.2,4.3,4.3,UPI
+21-09-2025,19:10:00,CNR6578736,Cancelled by Driver,CUST239890,Auto,Chamarajpet,Kammanahalli,,,No,,Yes,Customer related issue,No,,,23.9,,,UPI
+27-09-2025,17:41:00,CNR8795078,Successful,CUST829168,Mini,Banashankari,HSR Layout,9.2,11.4,No,,No,,No,,240,5.4,5,4.5,UPI
+24-09-2025,13:48:00,CNR1620485,Successful,CUST407696,Prime Plus,Jalahalli,MG Road,8.8,9.3,No,,No,,No,,437,0.5,4.1,4.2,UPI
+11-09-2025,12:47:00,CNR8942330,Successful,CUST365618,Auto,Hosur Road,Jalahalli,1.7,3.8,No,,No,,No,,359,7,4.5,4.5,UPI
+28-09-2025,06:48:00,CNR6568772,Cancelled by Driver,CUST386488,Auto,Banerghatta Road,Koramangala 5th Block,,,No,,Yes,More than permitted people in there,No,,,9.5,,,UPI
+28-09-2025,12:35:00,CNR6688090,Successful,CUST295892,Mini,Ulsoor,Banerghatta Road,9.3,10.7,No,,No,,No,,796,15.9,4.6,5,UPI
+17-09-2025,19:40:00,CNR2385991,Successful,CUST862400,Mini,Koramangala 5th Block,Kudlu,7,9.7,No,,No,,No,,1342,38.6,5,4,UPI
+07-09-2025,11:00:00,CNR6389033,Cancelled by Customer,CUST207581,Auto,Bharathnagar,Marathahalli,,,Yes,Wrong Address,No,,No,,,6.3,,,Cash
+07-09-2025,13:34:00,CNR6897979,Successful,CUST568849,Auto,Sanjay Nagar,Ejipura,4.9,3.9,No,,No,,No,,1561,16.4,4.7,5,UPI
+09-09-2025,22:43:00,CNR1962308,Cancelled by Driver,CUST178686,Bike,Residency Road,Banerghatta Road,,,No,,Yes,Customer related issue,No,,,6.6,,,UPI
+28-09-2025,08:26:00,CNR8351320,Successful,CUST136489,Auto,Richmond Town,Sadananda Nagar,2.4,4.5,No,,No,,No,,351,8.3,4.3,5,UPI
+13-09-2025,22:12:00,CNR1543335,Cancelled by Driver,CUST734487,Auto,Airport Road,Banerghatta Road,,,No,,Yes,Personal & Car related issues,No,,,2.4,,,UPI
+19-09-2025,15:02:00,CNR7156398,Successful,CUST517368,Prime Sedan,Kundalahalli,Richmond Town,7.8,7.8,No,,No,,No,,798,12.2,4,4.1,Cash
+02-09-2025,09:10:00,CNR9372568,Successful,CUST642895,Mini,Sarakki,Yelahanka,9.3,8.7,No,,No,,No,,240,7,4.6,4.4,UPI
+09-09-2025,13:36:00,CNR4599894,Cancelled by Driver,CUST741599,Prime Sedan,Ulsoor,Jalahalli,,,No,,Yes,Personal & Car related issues,No,,,7.4,,,Card
+14-09-2025,21:20:00,CNR8467726,Successful,CUST192055,eBike,Basavanagudi,Bharathnagar,3,4.8,No,,No,,No,,301,3.5,4.6,3.9,Cash
+04-09-2025,15:15:00,CNR5871470,Successful,CUST414527,eBike,Ejipura,Ejipura,5.5,8.1,No,,No,,No,,753,21.4,4.9,5,UPI
+21-09-2025,19:32:00,CNR7064832,Cancelled by Customer,CUST633469,Prime Plus,Jalahalli,HSR Layout,,,Yes,Wrong Address,No,,No,,,5.1,,,UPI
+02-09-2025,15:27:00,CNR7189302,Successful,CUST590110,Bike,Sarakki,HSR Layout,2.4,6.1,No,,No,,No,,341,3.7,4.4,4,Card
+05-09-2025,11:16:00,CNR7680015,Successful,CUST851759,Bike,Shivaji Nagar,Koramangala 1st Block,3.9,4.1,No,,No,,No,,592,22.1,4.7,4.1,UPI
+27-09-2025,07:15:00,CNR3102634,Successful,CUST432427,Mini,Airport Road,Baiyappanahalli,4.1,7.4,No,,No,,No,,295,7.5,5,5,UPI
+13-09-2025,20:59:00,CNR4052834,Successful,CUST905077,Prime SUV,Koramangala 5th Block,Frazer Town,0.5,1.5,No,,No,,No,,590,15.1,4.1,5,Cash
+03-09-2025,08:07:00,CNR9692311,Cancelled by Driver,CUST260448,Prime Sedan,Rajajinagar,Basavanagudi,,,No,,Yes,Customer related issue,No,,,15.4,,,UPI
+13-09-2025,22:03:00,CNR9705660,Cancelled by Customer,CUST397846,eBike,Kalyan Nagar,Jalahalli,,,Yes,Change of plans,No,,No,,,10.3,,,Card
+06-09-2025,11:10:00,CNR9950276,Other,CUST197966,Mini,Rajajinagar,Peenya,,,No,,No,,No,,,25,,,Cash
+07-09-2025,17:14:00,CNR6664316,Cancelled by Driver,CUST983456,Prime SUV,MG Road,Indiranagar,,,No,,Yes,The customer was coughing/sick,No,,,3.1,,,UPI
+21-09-2025,19:05:00,CNR7989166,Successful,CUST748133,Mini,Ulsoor,Vijayanagar,8.9,6.5,No,,No,,No,,381,6.6,4.5,4.8,Wallet
+21-09-2025,11:09:00,CNR9102469,Other,CUST356773,Bike,Nagarbhavi,Residency Road,,,No,,No,,No,,,4.1,,,Card
+04-09-2025,07:01:00,CNR3652149,Successful,CUST560959,Mini,Baiyappanahalli,Electronic City,5.4,5.2,No,,No,,No,,225,4.5,4.2,4.9,UPI
+07-09-2025,20:42:00,CNR6357240,Successful,CUST869864,Prime SUV,Sanjay Nagar,Residency Road,13.7,16.8,No,,No,,No,,404,5.9,5,4.5,Card
+14-09-2025,15:35:00,CNR2781470,Cancelled by Driver,CUST434617,Prime Plus,Yelahanka,Kundalahalli,,,No,,Yes,Customer related issue,No,,,5.1,,,UPI
+06-09-2025,10:57:00,CNR7444964,Successful,CUST745270,Mini,Rajajinagar,Basavanagudi,12.5,15.2,No,,No,,No,,935,17.2,4.9,4.5,UPI
+21-09-2025,09:14:00,CNR3673322,Successful,CUST622469,Prime SUV,Baiyappanahalli,Ulsoor,6.2,8.2,No,,No,,No,,706,18.5,4.7,4.2,UPI
+15-09-2025,07:32:00,CNR7597509,Successful,CUST629996,Mini,Richmond Town,Electronic City,5.8,7.3,No,,No,,No,,193,6.7,4,4.5,UPI
+03-09-2025,10:48:00,CNR9302946,Successful,CUST726543,Prime SUV,Hosur Road,Nagarbhavi,7.8,9.3,No,,No,,No,,215,7,4.4,4.1,UPI
+17-09-2025,20:27:00,CNR2803501,Cancelled by Driver,CUST551860,Auto,Kalyan Nagar,Hulimavu,,,No,,Yes,More than permitted people in there,No,,,7.5,,,UPI
+13-09-2025,12:50:00,CNR1858283,Successful,CUST697983,Mini,Banerghatta Road,Sarakki,6.4,3.7,No,,No,,No,,499,8.9,4.4,4.1,Wallet
+14-09-2025,13:41:00,CNR5692934,Successful,CUST965401,Prime SUV,Nagarbhavi,Ejipura,16.6,17.2,No,,No,,No,,335,7,3.9,5,UPI
+29-09-2025,12:43:00,CNR7261229,Cancelled by Driver,CUST933510,Prime SUV,Sarakki,Banerghatta Road,,,No,,Yes,Customer related issue,No,,,25.4,,,Cash
+20-09-2025,12:51:00,CNR9389915,Successful,CUST142210,Auto,HSR Layout,Ejipura,4.5,7.4,No,,No,,No,,73,4.2,4.2,3.7,Cash
+14-09-2025,13:47:00,CNR3498809,Successful,CUST735710,Prime SUV,HSR Layout,Basavanagudi,14.9,18.3,No,,No,,No,,999,20,4.9,5,Card
+12-09-2025,12:42:00,CNR6020319,Cancelled by Driver,CUST722565,Prime Sedan,Frazer Town,Chamarajpet,,,No,,Yes,The customer was coughing/sick,No,,,8.1,,,UPI
+14-09-2025,06:17:00,CNR7180018,Successful,CUST447329,Bike,Koramangala 1st Block,Peenya,0.5,0.5,No,,No,,No,,471,0.7,4.6,4.7,UPI
+28-09-2025,20:53:00,CNR1447065,Successful,CUST725905,Mini,Hosur Road,Sadananda Nagar,7.4,10.8,No,,No,,No,,307,0.5,4.2,4.8,UPI
+07-09-2025,06:52:00,CNR9060593,Other,CUST278794,Mini,Hulimavu,Ejipura,,,No,,No,,No,,,13.2,,,UPI
+14-09-2025,20:01:00,CNR5063384,Successful,CUST133104,Mini,Sarjapur Road,Yelahanka,6.4,9.1,No,,No,,No,,296,2.9,4.9,4.2,UPI
+14-09-2025,13:08:00,CNR3540594,Successful,CUST533020,Bike,Koramangala 1st Block,Frazer Town,4.8,8.5,No,,No,,No,,767,16.3,4.5,4,Card
+28-09-2025,20:53:00,CNR2044906,Successful,CUST840058,Auto,Electronic City,Sarakki,4.3,6,No,,No,,No,,71,6.6,4.3,5,UPI
+21-09-2025,14:58:00,CNR7322070,Successful,CUST428993,Prime SUV,Baiyappanahalli,Chamarajpet,10.3,10.8,No,,No,,No,,393,2.9,4.4,4.1,UPI
+13-09-2025,19:10:00,CNR5435261,Cancelled by Customer,CUST739711,Mini,Richmond Town,Kundalahalli,,,Yes,Driver asked to cancel,No,,No,,,3.5,,,Cash
+28-09-2025,22:45:00,CNR5993143,Cancelled by Driver,CUST908634,Prime Sedan,Electronic City,Sarjapur Road,,,No,,Yes,The customer was coughing/sick,No,,,17.7,,,UPI
+14-09-2025,15:33:00,CNR5587856,Successful,CUST401769,Auto,Nagarbhavi,Chamarajpet,3.7,3.9,No,,No,,No,,276,3.3,4.8,4.1,UPI
+29-09-2025,19:58:00,CNR6790398,Successful,CUST910616,Bike,Marathahalli,MG Road,3.2,4.8,No,,No,,No,,33,1.1,4.1,4.3,UPI
+21-09-2025,11:54:00,CNR8421839,Successful,CUST787836,Prime Plus,Seshadripuram,Electronic City,5.4,7.6,No,,No,,No,,463,4.3,4.4,4.5,UPI
+18-09-2025,21:55:00,CNR5557052,Successful,CUST243941,Auto,Talaghattapura,Peenya,4.7,10.4,No,,No,,No,,231,9.5,4.7,4.3,UPI
+03-09-2025,21:26:00,CNR9909397,Cancelled by Customer,CUST336633,Mini,Brigade Road,Hebbal,,,Yes,Wrong Address,No,,No,,,4.8,,,Cash
+06-09-2025,19:09:00,CNR3306314,Successful,CUST105433,Prime SUV,Rajajinagar,Koramangala 1st Block,9.7,11.7,No,,No,,No,,30,3,4.9,3.8,UPI
+28-09-2025,14:07:00,CNR9010256,Successful,CUST782139,Prime Plus,Marathahalli,Basavanagudi,7.5,7.3,No,,No,,No,,484,7,4.6,4.3,UPI
+04-09-2025,19:07:00,CNR2500901,Incomplete,CUST783984,Mini,Chamarajpet,Talaghattapura,,,No,,No,,Yes,Customer Demand,,20,,,UPI
+28-09-2025,08:59:00,CNR8010946,Successful,CUST978292,Auto,MG Road,Residency Road,5,7.3,No,,No,,No,,999,14.9,5,4.1,UPI
+07-09-2025,18:46:00,CNR5856449,Successful,CUST139286,Auto,Yeshwantpur,Kudlu,6.4,9.4,No,,No,,No,,125,0.7,4.8,4.6,UPI
+30-09-2025,10:51:00,CNR8622712,Successful,CUST772464,Mini,Ulsoor,HSR Layout,6.3,4.4,No,,No,,No,,581,20.8,5,4.4,UPI
+14-09-2025,09:17:00,CNR2889899,Successful,CUST446747,Auto,Baiyappanahalli,Hosur Road,1.3,0.5,No,,No,,No,,248,3,4.5,4.4,UPI
+07-09-2025,18:34:00,CNR6655803,Successful,CUST929179,Prime Sedan,Nagarbhavi,Chikkabanavara,6.4,7.9,No,,No,,No,,30,5.8,4.6,4.6,UPI
+20-09-2025,16:54:00,CNR7802999,Successful,CUST967161,Mini,Basavanagudi,Whitefield,2.1,5.8,No,,No,,No,,290,4.3,5,3.5,Card
+06-09-2025,22:45:00,CNR3359075,Successful,CUST600646,Prime Sedan,Richmond Town,Koramangala,8.2,8.7,No,,No,,No,,261,4.9,4.8,3.9,Wallet
+07-09-2025,18:51:00,CNR5479421,Successful,CUST445637,Prime Sedan,Hulimavu,Yeshwantpur,10.5,11.4,No,,No,,No,,419,5.3,4.7,3.9,UPI
+21-09-2025,17:49:00,CNR4964499,Successful,CUST165142,Bike,Baiyappanahalli,Kengeri,6.5,3.8,No,,No,,No,,451,5.4,5,4.6,Cash
+21-09-2025,21:45:00,CNR6217344,Incomplete,CUST823821,Auto,Marathahalli,Banerghatta Road,,,No,,No,,Yes,Customer Demand,,4.4,,,Cash
+28-09-2025,14:09:00,CNR3570027,Cancelled by Driver,CUST577079,Bike,Kudlu,Banerghatta Road,,,No,,Yes,More than permitted people in there,No,,,5.9,,,Cash
+23-09-2025,19:41:00,CNR4664338,Incomplete,CUST898867,Prime Plus,Chikkabanavara,Kudlu,,,No,,No,,Yes,Customer Demand,,18.7,,,UPI
+17-09-2025,15:00:00,CNR7069742,Successful,CUST181896,Prime SUV,Yelahanka,Brigade Road,8.4,10.6,No,,No,,No,,722,15.8,4.2,4.1,UPI
+28-09-2025,09:27:00,CNR3514105,Incomplete,CUST272529,Prime Sedan,Shivaji Nagar,Airport Road,,,No,,No,,Yes,Customer Demand,,3.1,,,UPI
+21-09-2025,14:20:00,CNR2525747,Cancelled by Driver,CUST635167,Mini,Brigade Road,Baiyappanahalli,,,No,,Yes,More than permitted people in there,No,,,0.9,,,UPI
+14-09-2025,06:59:00,CNR8757420,Successful,CUST805448,Bike,Hulimavu,Indiranagar,4.7,7.2,No,,No,,No,,466,7.4,4.3,4.6,UPI
+27-09-2025,18:43:00,CNR4655777,Successful,CUST706403,Auto,Koramangala 5th Block,Sanjay Nagar,2.4,4.3,No,,No,,No,,733,14.3,4.3,4.9,UPI
+18-09-2025,07:01:00,CNR2157949,Cancelled by Driver,CUST595002,Auto,Koramangala 1st Block,Banashankari,,,No,,Yes,More than permitted people in there,No,,,18.7,,,UPI
+14-09-2025,21:12:00,CNR7416943,Successful,CUST570325,Prime SUV,Cooke Town,Cooke Town,10.9,13.7,No,,No,,No,,499,5.7,5,4.8,UPI
+29-09-2025,20:55:00,CNR3231198,Cancelled by Driver,CUST785280,Prime SUV,Yelahanka,Banashankari,,,No,,Yes,More than permitted people in there,No,,,26.3,,,Card
+17-09-2025,18:25:00,CNR4736121,Incomplete,CUST975373,Auto,Indiranagar,Kengeri,,,No,,No,,Yes,Other Issue,,5.8,,,UPI
+18-09-2025,15:04:00,CNR7363203,Successful,CUST963355,Prime Plus,Baiyappanahalli,Sanjay Nagar,10.4,8.6,No,,No,,No,,324,6.5,4.6,4.6,UPI
+07-09-2025,20:56:00,CNR2893218,Successful,CUST133782,Bike,Koramangala 1st Block,Ejipura,4.2,5.9,No,,No,,No,,925,10.3,4.4,4.3,UPI
+28-09-2025,06:16:00,CNR5037710,Successful,CUST316092,Auto,Kudlu,MG Road,4.3,2.8,No,,No,,No,,266,6.7,4.7,4.9,UPI
+21-09-2025,20:53:00,CNR1816653,Cancelled by Driver,CUST356622,Bike,Residency Road,Airport Road,,,No,,Yes,Customer related issue,No,,,9.2,,,UPI
+23-09-2025,19:14:00,CNR1946973,Successful,CUST246942,Mini,Marathahalli,Banaswadi,9.9,8.7,No,,No,,No,,622,26.5,4,4,UPI
+22-09-2025,11:26:00,CNR6379867,Successful,CUST348411,Prime Sedan,Malleshwaram,Bharathnagar,5.3,7.6,No,,No,,No,,157,5.9,4.5,4.7,UPI
+14-09-2025,10:41:00,CNR2022699,Successful,CUST683761,Prime SUV,Talaghattapura,Banashankari,13.4,13.2,No,,No,,No,,355,13.4,4.8,4.2,UPI
+14-09-2025,14:27:00,CNR1786584,Successful,CUST461145,Prime SUV,Bharathnagar,Cooke Town,10.8,16.3,No,,No,,No,,993,19.2,4.5,4.1,UPI
+12-09-2025,13:06:00,CNR7849452,Other,CUST256466,Prime Sedan,Banashankari,Chikkabanavara,,,No,,No,,No,,,3.8,,,UPI
+08-09-2025,09:50:00,CNR6045519,Successful,CUST999197,Bike,Baiyappanahalli,Brigade Road,4.8,7.7,No,,No,,No,,246,11.4,5,4.8,Card
+29-09-2025,15:30:00,CNR9891787,Successful,CUST240606,Mini,Kalyan Nagar,Electronic City,9,10.8,No,,No,,No,,206,7.8,4.9,4.1,UPI
+05-09-2025,13:40:00,CNR7225647,Successful,CUST196955,Mini,Jalahalli,Brigade Road,8.8,9.7,No,,No,,No,,294,4.8,4.5,4.6,Cash
+21-09-2025,16:17:00,CNR1663497,Cancelled by Driver,CUST176319,Prime Plus,Chikkabanavara,Peenya,,,No,,Yes,Customer related issue,No,,,17.4,,,Cash
+14-09-2025,20:50:00,CNR6586214,Cancelled by Customer,CUST417915,Prime SUV,Koramangala,Electronic City,,,Yes,Driver is not moving towards pickup location,No,,No,,,21.6,,,Cash
+23-09-2025,18:52:00,CNR9034958,Successful,CUST354377,Bike,Ejipura,Electronic City,4.2,6.5,No,,No,,No,,272,4.7,5,4.5,Card
+07-09-2025,11:29:00,CNR5748945,Other,CUST499152,Mini,Hosur Road,Sanjay Nagar,,,No,,No,,No,,,11.6,,,UPI
+13-09-2025,21:03:00,CNR9342928,Other,CUST588640,Auto,Hulimavu,Seshadripuram,,,No,,No,,No,,,4.8,,,UPI
+12-09-2025,09:28:00,CNR7219396,Successful,CUST428122,Mini,Yeshwantpur,Banaswadi,5,10.2,No,,No,,No,,766,15,4,3.7,UPI
+01-09-2025,15:26:00,CNR8005797,Other,CUST409531,Auto,Kammanahalli,Banaswadi,,,No,,No,,No,,,5.9,,,UPI
+27-09-2025,14:31:00,CNR6663388,Other,CUST369826,Bike,Ulsoor,Hulimavu,,,No,,No,,No,,,5.3,,,UPI
+15-09-2025,08:52:00,CNR6908535,Cancelled by Driver,CUST277487,Auto,Chamarajpet,Ulsoor,,,No,,Yes,Personal & Car related issues,No,,,2.2,,,Cash
+17-09-2025,20:19:00,CNR2247057,Successful,CUST957730,Bike,Chikkabanavara,Koramangala,4.1,7,No,,No,,No,,423,5.8,4.4,5,Cash
+27-09-2025,09:56:00,CNR2140312,Successful,CUST841521,Auto,Electronic City,Frazer Town,2.1,2.7,No,,No,,No,,211,11.4,3.6,3.7,UPI
+04-09-2025,16:53:00,CNR9106820,Cancelled by Driver,CUST791309,Mini,Koramangala,Chamarajpet,,,No,,Yes,Personal & Car related issues,No,,,8.4,,,UPI
+01-09-2025,18:19:00,CNR5609384,Successful,CUST661762,Prime SUV,Indiranagar,Frazer Town,9.3,6.7,No,,No,,No,,763,12.2,4.3,4.2,UPI
+21-09-2025,19:45:00,CNR4007598,Successful,CUST212214,Prime SUV,Shivaji Nagar,Malleshwaram,8.6,11.5,No,,No,,No,,162,5.2,4.8,4.9,Card
+21-09-2025,10:18:00,CNR6946534,Successful,CUST380310,Bike,Whitefield,Banerghatta Road,4.4,4.9,No,,No,,No,,994,24.3,4.5,4.7,UPI
+14-09-2025,10:09:00,CNR4789255,Successful,CUST414546,Bike,Whitefield,Hosur Road,5,6,No,,No,,No,,1946,28.1,3.9,4.7,UPI
+21-09-2025,06:32:00,CNR2568678,Cancelled by Driver,CUST524965,Prime Sedan,Sarakki,Seshadripuram,,,No,,Yes,Personal & Car related issues,No,,,4.6,,,UPI
+21-09-2025,07:24:00,CNR9386232,Successful,CUST986392,Mini,Kammanahalli,Yeshwantpur,10.5,13.8,No,,No,,No,,999,10.6,4.9,3.7,UPI
+29-09-2025,21:16:00,CNR9861040,Successful,CUST144618,Prime Plus,Sarjapur Road,Yeshwantpur,7.2,9.8,No,,No,,No,,427,10.1,4.3,4.9,UPI
+03-09-2025,07:16:00,CNR5703878,Successful,CUST669408,Mini,MG Road,Banashankari,3.2,5.7,No,,No,,No,,500,24.9,4.4,3.9,UPI
+11-09-2025,22:24:00,CNR4475536,Successful,CUST715551,Auto,Ejipura,Residency Road,3.7,6,No,,No,,No,,849,15,4.6,5,UPI
+11-09-2025,15:37:00,CNR5034453,Successful,CUST694223,eBike,Cooke Town,Nagarbhavi,3,0.5,No,,No,,No,,735,16.4,4.8,4.7,UPI
+12-09-2025,18:53:00,CNR3347981,Successful,CUST928897,Prime SUV,Hulimavu,Whitefield,8.7,9.8,No,,No,,No,,369,0.5,4.5,4.9,UPI
+29-09-2025,06:54:00,CNR2638895,Cancelled by Customer,CUST558320,Prime Plus,Jayanagar,Kammanahalli,,,Yes,AC is not working (Only for 4-wheelers),No,,No,,,6.5,,,Wallet
+28-09-2025,12:46:00,CNR6475691,Successful,CUST131064,Mini,Airport Road,Ulsoor,10.9,10.1,No,,No,,No,,367,13.2,4.7,4.1,UPI
+18-09-2025,12:24:00,CNR8245206,Successful,CUST294760,Bike,Bharathnagar,Cooke Town,2.8,5.5,No,,No,,No,,242,7,4.7,4.4,UPI
+21-09-2025,19:37:00,CNR5134741,Successful,CUST847748,Auto,Kundalahalli,Malleshwaram,3.2,0.5,No,,No,,No,,499,5.5,4.3,3.8,Card
+25-09-2025,08:37:00,CNR7536772,Cancelled by Driver,CUST432061,Prime Sedan,Whitefield,Koramangala,,,No,,Yes,More than permitted people in there,No,,,24.1,,,Cash
+13-09-2025,10:36:00,CNR2715158,Cancelled by Driver,CUST238943,Auto,Koramangala 5th Block,Airport Road,,,No,,Yes,More than permitted people in there,No,,,12.8,,,UPI
+06-09-2025,07:31:00,CNR6937696,Other,CUST681141,Auto,Kudlu,Basavanagudi,,,No,,No,,No,,,16.1,,,UPI
+01-09-2025,13:03:00,CNR7506196,Successful,CUST917018,Auto,Sarakki,Richmond Town,2.8,5.8,No,,No,,No,,30,12.9,4.5,4.6,UPI
+07-09-2025,12:29:00,CNR3843767,Cancelled by Driver,CUST245584,Prime Sedan,Kundalahalli,Ulsoor,,,No,,Yes,Customer related issue,No,,,3.7,,,Card
+14-09-2025,13:11:00,CNR6029008,Cancelled by Driver,CUST607753,Bike,Banerghatta Road,Kalyan Nagar,,,No,,Yes,More than permitted people in there,No,,,7.8,,,Wallet
+20-09-2025,09:20:00,CNR8681643,Incomplete,CUST212168,Auto,Koramangala,Residency Road,,,No,,No,,Yes,Other Issue,,3,,,UPI
+14-09-2025,20:42:00,CNR6528792,Successful,CUST561607,Prime Sedan,Hosur Road,Kudlu,9.9,9.5,No,,No,,No,,146,6.5,4.6,3.8,Card
+12-09-2025,22:10:00,CNR4369728,Successful,CUST602278,Prime Sedan,Residency Road,Basavanagudi,7.1,8.8,No,,No,,No,,177,7,4.6,4.5,UPI
+21-09-2025,14:22:00,CNR5067204,Cancelled by Driver,CUST441716,Prime Sedan,Residency Road,Banerghatta Road,,,No,,Yes,Customer related issue,No,,,3.9,,,UPI
+20-09-2025,15:18:00,CNR4018677,Successful,CUST814827,Bike,Indiranagar,Hulimavu,1.3,3.4,No,,No,,No,,213,1.8,4.3,5,UPI
+21-09-2025,13:28:00,CNR5887726,Successful,CUST971662,Bike,Koramangala 1st Block,Nagarbhavi,6.2,6.6,No,,No,,No,,134,6.9,4.1,4.5,UPI
+21-09-2025,10:07:00,CNR5239295,Successful,CUST790658,Auto,Koramangala 5th Block,Cooke Town,5.9,5.4,No,,No,,No,,499,3.6,4.3,3.9,UPI
+30-09-2025,14:10:00,CNR7724393,Cancelled by Driver,CUST660324,Mini,Sarjapur Road,Koramangala 1st Block,,,No,,Yes,The customer was coughing/sick,No,,,3.7,,,Card
+21-09-2025,19:51:00,CNR2425760,Incomplete,CUST214682,Bike,Bharathnagar,Bharathnagar,,,No,,No,,Yes,Other Issue,,1.3,,,UPI
+21-09-2025,15:36:00,CNR7704473,Other,CUST889245,Prime Sedan,Koramangala 5th Block,Hebbal,,,No,,No,,No,,,8.5,,,UPI
+08-09-2025,14:42:00,CNR9703982,Other,CUST685098,Mini,Yeshwantpur,Banaswadi,,,No,,No,,No,,,7.1,,,UPI
+14-09-2025,19:10:00,CNR9396422,Successful,CUST258067,Prime Sedan,Indiranagar,Seshadripuram,7.5,9.3,No,,No,,No,,496,2.4,4,4.4,UPI
+14-09-2025,22:24:00,CNR2440404,Cancelled by Driver,CUST221707,eBike,Hulimavu,Malleshwaram,,,No,,Yes,The customer was coughing/sick,No,,,3.8,,,Wallet
+14-09-2025,09:31:00,CNR9742856,Successful,CUST606384,Prime Sedan,Hebbal,Airport Road,7.5,8.4,No,,No,,No,,999,24.5,4.7,4.4,Card
+14-09-2025,07:08:00,CNR6037595,Successful,CUST146853,eBike,Yelahanka,Indiranagar,3.7,5.2,No,,No,,No,,999,23.7,4.9,4.5,UPI
+21-09-2025,17:33:00,CNR3757404,Successful,CUST876459,Prime Plus,Banashankari,Sarakki,8,7.7,No,,No,,No,,297,8.8,4.6,4.5,UPI
+19-09-2025,22:21:00,CNR8751982,Successful,CUST343118,Bike,Vijayanagar,Banashankari,4.2,4.5,No,,No,,No,,380,7.4,4.3,4.5,UPI
+21-09-2025,12:45:00,CNR1489765,Cancelled by Customer,CUST873207,Mini,Jalahalli,Airport Road,,,Yes,Wrong Address,No,,No,,,5.8,,,UPI
+01-09-2025,09:39:00,CNR4452490,Cancelled by Driver,CUST391865,Bike,Jayanagar,Yeshwantpur,,,No,,Yes,Customer related issue,No,,,6.2,,,Cash
+13-09-2025,09:21:00,CNR8676422,Other,CUST219490,Prime Sedan,Ulsoor,Shivaji Nagar,,,No,,No,,No,,,12.4,,,UPI
+11-09-2025,12:37:00,CNR7585795,Successful,CUST715519,Auto,Sanjay Nagar,Baiyappanahalli,4.3,5.2,No,,No,,No,,232,2.4,4.2,4.6,UPI
+26-09-2025,18:02:00,CNR5990296,Successful,CUST744333,Mini,Nagarbhavi,HSR Layout,2.6,1.8,No,,No,,No,,269,6,3.7,4.8,UPI
+07-09-2025,07:59:00,CNR4070977,Cancelled by Customer,CUST491439,Bike,Frazer Town,Cooke Town,,,Yes,Driver asked to cancel,No,,No,,,4.3,,,UPI
+20-09-2025,13:13:00,CNR4116429,Successful,CUST610310,Mini,Sarjapur Road,Hosur Road,7.7,8.9,No,,No,,No,,500,14.7,4.6,4,UPI
+07-09-2025,08:50:00,CNR9214830,Successful,CUST402865,Auto,Basavanagudi,Airport Road,4.8,5.1,No,,No,,No,,246,3.3,5,4.8,Card
+28-09-2025,22:14:00,CNR1160783,Successful,CUST608149,Auto,Cooke Town,Sarakki,3.6,3.7,No,,No,,No,,239,12.5,5,4.6,UPI
+15-09-2025,17:41:00,CNR9249791,Cancelled by Driver,CUST535820,Bike,Airport Road,Ulsoor,,,No,,Yes,Personal & Car related issues,No,,,6.6,,,UPI
+25-09-2025,09:45:00,CNR5900455,Cancelled by Driver,CUST134283,Prime Sedan,Chamarajpet,Marathahalli,,,No,,Yes,More than permitted people in there,No,,,3.1,,,Cash
+19-09-2025,19:11:00,CNR9309978,Successful,CUST676429,Mini,Yeshwantpur,Yelahanka,9.8,10.7,No,,No,,No,,394,4,4.3,5,Cash
+18-09-2025,22:54:00,CNR7154919,Successful,CUST668373,eBike,MG Road,Chikkabanavara,4.5,8.1,No,,No,,No,,783,20.7,4.3,4.1,UPI
+18-09-2025,22:53:00,CNR8132912,Successful,CUST207391,Bike,Hosur Road,Chikkabanavara,1.6,2.8,No,,No,,No,,124,0.5,4.5,4.4,Card
+28-09-2025,06:33:00,CNR8545256,Successful,CUST375581,Prime Sedan,Whitefield,Airport Road,3.2,5.9,No,,No,,No,,999,20.9,5,4.5,UPI
+06-09-2025,19:51:00,CNR4975295,Other,CUST320073,eBike,Peenya,Sarjapur Road,,,No,,No,,No,,,11.1,,,UPI
+21-09-2025,16:47:00,CNR8183451,Cancelled by Driver,CUST274044,Mini,Electronic City,Electronic City,,,No,,Yes,The customer was coughing/sick,No,,,33.6,,,Card
+17-09-2025,16:11:00,CNR3824903,Successful,CUST439375,Prime SUV,Marathahalli,Marathahalli,7.4,7.7,No,,No,,No,,317,0.7,4.6,5,Card
+28-09-2025,14:46:00,CNR2597613,Cancelled by Driver,CUST242175,Prime SUV,Koramangala 1st Block,Brigade Road,,,No,,Yes,Customer related issue,No,,,20.6,,,UPI
+21-09-2025,08:15:00,CNR5188889,Successful,CUST253347,Bike,Richmond Town,Chikkabanavara,2.5,3.1,No,,No,,No,,958,25.2,4.9,4.3,UPI
+14-09-2025,08:25:00,CNR5508325,Successful,CUST758309,Mini,Airport Road,Jayanagar,4.7,5.1,No,,No,,No,,499,4.8,4.7,5,Card
+28-09-2025,07:35:00,CNR7758714,Incomplete,CUST640659,Bike,Sarjapur Road,Banerghatta Road,,,No,,No,,Yes,Vehicle Breakdown,,12.2,,,Card
+12-09-2025,06:02:00,CNR2562657,Successful,CUST866437,Prime SUV,Vijayanagar,Bharathnagar,8.1,11.5,No,,No,,No,,395,9.1,4.4,5,UPI
+27-09-2025,19:34:00,CNR9966154,Successful,CUST517035,Prime Plus,Koramangala 5th Block,Electronic City,11.7,15.6,No,,No,,No,,141,5.4,4.8,4.4,UPI
+12-09-2025,10:50:00,CNR6666591,Successful,CUST673896,Mini,Yeshwantpur,Ulsoor,5.6,6.8,No,,No,,No,,556,15.8,4.2,3.7,Cash
+28-09-2025,19:00:00,CNR1812172,Cancelled by Customer,CUST148174,Auto,Baiyappanahalli,Indiranagar,,,Yes,Driver asked to cancel,No,,No,,,4.4,,,Cash
+14-09-2025,06:00:00,CNR8177281,Cancelled by Driver,CUST312146,Prime SUV,HSR Layout,Hosur Road,,,No,,Yes,The customer was coughing/sick,No,,,0.5,,,UPI
+06-09-2025,12:09:00,CNR5200835,Cancelled by Customer,CUST186424,Prime Sedan,Hosur Road,Rajajinagar,,,Yes,Change of plans,No,,No,,,11.3,,,UPI
+22-09-2025,18:53:00,CNR4928281,Successful,CUST550081,Mini,Ejipura,Hebbal,7.1,6.8,No,,No,,No,,449,4.6,4.1,4.4,UPI
+14-09-2025,08:15:00,CNR4794852,Cancelled by Customer,CUST644676,Bike,Koramangala,Koramangala,,,Yes,Driver is not moving towards pickup location,No,,No,,,8.7,,,UPI
+30-09-2025,13:12:00,CNR3217531,Other,CUST600905,Auto,Cooke Town,Whitefield,,,No,,No,,No,,,27,,,UPI
+06-09-2025,11:20:00,CNR7166661,Successful,CUST413791,Auto,Sadananda Nagar,Chikkabanavara,1.3,1.7,No,,No,,No,,824,17.9,4.9,3.9,UPI
+21-09-2025,17:33:00,CNR3396676,Successful,CUST171734,Mini,Koramangala,Ejipura,10.6,10.1,No,,No,,No,,356,1.9,4.6,4.7,Card
+14-09-2025,18:19:00,CNR4574477,Successful,CUST758589,Bike,Koramangala 1st Block,Ejipura,0.5,0.5,No,,No,,No,,416,6.5,4.8,5,Wallet
+28-09-2025,07:28:00,CNR2685524,Successful,CUST246814,Bike,Peenya,Hulimavu,6.8,8.9,No,,No,,No,,315,3.8,4.5,4.4,UPI
+29-09-2025,11:22:00,CNR3345961,Successful,CUST359822,Prime Sedan,Whitefield,Richmond Town,5.2,3.8,No,,No,,No,,62,8.6,4.8,4.2,UPI
+20-09-2025,16:22:00,CNR5780177,Successful,CUST916808,Prime SUV,Indiranagar,Bharathnagar,7.8,8.6,No,,No,,No,,999,24.5,4.4,4,UPI
+07-09-2025,16:21:00,CNR9548370,Other,CUST297810,Bike,Marathahalli,Hosur Road,,,No,,No,,No,,,12.2,,,Wallet
+28-09-2025,22:17:00,CNR5015476,Cancelled by Driver,CUST618927,Mini,Richmond Town,Ulsoor,,,No,,Yes,Personal & Car related issues,No,,,6.1,,,UPI
+17-09-2025,22:41:00,CNR1202450,Incomplete,CUST478638,Prime SUV,HSR Layout,Cooke Town,,,No,,No,,Yes,Other Issue,,17.5,,,UPI
+14-09-2025,15:19:00,CNR3898604,Successful,CUST899776,Mini,Sadananda Nagar,Jayanagar,9.7,10.5,No,,No,,No,,380,2.8,4.7,4.4,UPI
+04-09-2025,10:28:00,CNR4619565,Successful,CUST141761,Prime SUV,Residency Road,Frazer Town,13.5,13,No,,No,,No,,270,10,4.2,4.9,UPI
+21-09-2025,19:05:00,CNR7969792,Successful,CUST544150,Bike,Whitefield,Vijayanagar,4,4.6,No,,No,,No,,394,5.3,4.8,4.5,UPI
+21-09-2025,10:44:00,CNR2402526,Successful,CUST424960,Auto,Electronic City,Malleshwaram,1.8,5,No,,No,,No,,176,7,4.1,4.6,Card
+14-09-2025,16:49:00,CNR2109227,Successful,CUST425236,Bike,Hulimavu,Richmond Town,4.5,5.5,No,,No,,No,,499,3,4.9,5,UPI
+05-09-2025,13:24:00,CNR2945931,Successful,CUST575394,Mini,Brigade Road,Kengeri,8.8,11.7,No,,No,,No,,234,3.1,4.2,4.8,Card
+21-09-2025,08:59:00,CNR3003921,Successful,CUST113280,Bike,Sarjapur Road,Koramangala,2.2,3,No,,No,,No,,273,8.2,4.6,4.3,Cash
+28-09-2025,14:55:00,CNR9677559,Cancelled by Driver,CUST921021,eBike,Kalyan Nagar,Rajajinagar,,,No,,Yes,The customer was coughing/sick,No,,,1.2,,,UPI
+22-09-2025,08:00:00,CNR1492516,Successful,CUST451284,Bike,Kundalahalli,Shivaji Nagar,5.8,9.3,No,,No,,No,,123,2.8,4.6,4.6,UPI
+21-09-2025,15:50:00,CNR2293020,Successful,CUST620248,Mini,Banerghatta Road,Brigade Road,9.4,13.5,No,,No,,No,,462,0.5,5,4.9,UPI
+19-09-2025,12:16:00,CNR3639223,Successful,CUST367508,Bike,Yeshwantpur,Nagarbhavi,4.2,4.5,No,,No,,No,,711,8.4,4.5,4.1,UPI
+07-09-2025,14:41:00,CNR1043092,Incomplete,CUST146177,eBike,Koramangala,Richmond Town,,,No,,No,,Yes,Vehicle Breakdown,,4.2,,,Wallet
+14-09-2025,08:33:00,CNR4002466,Successful,CUST999138,Auto,Ejipura,Talaghattapura,2.7,2.7,No,,No,,No,,306,4.7,4.7,5,UPI
+07-09-2025,10:14:00,CNR7983626,Successful,CUST855276,Prime Sedan,Jayanagar,Yeshwantpur,6.2,11.5,No,,No,,No,,31,6.3,4.6,4.1,Cash
+16-09-2025,21:23:00,CNR1883692,Successful,CUST288056,Prime Plus,Shivaji Nagar,MG Road,8.2,11.5,No,,No,,No,,500,7.2,4.3,4.1,UPI
+04-09-2025,13:56:00,CNR5736323,Other,CUST911102,eBike,Basavanagudi,Whitefield,,,No,,No,,No,,,3.8,,,Card
+01-09-2025,09:25:00,CNR5892153,Successful,CUST691194,Bike,Talaghattapura,Ejipura,5,6.3,No,,No,,No,,224,3,4.4,4.9,UPI
+13-09-2025,22:35:00,CNR9277218,Other,CUST910143,Bike,Hulimavu,Chamarajpet,,,No,,No,,No,,,23.7,,,Card
+08-09-2025,06:06:00,CNR7879264,Successful,CUST125071,Prime Plus,Sanjay Nagar,Vijayanagar,7.1,8.8,No,,No,,No,,743,14.3,4.5,4,Cash
+28-09-2025,22:13:00,CNR6620658,Cancelled by Driver,CUST101533,Bike,Cooke Town,Talaghattapura,,,No,,Yes,Personal & Car related issues,No,,,12.8,,,Card
+07-09-2025,22:46:00,CNR4995789,Successful,CUST540208,Mini,Brigade Road,Malleshwaram,8.5,10.6,No,,No,,No,,999,20.6,4.7,4.4,UPI
+06-09-2025,21:43:00,CNR4883465,Other,CUST986575,Mini,Sarjapur Road,Banerghatta Road,,,No,,No,,No,,,8.4,,,UPI
+23-09-2025,15:54:00,CNR2603516,Successful,CUST629979,Auto,Residency Road,Jayanagar,1.2,4.3,No,,No,,No,,40,9.9,4.9,5,Cash
+04-09-2025,17:18:00,CNR3192921,Cancelled by Driver,CUST348273,Prime Sedan,Basavanagudi,Residency Road,,,No,,Yes,The customer was coughing/sick,No,,,16.7,,,Card
+12-09-2025,10:38:00,CNR4919346,Successful,CUST178315,Prime SUV,HSR Layout,Sadananda Nagar,6.6,7.2,No,,No,,No,,500,13.2,4.4,4.8,UPI
+06-09-2025,07:48:00,CNR3757754,Cancelled by Customer,CUST571404,Mini,Koramangala 1st Block,Yelahanka,,,Yes,Driver asked to cancel,No,,No,,,4.7,,,UPI
+14-09-2025,13:54:00,CNR5446095,Cancelled by Driver,CUST993892,Auto,Rajajinagar,Nagarbhavi,,,No,,Yes,Personal & Car related issues,No,,,5.7,,,Card
+07-09-2025,20:37:00,CNR6499465,Successful,CUST255528,Auto,Richmond Town,Sanjay Nagar,6.3,8.7,No,,No,,No,,256,5.2,4,3.9,Cash
+03-09-2025,11:06:00,CNR5364874,Successful,CUST959926,Prime SUV,Indiranagar,Residency Road,5.6,6.8,No,,No,,No,,520,18.9,4.2,3.5,UPI
+19-09-2025,15:23:00,CNR5191831,Cancelled by Driver,CUST199326,Mini,HSR Layout,Yelahanka,,,No,,Yes,Customer related issue,No,,,2.8,,,Card
+07-09-2025,20:03:00,CNR7720647,Successful,CUST490321,Bike,Hosur Road,Whitefield,0.5,1.8,No,,No,,No,,348,12.2,5,3.7,UPI
+08-09-2025,19:52:00,CNR2258076,Successful,CUST122859,Prime SUV,Jalahalli,Hosur Road,10.8,13.1,No,,No,,No,,280,7.4,4.4,5,UPI
+06-09-2025,21:26:00,CNR6562484,Successful,CUST228479,Auto,Baiyappanahalli,Brigade Road,6.9,8.8,No,,No,,No,,304,0.7,4.6,4.6,UPI
+19-09-2025,20:01:00,CNR7626978,Successful,CUST620226,Auto,Nagarbhavi,Koramangala 5th Block,1.9,4.7,No,,No,,No,,312,7.9,4.5,4.5,UPI
+07-09-2025,09:11:00,CNR5613428,Successful,CUST393448,Mini,Malleshwaram,MG Road,5,7.5,No,,No,,No,,254,9.4,4.9,4.8,UPI
+21-09-2025,17:02:00,CNR5951043,Incomplete,CUST623125,Mini,Sarakki,Seshadripuram,,,No,,No,,Yes,Vehicle Breakdown,,7.3,,,Card
+14-09-2025,13:09:00,CNR4346346,Successful,CUST773870,Prime SUV,Shivaji Nagar,Richmond Town,7.7,7.8,No,,No,,No,,432,8.3,4.5,4.1,UPI
+26-09-2025,19:33:00,CNR1327658,Successful,CUST501078,Bike,Sanjay Nagar,Seshadripuram,2.7,2.3,No,,No,,No,,213,0.5,4.7,4.4,UPI
+15-09-2025,21:34:00,CNR9428760,Successful,CUST437226,Mini,Banashankari,Indiranagar,7.4,12.5,No,,No,,No,,218,0.5,4.9,4.6,Card
+07-09-2025,21:17:00,CNR5713268,Incomplete,CUST161437,Bike,Seshadripuram,Shivaji Nagar,,,No,,No,,Yes,Other Issue,,8.4,,,Wallet
+30-09-2025,22:37:00,CNR3678059,Successful,CUST204998,Prime Plus,Richmond Town,Kundalahalli,7.2,7.9,No,,No,,No,,133,7.4,4.2,4.6,UPI
+25-09-2025,18:34:00,CNR1937991,Successful,CUST901164,Prime SUV,Banaswadi,Yeshwantpur,6.4,5.2,No,,No,,No,,576,24.7,4.1,4.3,Card
+26-09-2025,12:03:00,CNR3914404,Other,CUST284654,Prime Plus,Basavanagudi,Talaghattapura,,,No,,No,,No,,,6.8,,,UPI
+28-09-2025,06:28:00,CNR6900247,Cancelled by Customer,CUST695225,Mini,Yeshwantpur,Jalahalli,,,Yes,Wrong Address,No,,No,,,23.1,,,UPI
+18-09-2025,08:59:00,CNR9228157,Successful,CUST139807,Auto,Banaswadi,Kudlu,4.8,8.8,No,,No,,No,,233,7.2,4.4,4.6,UPI
+17-09-2025,06:00:00,CNR6565572,Cancelled by Driver,CUST743966,Prime Plus,HSR Layout,Kammanahalli,,,No,,Yes,The customer was coughing/sick,No,,,16.1,,,UPI
+04-09-2025,08:31:00,CNR3376537,Successful,CUST911982,Auto,Shivaji Nagar,Banerghatta Road,2.6,3.1,No,,No,,No,,792,25.2,4.3,4.3,UPI
+14-09-2025,22:04:00,CNR7636992,Cancelled by Driver,CUST714483,Auto,Kengeri,Basavanagudi,,,No,,Yes,Customer related issue,No,,,7,,,Card
+22-09-2025,13:27:00,CNR9173859,Cancelled by Customer,CUST780714,Prime Sedan,Ejipura,Sarakki,,,Yes,AC is not working (Only for 4-wheelers),No,,No,,,7.9,,,Cash
+25-09-2025,09:48:00,CNR3941912,Successful,CUST496764,Prime Sedan,Sarjapur Road,Marathahalli,8.2,12,No,,No,,No,,113,9.1,3.9,5,UPI
+22-09-2025,22:11:00,CNR7569981,Successful,CUST992083,Prime SUV,Yeshwantpur,MG Road,11.1,12.1,No,,No,,No,,141,7.9,4,3.2,UPI
+12-09-2025,19:48:00,CNR4706007,Cancelled by Driver,CUST770718,Mini,Ulsoor,Malleshwaram,,,No,,Yes,Personal & Car related issues,No,,,13.2,,,UPI
+07-09-2025,22:45:00,CNR6360633,Incomplete,CUST276042,Mini,Whitefield,Ejipura,,,No,,No,,Yes,Other Issue,,5.9,,,UPI
+28-09-2025,13:37:00,CNR1191186,Successful,CUST378095,Prime Plus,Sarjapur Road,Jayanagar,10,12.7,No,,No,,No,,273,6.1,4.5,4.2,UPI
+25-09-2025,18:17:00,CNR1021494,Successful,CUST150486,Mini,Hulimavu,Koramangala 1st Block,8.1,6.4,No,,No,,No,,715,27.3,4.1,4.4,UPI
+28-09-2025,14:24:00,CNR7353742,Successful,CUST468292,Mini,Hebbal,Seshadripuram,4.6,7.2,No,,No,,No,,566,16.9,4.2,4.6,UPI
+20-09-2025,18:56:00,CNR4784650,Successful,CUST270557,Mini,MG Road,Marathahalli,3.3,4.2,No,,No,,No,,387,9.4,4.7,4.1,UPI
+09-09-2025,07:47:00,CNR2244876,Successful,CUST458411,Auto,Cooke Town,Rajajinagar,2.1,6.7,No,,No,,No,,999,8.4,3.8,4.4,Wallet
+18-09-2025,21:19:00,CNR2562037,Successful,CUST454366,Mini,Ejipura,Seshadripuram,3.1,3.3,No,,No,,No,,635,21.5,4.6,5,Card
+14-09-2025,17:09:00,CNR3768193,Successful,CUST736818,Prime SUV,Rajajinagar,Brigade Road,7.7,10.4,No,,No,,No,,283,8.2,5,4.3,Card
+07-09-2025,09:14:00,CNR7866576,Successful,CUST831063,Mini,Hulimavu,Chamarajpet,5.7,5.9,No,,No,,No,,241,6.8,5,5,Cash
+10-09-2025,10:03:00,CNR2609202,Successful,CUST152046,Mini,Sarakki,Ulsoor,1.6,1.2,No,,No,,No,,177,0.5,4.2,4.8,UPI
+13-09-2025,13:17:00,CNR2470159,Successful,CUST408857,eBike,Vijayanagar,Kudlu,5.5,6.7,No,,No,,No,,328,7.8,5,3.8,UPI
+06-09-2025,09:31:00,CNR3866088,Successful,CUST769191,Prime Sedan,Whitefield,Seshadripuram,8.7,8.1,No,,No,,No,,872,10.5,4.9,5,UPI
+11-09-2025,12:47:00,CNR8901136,Successful,CUST612855,Prime SUV,Kalyan Nagar,Whitefield,4.1,7,No,,No,,No,,36,7,3.9,4.8,UPI
+14-09-2025,12:19:00,CNR7399588,Successful,CUST487345,Prime Plus,MG Road,Kalyan Nagar,9.8,14.1,No,,No,,No,,381,0.8,5,5,UPI
+09-09-2025,20:17:00,CNR5505722,Cancelled by Customer,CUST691655,Auto,Chikkabanavara,Sarjapur Road,,,Yes,Driver is not moving towards pickup location,No,,No,,,3.6,,,Card
+21-09-2025,19:47:00,CNR7945543,Successful,CUST893202,Mini,Sarakki,Brigade Road,3,8.5,No,,No,,No,,719,21.1,5,4.8,UPI
+27-09-2025,13:08:00,CNR9984440,Cancelled by Customer,CUST820442,Prime SUV,Seshadripuram,Yeshwantpur,,,Yes,Wrong Address,No,,No,,,21.2,,,UPI
+11-09-2025,12:44:00,CNR1582647,Cancelled by Driver,CUST626491,Mini,Shivaji Nagar,Yeshwantpur,,,No,,Yes,Customer related issue,No,,,5,,,Card
+06-09-2025,18:55:00,CNR8533636,Successful,CUST281276,Prime SUV,Rajajinagar,Electronic City,5.6,8.7,No,,No,,No,,999,19.4,4.8,5,Cash
+06-09-2025,13:13:00,CNR2314805,Cancelled by Driver,CUST816308,Mini,Vijayanagar,Malleshwaram,,,No,,Yes,The customer was coughing/sick,No,,,22,,,UPI
+12-09-2025,18:24:00,CNR2124274,Cancelled by Customer,CUST191254,Mini,Residency Road,Sarakki,,,Yes,Change of plans,No,,No,,,4.8,,,UPI
+17-09-2025,21:39:00,CNR1207430,Cancelled by Driver,CUST924758,Bike,Peenya,Shivaji Nagar,,,No,,Yes,Personal & Car related issues,No,,,23.1,,,Wallet
+14-09-2025,08:31:00,CNR2681144,Successful,CUST210766,Mini,Hebbal,Marathahalli,7.3,10.2,No,,No,,No,,819,17.6,4.8,4.7,UPI
+28-09-2025,20:58:00,CNR7893590,Successful,CUST376967,Mini,Ulsoor,Yeshwantpur,8.9,7.7,No,,No,,No,,233,0.5,5,4.6,Card
+03-09-2025,10:42:00,CNR7760781,Cancelled by Driver,CUST250840,Mini,Nagarbhavi,Sarjapur Road,,,No,,Yes,More than permitted people in there,No,,,6.4,,,UPI
+28-09-2025,11:39:00,CNR4985919,Successful,CUST151685,Bike,Kundalahalli,Banerghatta Road,0.5,0.5,No,,No,,No,,46,7.2,5,4.4,Card
+27-09-2025,11:10:00,CNR6216863,Cancelled by Customer,CUST393964,eBike,Sarjapur Road,Nagarbhavi,,,Yes,Driver asked to cancel,No,,No,,,6.5,,,UPI
+07-09-2025,22:37:00,CNR8434162,Other,CUST911630,eBike,Kundalahalli,Hulimavu,,,No,,No,,No,,,9.4,,,UPI
+21-09-2025,09:12:00,CNR8410774,Successful,CUST321659,Prime SUV,Koramangala 1st Block,Talaghattapura,8.9,8.9,No,,No,,No,,499,4.9,4.5,4,UPI
+16-09-2025,12:22:00,CNR1942977,Successful,CUST640299,Bike,Jayanagar,Kengeri,1.4,3.3,No,,No,,No,,833,24.2,4.4,4.1,UPI
+14-09-2025,19:19:00,CNR9796063,Successful,CUST696296,Auto,Jalahalli,Jalahalli,4.4,9,No,,No,,No,,908,14.7,4.2,4,Cash
+08-09-2025,13:47:00,CNR1848243,Successful,CUST477880,Bike,Kundalahalli,Banerghatta Road,3.9,2.3,No,,No,,No,,852,19.6,4.6,4.8,UPI
+16-09-2025,16:50:00,CNR3078241,Successful,CUST814263,Auto,Banerghatta Road,Ulsoor,3.4,6.6,No,,No,,No,,242,9.4,4.2,3.7,Cash
+07-09-2025,20:51:00,CNR8962169,Successful,CUST715388,Mini,Sanjay Nagar,Rajajinagar,6.5,6.2,No,,No,,No,,999,26.3,4.3,4.5,UPI
+08-09-2025,20:10:00,CNR2516524,Successful,CUST398916,Auto,Brigade Road,Rajajinagar,6.7,5.7,No,,No,,No,,592,22.1,4.7,4.9,UPI
+25-09-2025,09:39:00,CNR4713654,Successful,CUST778827,Prime Plus,Electronic City,Kundalahalli,4.6,5.6,No,,No,,No,,158,6.1,5,3.8,UPI
+16-09-2025,20:45:00,CNR1149283,Successful,CUST597126,Prime SUV,Hosur Road,Banashankari,8.9,6.6,No,,No,,No,,333,4.2,4.4,4.2,UPI
+01-09-2025,10:18:00,CNR6124763,Successful,CUST847362,Prime SUV,Hosur Road,Kundalahalli,12,12.8,No,,No,,No,,190,10.3,4.2,4,UPI
+14-09-2025,11:57:00,CNR8700708,Successful,CUST364239,Prime Plus,Kengeri,Nagarbhavi,9.5,11.7,No,,No,,No,,188,14.8,4.6,3.4,Card
+21-09-2025,15:58:00,CNR2716512,Successful,CUST107704,Mini,Bharathnagar,Banerghatta Road,6.3,11.9,No,,No,,No,,278,3.4,4.1,4.7,Card
+20-09-2025,10:49:00,CNR6007595,Cancelled by Customer,CUST817659,Auto,Jayanagar,Kammanahalli,,,Yes,Change of plans,No,,No,,,41.7,,,UPI
+28-09-2025,10:27:00,CNR6012883,Successful,CUST297509,Auto,Chikkabanavara,Richmond Town,3.3,4.2,No,,No,,No,,702,15.5,5,4.7,Cash
+26-09-2025,19:41:00,CNR7779646,Successful,CUST792616,Prime Sedan,HSR Layout,Hulimavu,12.2,8.4,No,,No,,No,,84,4.3,4.4,4.7,UPI
+15-09-2025,11:02:00,CNR5352450,Successful,CUST538897,Mini,Talaghattapura,MG Road,5.1,6.1,No,,No,,No,,360,3,4.4,3.8,Card
+30-09-2025,19:55:00,CNR4186247,Cancelled by Driver,CUST459836,Bike,Banaswadi,Nagarbhavi,,,No,,Yes,More than permitted people in there,No,,,5.8,,,UPI
+28-09-2025,17:27:00,CNR7014583,Successful,CUST631958,Prime Sedan,Rajajinagar,Bharathnagar,9.2,12.9,No,,No,,No,,999,11.3,4.3,3.8,Cash
+07-09-2025,07:39:00,CNR8898392,Successful,CUST234159,Bike,Hulimavu,Sarakki,4.4,6.3,No,,No,,No,,836,13.2,5,4.3,UPI
+07-09-2025,17:36:00,CNR6630978,Incomplete,CUST786224,Auto,Sanjay Nagar,Banaswadi,,,No,,No,,Yes,Vehicle Breakdown,,21.7,,,Wallet
+14-09-2025,21:08:00,CNR6558579,Cancelled by Driver,CUST489737,Prime Sedan,Marathahalli,Baiyappanahalli,,,No,,Yes,More than permitted people in there,No,,,10.9,,,Wallet
+03-09-2025,16:49:00,CNR2194801,Successful,CUST595158,Prime SUV,Frazer Town,Yelahanka,8.3,11,No,,No,,No,,606,16.9,4.7,4.1,UPI
+14-09-2025,11:05:00,CNR7930789,Successful,CUST156688,Prime SUV,Malleshwaram,HSR Layout,7.4,10.3,No,,No,,No,,1780,40.5,4.4,4.3,Wallet
+13-09-2025,22:50:00,CNR8676774,Successful,CUST250181,Prime Sedan,Ejipura,Banashankari,7.9,13,No,,No,,No,,930,20.8,4.5,4.1,UPI
+15-09-2025,16:46:00,CNR3966618,Cancelled by Customer,CUST428638,Mini,Koramangala,Airport Road,,,Yes,Driver asked to cancel,No,,No,,,2.7,,,UPI
+20-09-2025,08:42:00,CNR9213740,Successful,CUST923353,Bike,Whitefield,HSR Layout,2.9,6.1,No,,No,,No,,194,4.9,4.2,4.9,UPI
+21-09-2025,12:53:00,CNR8197852,Cancelled by Driver,CUST600590,Mini,MG Road,Chamarajpet,,,No,,Yes,The customer was coughing/sick,No,,,7.7,,,UPI
+28-09-2025,21:13:00,CNR6405839,Successful,CUST893612,eBike,Jalahalli,Indiranagar,4.1,4.2,No,,No,,No,,136,3.3,4.8,4.6,Wallet
+21-09-2025,10:14:00,CNR4796108,Successful,CUST827213,Prime SUV,Kengeri,HSR Layout,7.6,10.6,No,,No,,No,,231,3,4.7,4.7,UPI
+16-09-2025,11:13:00,CNR3802133,Successful,CUST168458,eBike,Kengeri,Marathahalli,3.4,7.1,No,,No,,No,,306,1.4,3.9,4.8,UPI
+17-09-2025,14:56:00,CNR6667933,Successful,CUST554730,Prime SUV,HSR Layout,Kammanahalli,8.7,13.3,No,,No,,No,,1798,39.6,4.1,5,UPI
+15-09-2025,18:48:00,CNR4161264,Successful,CUST272892,Prime SUV,Residency Road,Indiranagar,15.3,14.7,No,,No,,No,,309,1.8,5,5,UPI
+22-09-2025,08:14:00,CNR4543184,Successful,CUST869735,Auto,Frazer Town,Rajajinagar,8,8.4,No,,No,,No,,250,9,4.3,4.7,Card
+21-09-2025,19:31:00,CNR1626854,Successful,CUST493417,Prime SUV,Kalyan Nagar,Sadananda Nagar,8.7,11,No,,No,,No,,499,8.6,4.5,5,UPI
+03-09-2025,22:58:00,CNR1804641,Successful,CUST794125,Auto,Indiranagar,Brigade Road,4.4,4.3,No,,No,,No,,438,4.6,4.8,4.2,UPI
+14-09-2025,12:29:00,CNR3073581,Successful,CUST673867,Prime Plus,Sarjapur Road,Malleshwaram,4.2,4.7,No,,No,,No,,350,8.5,4.5,4.4,UPI
+21-09-2025,06:09:00,CNR6051895,Cancelled by Driver,CUST541315,Bike,Bharathnagar,Shivaji Nagar,,,No,,Yes,Customer related issue,No,,,5.8,,,UPI
+14-09-2025,21:20:00,CNR2760168,Successful,CUST636435,Bike,Yelahanka,Marathahalli,1.6,3.5,No,,No,,No,,384,8.6,4.8,4.2,Wallet
+06-09-2025,09:23:00,CNR4351238,Cancelled by Driver,CUST915749,Prime Sedan,Shivaji Nagar,Jalahalli,,,No,,Yes,More than permitted people in there,No,,,3.2,,,UPI
+10-09-2025,06:40:00,CNR9327450,Successful,CUST317782,Bike,Seshadripuram,Kammanahalli,0.5,1.8,No,,No,,No,,246,3.5,3.7,4.5,UPI
+01-09-2025,07:31:00,CNR2852723,Successful,CUST975804,Mini,Ulsoor,Malleshwaram,11.3,13.5,No,,No,,No,,575,23.5,4.6,3.5,Cash
+25-09-2025,07:16:00,CNR2699372,Successful,CUST368322,Mini,Baiyappanahalli,Marathahalli,10.4,8.5,No,,No,,No,,216,8.5,4,5,UPI
+03-09-2025,19:52:00,CNR3931009,Successful,CUST141360,eBike,Banerghatta Road,Nagarbhavi,6.1,5.3,No,,No,,No,,217,5.3,4.5,4,UPI
+22-09-2025,07:37:00,CNR1769891,Successful,CUST110142,eBike,Bharathnagar,Hosur Road,1.9,2,No,,No,,No,,179,3.5,4.3,5,Wallet
+13-09-2025,13:28:00,CNR5501484,Cancelled by Driver,CUST868677,Auto,Kammanahalli,Banashankari,,,No,,Yes,More than permitted people in there,No,,,4.4,,,Wallet
+28-09-2025,10:38:00,CNR7471232,Successful,CUST823415,eBike,Koramangala 1st Block,Hosur Road,2.1,4.5,No,,No,,No,,965,11.4,3.8,4.2,UPI
+07-09-2025,08:15:00,CNR1983923,Incomplete,CUST985364,Auto,Koramangala 1st Block,Peenya,,,No,,No,,Yes,Other Issue,,3.3,,,Wallet
+21-09-2025,09:05:00,CNR7371160,Cancelled by Customer,CUST917012,Prime Sedan,Indiranagar,Nagarbhavi,,,Yes,Driver asked to cancel,No,,No,,,14,,,UPI
+15-09-2025,14:19:00,CNR2894776,Cancelled by Driver,CUST531262,Mini,Jayanagar,Kalyan Nagar,,,No,,Yes,Personal & Car related issues,No,,,5.4,,,UPI
+21-09-2025,17:34:00,CNR9804983,Successful,CUST904812,Bike,Hulimavu,Yeshwantpur,4.4,6.2,No,,No,,No,,30,0.5,3.7,4.9,UPI
+28-09-2025,20:54:00,CNR6675742,Successful,CUST644315,Mini,Sarjapur Road,Ejipura,5.2,7.4,No,,No,,No,,344,7.5,4,4.9,UPI
+21-09-2025,10:14:00,CNR9085438,Successful,CUST462544,Bike,Hosur Road,Cooke Town,6.9,8,No,,No,,No,,250,2.6,4.9,4.5,UPI
+27-09-2025,21:13:00,CNR1915467,Other,CUST112210,Mini,Rajajinagar,Frazer Town,,,No,,No,,No,,,13.7,,,UPI
+28-09-2025,20:50:00,CNR3775016,Cancelled by Driver,CUST178501,Bike,Basavanagudi,Richmond Town,,,No,,Yes,The customer was coughing/sick,No,,,5.4,,,UPI
+03-09-2025,09:48:00,CNR7352484,Successful,CUST522866,eBike,Whitefield,Baiyappanahalli,2.3,5.7,No,,No,,No,,242,6.3,4.8,5,UPI
+19-09-2025,07:30:00,CNR9362706,Cancelled by Customer,CUST568784,Prime Sedan,Ulsoor,Talaghattapura,,,Yes,Driver is not moving towards pickup location,No,,No,,,5.3,,,UPI
+14-09-2025,06:36:00,CNR1002847,Successful,CUST966028,Auto,Kudlu,Ejipura,2.5,3.6,No,,No,,No,,66,4.8,3.9,5,UPI
+28-09-2025,15:35:00,CNR4470388,Cancelled by Driver,CUST786393,Bike,Kammanahalli,Banerghatta Road,,,No,,Yes,Customer related issue,No,,,20.8,,,UPI
+27-09-2025,11:39:00,CNR8937865,Successful,CUST851470,Mini,Ejipura,Airport Road,8.8,8.2,No,,No,,No,,499,3.2,5,4.4,UPI
+24-09-2025,09:47:00,CNR1036858,Incomplete,CUST457938,Prime Sedan,Vijayanagar,Marathahalli,,,No,,No,,Yes,Vehicle Breakdown,,4.3,,,UPI
+21-09-2025,06:46:00,CNR3754070,Successful,CUST616342,Auto,Ejipura,Talaghattapura,0.5,3.1,No,,No,,No,,533,19.6,4.7,4.6,UPI
+06-09-2025,16:25:00,CNR4287016,Successful,CUST296653,Auto,Residency Road,Electronic City,5.9,8.6,No,,No,,No,,499,8.2,4.6,4.4,UPI
+25-09-2025,18:13:00,CNR6669584,Successful,CUST213000,Bike,MG Road,Vijayanagar,3.9,6.5,No,,No,,No,,557,18.5,3.9,4.7,Cash
+20-09-2025,19:10:00,CNR8558212,Cancelled by Driver,CUST579605,Mini,Frazer Town,HSR Layout,,,No,,Yes,Personal & Car related issues,No,,,24.5,,,UPI
+17-09-2025,06:49:00,CNR8261353,Successful,CUST979562,Mini,Frazer Town,Sadananda Nagar,4.6,7.2,No,,No,,No,,629,17.4,4.9,4.3,UPI
+07-09-2025,15:52:00,CNR3913368,Incomplete,CUST865979,eBike,Hebbal,Cooke Town,,,No,,No,,Yes,Other Issue,,9.5,,,Card
+28-09-2025,14:36:00,CNR7453568,Other,CUST539001,Prime SUV,Sarjapur Road,Chikkabanavara,,,No,,No,,No,,,4.8,,,UPI
+14-09-2025,11:51:00,CNR5935413,Successful,CUST574843,Bike,HSR Layout,Koramangala 1st Block,4,4.8,No,,No,,No,,341,7.3,4.7,4,UPI
+28-09-2025,14:44:00,CNR6014930,Successful,CUST984027,Bike,Basavanagudi,Ejipura,3.2,7.1,No,,No,,No,,836,21.7,4.1,4.1,UPI
+18-09-2025,09:42:00,CNR4370359,Successful,CUST319899,Mini,Marathahalli,Nagarbhavi,6.7,8,No,,No,,No,,215,3.6,4.2,3.7,UPI
+21-09-2025,22:44:00,CNR3983202,Successful,CUST628370,Mini,Vijayanagar,Basavanagudi,2.6,7.7,No,,No,,No,,935,28.5,4.9,4.8,UPI
+24-09-2025,15:35:00,CNR9059269,Successful,CUST711116,Mini,Bharathnagar,Ejipura,4.9,2.5,No,,No,,No,,278,5.3,4.5,3.6,Card
+23-09-2025,20:21:00,CNR9957402,Successful,CUST399817,Prime SUV,Koramangala 5th Block,Koramangala,10.3,13.5,No,,No,,No,,341,5.7,5,5,Card
+02-09-2025,08:28:00,CNR1890282,Successful,CUST802812,Auto,Kundalahalli,Chikkabanavara,0.9,3.2,No,,No,,No,,590,20.2,4.5,4.4,Wallet
+30-09-2025,17:39:00,CNR5203716,Successful,CUST253541,eBike,Sarjapur Road,Marathahalli,0.5,4.6,No,,No,,No,,159,9.1,4.4,4.3,UPI
+18-09-2025,12:07:00,CNR8593275,Cancelled by Customer,CUST207458,Mini,Nagarbhavi,Talaghattapura,,,Yes,Driver asked to cancel,No,,No,,,5.9,,,Cash
+23-09-2025,15:34:00,CNR7524435,Cancelled by Customer,CUST349136,Mini,Sarjapur Road,Marathahalli,,,Yes,Driver is not moving towards pickup location,No,,No,,,10.5,,,Cash
+28-09-2025,12:36:00,CNR7988821,Successful,CUST926394,Prime SUV,Basavanagudi,Sarakki,8.1,10.5,No,,No,,No,,318,7.3,4.8,4.1,UPI
+23-09-2025,09:27:00,CNR8433377,Successful,CUST970300,Prime Plus,Vijayanagar,Ejipura,3.6,5.3,No,,No,,No,,593,17.3,4.9,4.7,Cash
+13-09-2025,16:02:00,CNR4296204,Cancelled by Customer,CUST913848,Bike,Jalahalli,Marathahalli,,,Yes,Driver is not moving towards pickup location,No,,No,,,7.4,,,UPI
+07-09-2025,08:57:00,CNR9620919,Cancelled by Driver,CUST225151,Prime Sedan,Koramangala 5th Block,Kundalahalli,,,No,,Yes,Customer related issue,No,,,3.9,,,Card
+07-09-2025,20:26:00,CNR5278461,Other,CUST105919,Prime Sedan,Ejipura,Malleshwaram,,,No,,No,,No,,,0.7,,,Wallet
+28-09-2025,16:11:00,CNR1853212,Cancelled by Customer,CUST911242,Prime SUV,Ejipura,Bharathnagar,,,Yes,AC is not working (Only for 4-wheelers),No,,No,,,6.5,,,UPI
+18-09-2025,07:14:00,CNR6332789,Cancelled by Driver,CUST650916,Prime Plus,Banashankari,Shivaji Nagar,,,No,,Yes,Customer related issue,No,,,4.8,,,UPI
+14-09-2025,15:09:00,CNR7768215,Successful,CUST196411,Prime Sedan,Electronic City,Bharathnagar,3.8,7.3,No,,No,,No,,170,7.8,4.8,3.9,Cash
+13-09-2025,09:43:00,CNR9900294,Successful,CUST597923,Prime SUV,Chikkabanavara,Hosur Road,13.8,14.1,No,,No,,No,,262,3.7,4,3.6,Card
+21-09-2025,13:36:00,CNR5032368,Successful,CUST773462,Mini,Ejipura,Richmond Town,6.9,6.9,No,,No,,No,,999,6.7,4.9,5,Wallet
+21-09-2025,11:28:00,CNR7398370,Cancelled by Driver,CUST934883,Prime SUV,Cooke Town,Kalyan Nagar,,,No,,Yes,The customer was coughing/sick,No,,,9.6,,,UPI
+02-09-2025,14:49:00,CNR7290752,Cancelled by Driver,CUST639292,Bike,Airport Road,Ulsoor,,,No,,Yes,Customer related issue,No,,,11,,,UPI
+12-09-2025,07:24:00,CNR2609881,Successful,CUST275526,Prime SUV,Sadananda Nagar,Chamarajpet,13,15.9,No,,No,,No,,432,8.2,4.5,4,Card
+21-09-2025,09:35:00,CNR4576485,Cancelled by Customer,CUST818699,Mini,Hebbal,Electronic City,,,Yes,Wrong Address,No,,No,,,9.7,,,UPI
+21-09-2025,22:02:00,CNR2209981,Other,CUST883171,Bike,Indiranagar,Baiyappanahalli,,,No,,No,,No,,,17.8,,,UPI
+03-09-2025,07:15:00,CNR1910467,Successful,CUST286638,Bike,Sarakki,Jayanagar,6.7,8.2,No,,No,,No,,199,0.5,5,3.7,Card
+07-09-2025,10:24:00,CNR7838943,Successful,CUST506881,Mini,Residency Road,Koramangala 5th Block,7.7,11.3,No,,No,,No,,471,5.5,4.7,4.6,Card
+14-09-2025,08:01:00,CNR9973031,Successful,CUST106185,Mini,Ejipura,Jayanagar,8.6,8.3,No,,No,,No,,709,13.7,4.4,4.6,UPI
+20-09-2025,17:57:00,CNR2217848,Successful,CUST475075,Prime SUV,Hebbal,Marathahalli,9.5,12.1,No,,No,,No,,996,16.7,4.3,4.5,Wallet
+11-09-2025,07:28:00,CNR5723078,Cancelled by Driver,CUST902448,Prime SUV,Cooke Town,Residency Road,,,No,,Yes,Personal & Car related issues,No,,,23.3,,,UPI
+14-09-2025,15:06:00,CNR4688734,Incomplete,CUST243006,Bike,Chamarajpet,Marathahalli,,,No,,No,,Yes,Customer Demand,,27,,,UPI
+11-09-2025,21:08:00,CNR7260091,Successful,CUST111691,Mini,Sarakki,Malleshwaram,0.5,5.4,No,,No,,No,,210,5.4,4,3.9,UPI
+01-09-2025,16:10:00,CNR7611593,Other,CUST663244,Mini,Whitefield,Kengeri,,,No,,No,,No,,,7,,,Cash
+23-09-2025,18:23:00,CNR6768873,Cancelled by Driver,CUST322022,Mini,Hosur Road,Frazer Town,,,No,,Yes,Customer related issue,No,,,6.6,,,UPI
+07-09-2025,20:14:00,CNR5240303,Successful,CUST303765,Auto,Bharathnagar,Yeshwantpur,7.7,7.2,No,,No,,No,,682,24.6,4.5,4.7,UPI
+27-09-2025,21:54:00,CNR8738745,Incomplete,CUST775990,Mini,Marathahalli,Bharathnagar,,,No,,No,,Yes,Customer Demand,,3.1,,,UPI
+07-09-2025,15:54:00,CNR9173698,Successful,CUST446922,Prime Sedan,Bharathnagar,Hosur Road,9.2,8.5,No,,No,,No,,480,13,4.9,5,UPI
+10-09-2025,07:11:00,CNR4246367,Incomplete,CUST433222,Mini,Kammanahalli,Ejipura,,,No,,No,,Yes,Other Issue,,10.8,,,Card
+20-09-2025,15:39:00,CNR7115185,Successful,CUST946934,Prime Sedan,Koramangala 5th Block,Rajajinagar,10.5,14.5,No,,No,,No,,398,10.2,4.2,5,Cash
+08-09-2025,09:46:00,CNR8316947,Cancelled by Driver,CUST390119,eBike,HSR Layout,Nagarbhavi,,,No,,Yes,More than permitted people in there,No,,,27.5,,,Cash
+14-09-2025,12:07:00,CNR6124966,Incomplete,CUST610626,Mini,Banashankari,Hosur Road,,,No,,No,,Yes,Vehicle Breakdown,,5.6,,,UPI
+28-09-2025,08:23:00,CNR4295580,Successful,CUST376021,Bike,Vijayanagar,Jayanagar,2.6,1.8,No,,No,,No,,777,16,3.9,3.6,UPI
+28-09-2025,20:29:00,CNR9509040,Successful,CUST762308,Auto,Peenya,Peenya,8.4,13.5,No,,No,,No,,109,3.9,3.9,4,UPI
+20-09-2025,21:28:00,CNR1614990,Cancelled by Driver,CUST678388,Prime Sedan,Chamarajpet,Seshadripuram,,,No,,Yes,Customer related issue,No,,,3.1,,,UPI
+13-09-2025,09:48:00,CNR5882155,Other,CUST240384,Mini,Frazer Town,Whitefield,,,No,,No,,No,,,3.8,,,Card
+16-09-2025,17:18:00,CNR5007754,Successful,CUST989173,Prime SUV,Ejipura,Nagarbhavi,12.2,10.5,No,,No,,No,,499,9.6,4.1,4.5,UPI
+16-09-2025,13:36:00,CNR3671308,Successful,CUST287847,Mini,Yeshwantpur,Bharathnagar,12.4,13.7,No,,No,,No,,688,29.8,4.6,3.2,UPI
+07-09-2025,18:29:00,CNR9111841,Successful,CUST476224,Auto,Chikkabanavara,Ulsoor,3.5,6.7,No,,No,,No,,414,6.4,4.7,3.9,UPI
+09-09-2025,09:59:00,CNR1718206,Other,CUST801062,Prime Plus,Banerghatta Road,Cooke Town,,,No,,No,,No,,,4.2,,,Cash
+14-09-2025,06:47:00,CNR1669489,Successful,CUST780027,Prime Sedan,Ejipura,Shivaji Nagar,10.9,15.1,No,,No,,No,,300,7.3,4.8,4.5,UPI
+09-09-2025,18:39:00,CNR5417710,Successful,CUST706739,Mini,Banashankari,Cooke Town,8.8,11.7,No,,No,,No,,499,8.7,3.9,4.4,Card
+13-09-2025,17:09:00,CNR2305896,Successful,CUST641760,Prime Plus,Banaswadi,Shivaji Nagar,0.5,1.2,No,,No,,No,,191,4.8,4.6,3.9,UPI
+27-09-2025,11:53:00,CNR9168181,Successful,CUST931161,Mini,Kudlu,Koramangala,2.9,4.2,No,,No,,No,,499,11.7,4.6,4.5,UPI
+07-09-2025,08:49:00,CNR4858604,Successful,CUST180832,Mini,Kundalahalli,Electronic City,9,10.4,No,,No,,No,,153,3.8,4.2,4.2,UPI
+07-09-2025,16:16:00,CNR2985251,Successful,CUST793223,Prime Plus,Kammanahalli,Hulimavu,8.3,11.4,No,,No,,No,,499,8,4.6,4.4,UPI
+21-09-2025,14:10:00,CNR4535025,Incomplete,CUST719489,Auto,Koramangala 1st Block,Indiranagar,,,No,,No,,Yes,Customer Demand,,9.5,,,Cash
+19-09-2025,08:44:00,CNR3260294,Successful,CUST760120,Mini,Yeshwantpur,Malleshwaram,8.5,8.2,No,,No,,No,,174,6.1,5,3.6,UPI
+08-09-2025,09:04:00,CNR9667792,Successful,CUST525151,Mini,Yeshwantpur,Vijayanagar,2.6,2.9,No,,No,,No,,302,7.4,3.9,4.4,UPI
+21-09-2025,17:17:00,CNR5755579,Successful,CUST189913,Prime Plus,Kudlu,Seshadripuram,15,14.9,No,,No,,No,,999,7,4.6,4.4,UPI
+07-09-2025,20:10:00,CNR7891524,Successful,CUST730025,Auto,Peenya,Sadananda Nagar,5.3,5.7,No,,No,,No,,362,10.4,4,4.7,UPI
+21-09-2025,10:30:00,CNR3813903,Successful,CUST859364,Bike,Baiyappanahalli,Kudlu,2.1,6,No,,No,,No,,499,0.5,5,4.5,Card
+07-09-2025,12:34:00,CNR3218169,Successful,CUST213844,Auto,Shivaji Nagar,Frazer Town,4.6,4.4,No,,No,,No,,346,9.2,4.3,4.1,UPI
+27-09-2025,16:20:00,CNR2615622,Successful,CUST286040,Mini,Ejipura,Kudlu,7.9,8.6,No,,No,,No,,152,12.4,5,4.8,Card
+25-09-2025,14:35:00,CNR2971598,Other,CUST197716,Mini,HSR Layout,Kudlu,,,No,,No,,No,,,1.6,,,UPI
+01-09-2025,22:00:00,CNR8239315,Cancelled by Driver,CUST647403,Mini,MG Road,Sarjapur Road,,,No,,Yes,Customer related issue,No,,,9.4,,,UPI
+28-09-2025,14:13:00,CNR7396087,Successful,CUST467544,Mini,Talaghattapura,Chikkabanavara,3.9,3.8,No,,No,,No,,692,24,5,3.8,UPI
+20-09-2025,13:15:00,CNR3246185,Successful,CUST366881,Mini,Banaswadi,Whitefield,9.4,12.7,No,,No,,No,,250,6.1,4.1,4.7,UPI
+28-09-2025,12:58:00,CNR5325249,Successful,CUST298202,Auto,Talaghattapura,Koramangala,6.2,7.2,No,,No,,No,,30,6.1,4.9,4.7,Card
+06-09-2025,06:07:00,CNR7291957,Other,CUST786341,Prime Plus,Basavanagudi,Koramangala 1st Block,,,No,,No,,No,,,5,,,Card
+07-09-2025,17:07:00,CNR5255251,Successful,CUST373995,eBike,Koramangala 5th Block,Yeshwantpur,3.1,5,No,,No,,No,,368,5.6,4.9,4.3,UPI
+09-09-2025,17:36:00,CNR7668174,Successful,CUST891645,Prime Plus,Sarakki,Sarakki,4,4.8,No,,No,,No,,298,7.7,4.1,4.7,Cash
+13-09-2025,15:28:00,CNR9116148,Successful,CUST366105,Prime SUV,Yeshwantpur,Sanjay Nagar,10.9,14,No,,No,,No,,933,25.2,4.6,4.5,UPI
+14-09-2025,08:21:00,CNR2997927,Incomplete,CUST884140,Prime Plus,Sarjapur Road,Rajajinagar,,,No,,No,,Yes,Other Issue,,5.5,,,UPI
+14-09-2025,11:46:00,CNR1873301,Successful,CUST268546,Mini,Vijayanagar,Koramangala,9.8,13.9,No,,No,,No,,999,17.5,4.5,4.8,Card
+27-09-2025,14:02:00,CNR8304421,Successful,CUST192422,Auto,Banaswadi,Banerghatta Road,6.7,11.1,No,,No,,No,,438,9.7,4.2,4.1,UPI
+03-09-2025,12:33:00,CNR7721705,Successful,CUST743789,Mini,Marathahalli,Ejipura,4.5,8,No,,No,,No,,678,19.8,4.3,5,Cash
+04-09-2025,19:12:00,CNR3940561,Cancelled by Driver,CUST771394,Mini,Koramangala,Jalahalli,,,No,,Yes,The customer was coughing/sick,No,,,16.9,,,UPI
+07-09-2025,19:22:00,CNR9565571,Successful,CUST640869,Bike,Ejipura,Rajajinagar,0.5,0.5,No,,No,,No,,296,9,4.9,4.1,UPI
+13-09-2025,17:10:00,CNR1004819,Successful,CUST265092,Auto,Kundalahalli,Sadananda Nagar,5.7,7.8,No,,No,,No,,30,6.4,4.7,4,UPI
+21-09-2025,12:55:00,CNR4360650,Successful,CUST642892,Auto,Ejipura,Jayanagar,3.6,1.2,No,,No,,No,,840,4.9,4.6,5,UPI
+18-09-2025,18:23:00,CNR6840069,Successful,CUST464354,Prime SUV,Kundalahalli,Banaswadi,6.9,9.7,No,,No,,No,,283,5.9,4.2,5,UPI
+07-09-2025,21:52:00,CNR7777264,Successful,CUST702833,Auto,Banashankari,Koramangala 1st Block,2.7,3.5,No,,No,,No,,237,3.7,4.2,3.9,UPI
+19-09-2025,14:35:00,CNR5936726,Successful,CUST456480,Prime SUV,Frazer Town,Kalyan Nagar,9.7,11.2,No,,No,,No,,769,14.7,4.3,4.4,Card
+26-09-2025,15:48:00,CNR5196677,Cancelled by Driver,CUST827912,Mini,Cooke Town,Yeshwantpur,,,No,,Yes,Customer related issue,No,,,3,,,UPI
+23-09-2025,22:24:00,CNR8698199,Other,CUST814703,Mini,Peenya,Indiranagar,,,No,,No,,No,,,1.8,,,UPI
+08-09-2025,12:31:00,CNR4697401,Successful,CUST809794,Bike,Basavanagudi,Koramangala 1st Block,1.4,3.7,No,,No,,No,,500,10.7,4.1,4.5,Card
+16-09-2025,06:09:00,CNR5418274,Cancelled by Driver,CUST360316,Prime Sedan,Residency Road,Nagarbhavi,,,No,,Yes,The customer was coughing/sick,No,,,7.2,,,UPI
+05-09-2025,21:53:00,CNR3994493,Cancelled by Customer,CUST599704,Prime Sedan,Electronic City,Yeshwantpur,,,Yes,Driver asked to cancel,No,,No,,,5.6,,,UPI
+15-09-2025,09:24:00,CNR4940319,Cancelled by Driver,CUST871153,Prime Plus,Kalyan Nagar,Electronic City,,,No,,Yes,Customer related issue,No,,,2.4,,,UPI
+27-09-2025,12:04:00,CNR3617171,Successful,CUST916776,Auto,Whitefield,Nagarbhavi,4.4,5.5,No,,No,,No,,800,19.6,4.4,5,UPI
+15-09-2025,06:06:00,CNR1709057,Successful,CUST989203,Mini,Ejipura,Basavanagudi,5.1,3.9,No,,No,,No,,79,3.1,5,4.9,UPI
+30-09-2025,21:18:00,CNR5609255,Cancelled by Driver,CUST614646,Prime Plus,Chikkabanavara,Frazer Town,,,No,,Yes,Customer related issue,No,,,4.6,,,Card
+23-09-2025,08:11:00,CNR1908455,Successful,CUST651273,Bike,Seshadripuram,Chamarajpet,4.7,4.8,No,,No,,No,,232,1.7,4.3,4.3,UPI
+13-09-2025,20:41:00,CNR3932663,Successful,CUST579404,Prime SUV,Sarjapur Road,Shivaji Nagar,11.1,12.9,No,,No,,No,,194,6,4.2,3.8,Cash
+21-09-2025,06:12:00,CNR4535838,Successful,CUST497859,Mini,Basavanagudi,Banerghatta Road,5.1,6.5,No,,No,,No,,201,9.6,4.8,3.4,UPI
+09-09-2025,15:21:00,CNR5409875,Successful,CUST348658,Prime Sedan,Ejipura,Kammanahalli,3.6,6.5,No,,No,,No,,230,6.4,4.6,4.7,UPI
+15-09-2025,09:35:00,CNR8031212,Incomplete,CUST834750,Bike,Banerghatta Road,Residency Road,,,No,,No,,Yes,Customer Demand,,5.6,,,Card
+19-09-2025,22:42:00,CNR4834713,Successful,CUST953740,Auto,Kundalahalli,Richmond Town,6.6,10.1,No,,No,,No,,450,3.2,4.1,3.8,UPI
+28-09-2025,09:20:00,CNR3446851,Cancelled by Driver,CUST938900,Prime SUV,Malleshwaram,Seshadripuram,,,No,,Yes,Customer related issue,No,,,17.5,,,UPI
+14-09-2025,08:17:00,CNR9673937,Successful,CUST659921,Bike,Ulsoor,Kengeri,6.7,9.1,No,,No,,No,,394,8.8,4.1,4.6,Card
+28-09-2025,06:48:00,CNR7684074,Successful,CUST203782,Bike,Brigade Road,Electronic City,3.6,5.9,No,,No,,No,,999,27.2,5,4.2,Cash
+14-09-2025,16:44:00,CNR2615677,Successful,CUST571706,Bike,Kalyan Nagar,Banerghatta Road,6.3,8.9,No,,No,,No,,30,4.8,4.4,4.2,UPI
+19-09-2025,19:49:00,CNR5323737,Cancelled by Driver,CUST460857,Auto,Yelahanka,Sanjay Nagar,,,No,,Yes,Customer related issue,No,,,16.6,,,UPI
+20-09-2025,17:05:00,CNR3928275,Successful,CUST918213,Prime Sedan,Basavanagudi,Nagarbhavi,3.6,9.1,No,,No,,No,,480,6.6,5,4.3,Wallet
+24-09-2025,13:37:00,CNR2315459,Successful,CUST499581,Mini,Baiyappanahalli,Vijayanagar,9.1,13.9,No,,No,,No,,534,20.1,5,3.9,Cash
+28-09-2025,16:55:00,CNR6660436,Successful,CUST542306,Mini,Yeshwantpur,Residency Road,5.3,2.7,No,,No,,No,,920,5.5,4.6,3.5,UPI
+04-09-2025,08:45:00,CNR6765079,Successful,CUST339303,Prime Sedan,Hosur Road,Marathahalli,5.5,5.7,No,,No,,No,,651,27.9,4.2,4.8,UPI
+20-09-2025,12:44:00,CNR5550787,Cancelled by Driver,CUST566509,Bike,Banerghatta Road,Talaghattapura,,,No,,Yes,More than permitted people in there,No,,,1.8,,,UPI
+14-09-2025,09:08:00,CNR1387572,Successful,CUST231113,Bike,Bharathnagar,Kalyan Nagar,1.4,0.5,No,,No,,No,,690,19.2,4.9,4.2,UPI
+21-09-2025,07:21:00,CNR4532803,Successful,CUST275018,Mini,Hebbal,Jayanagar,7.8,11.2,No,,No,,No,,815,13.3,4.8,4.4,Cash
+14-09-2025,06:55:00,CNR1442329,Incomplete,CUST908382,Mini,Chikkabanavara,Whitefield,,,No,,No,,Yes,Other Issue,,3.9,,,Card
+07-09-2025,17:10:00,CNR7540534,Other,CUST424398,Prime Plus,Talaghattapura,Marathahalli,,,No,,No,,No,,,8.3,,,UPI
+06-09-2025,14:59:00,CNR3862327,Successful,CUST129959,Auto,Sanjay Nagar,Basavanagudi,5.6,8,No,,No,,No,,572,19.8,4.7,4,Cash
+14-09-2025,20:51:00,CNR5570355,Cancelled by Customer,CUST675191,Mini,Sarjapur Road,Chamarajpet,,,Yes,AC is not working (Only for 4-wheelers),No,,No,,,10.4,,,UPI
+14-09-2025,18:46:00,CNR8297709,Successful,CUST648887,Mini,Chamarajpet,Kengeri,4.3,6.4,No,,No,,No,,959,23.8,4.1,5,UPI
+15-09-2025,09:52:00,CNR2502467,Successful,CUST563324,Prime Sedan,Koramangala 1st Block,Kalyan Nagar,5.8,8.6,No,,No,,No,,318,3.9,4.1,5,UPI
+01-09-2025,14:55:00,CNR3286742,Incomplete,CUST460589,Prime Sedan,Chamarajpet,Koramangala,,,No,,No,,Yes,Vehicle Breakdown,,9.9,,,Wallet
+28-09-2025,14:08:00,CNR6026630,Successful,CUST109576,Bike,Marathahalli,Kudlu,6.1,5.5,No,,No,,No,,278,8.6,4.8,4.2,Cash
+01-09-2025,12:22:00,CNR4163696,Successful,CUST531736,Prime SUV,Koramangala 5th Block,Residency Road,9.3,10.4,No,,No,,No,,234,6.2,4.5,5,UPI
+21-09-2025,17:01:00,CNR7538471,Successful,CUST968668,Prime Sedan,Kalyan Nagar,Whitefield,1.7,2.9,No,,No,,No,,195,10.7,5,4.6,UPI
+07-09-2025,19:02:00,CNR5561139,Cancelled by Driver,CUST398505,Mini,Chamarajpet,Kundalahalli,,,No,,Yes,Personal & Car related issues,No,,,2.7,,,Cash
+07-09-2025,10:56:00,CNR2851472,Successful,CUST767830,Mini,Airport Road,Kundalahalli,6.1,7.5,No,,No,,No,,709,28.8,4.7,4.9,Card
+15-09-2025,11:28:00,CNR1325400,Cancelled by Driver,CUST259540,Auto,Chamarajpet,Indiranagar,,,No,,Yes,Personal & Car related issues,No,,,7.9,,,UPI
+10-09-2025,08:08:00,CNR8355410,Other,CUST862427,Auto,Whitefield,Malleshwaram,,,No,,No,,No,,,7.1,,,UPI
+07-09-2025,13:10:00,CNR6227389,Successful,CUST923892,Bike,Banerghatta Road,Baiyappanahalli,4.1,4.1,No,,No,,No,,359,1.4,5,4.4,Card
+02-09-2025,07:22:00,CNR3450947,Successful,CUST158760,Prime Sedan,Residency Road,Jayanagar,7.1,8,No,,No,,No,,313,4.6,4.3,5,Card
+07-09-2025,21:17:00,CNR5195637,Successful,CUST956949,Mini,Koramangala,Yelahanka,7.9,8.7,No,,No,,No,,741,8.7,4.7,4.2,UPI
+21-09-2025,12:34:00,CNR8431651,Successful,CUST359168,Bike,MG Road,Jalahalli,4.2,8.3,No,,No,,No,,185,4.2,3.6,3.3,Cash
+24-09-2025,14:53:00,CNR4497162,Successful,CUST595793,Mini,Kengeri,Basavanagudi,7.2,7.4,No,,No,,No,,190,9.3,4.6,3.1,UPI
+22-09-2025,18:42:00,CNR9739692,Successful,CUST228074,Prime Plus,Vijayanagar,Kengeri,9.2,11.3,No,,No,,No,,147,2.6,3.7,3.3,UPI
+28-09-2025,20:44:00,CNR4653880,Successful,CUST218414,Prime Plus,Koramangala 5th Block,Basavanagudi,7.3,11.5,No,,No,,No,,439,6,4.4,4.8,Cash
+25-09-2025,15:58:00,CNR3007387,Cancelled by Driver,CUST515035,Bike,Koramangala,MG Road,,,No,,Yes,More than permitted people in there,No,,,2.5,,,UPI
+21-09-2025,08:38:00,CNR7231035,Successful,CUST908239,Auto,Rajajinagar,Ulsoor,4.6,6.4,No,,No,,No,,499,5,5,4.7,UPI
+21-09-2025,21:53:00,CNR2007511,Successful,CUST162678,Prime Sedan,Malleshwaram,Sarjapur Road,9.5,9.2,No,,No,,No,,303,9.2,5,4.4,UPI
+06-09-2025,14:19:00,CNR4903632,Other,CUST432125,Prime SUV,Hosur Road,Chikkabanavara,,,No,,No,,No,,,5.1,,,UPI
+28-09-2025,18:30:00,CNR4237420,Successful,CUST122390,Bike,Sanjay Nagar,Hulimavu,0.5,0.5,No,,No,,No,,303,7.5,4.6,4.2,Card
+28-09-2025,14:16:00,CNR8340032,Successful,CUST686179,Prime Sedan,Sarjapur Road,Ulsoor,9,10.9,No,,No,,No,,167,5.8,5,4.8,UPI
+07-09-2025,11:56:00,CNR6430463,Successful,CUST867979,Mini,Kudlu,Sarakki,1.9,2.6,No,,No,,No,,388,4.7,4.1,4,Cash
+17-09-2025,13:40:00,CNR5960564,Successful,CUST959222,Prime Sedan,Banerghatta Road,Baiyappanahalli,6.3,8.6,No,,No,,No,,334,2.1,4.2,5,Cash
+21-09-2025,12:28:00,CNR4112748,Cancelled by Driver,CUST119629,Mini,Banerghatta Road,Sadananda Nagar,,,No,,Yes,The customer was coughing/sick,No,,,9.4,,,UPI
+21-09-2025,17:14:00,CNR7501017,Cancelled by Driver,CUST299092,Mini,Ulsoor,Sadananda Nagar,,,No,,Yes,The customer was coughing/sick,No,,,5,,,Card
+12-09-2025,16:56:00,CNR6402667,Cancelled by Driver,CUST215830,Auto,Bharathnagar,Jayanagar,,,No,,Yes,Customer related issue,No,,,5.7,,,UPI
+07-09-2025,06:32:00,CNR4390323,Cancelled by Driver,CUST212255,Mini,Hebbal,MG Road,,,No,,Yes,More than permitted people in there,No,,,2.8,,,Card
+21-09-2025,14:58:00,CNR5293936,Cancelled by Driver,CUST151470,Prime Sedan,Kudlu,Ejipura,,,No,,Yes,Customer related issue,No,,,9.1,,,UPI
+21-09-2025,21:50:00,CNR2341452,Successful,CUST590795,Bike,Brigade Road,Banerghatta Road,2.4,0.6,No,,No,,No,,223,8.7,4.8,3.5,UPI
+28-09-2025,13:05:00,CNR7191944,Successful,CUST932831,Bike,Ejipura,Kundalahalli,4.9,5.3,No,,No,,No,,264,8.8,3.8,4.5,UPI
+22-09-2025,20:14:00,CNR6098672,Other,CUST181721,Prime SUV,Shivaji Nagar,Hebbal,,,No,,No,,No,,,1,,,UPI
+07-09-2025,12:34:00,CNR4178618,Successful,CUST302500,Mini,Richmond Town,Yeshwantpur,9.4,9.7,No,,No,,No,,373,8.1,5,4.2,UPI
+07-09-2025,18:47:00,CNR7965641,Cancelled by Customer,CUST882351,Auto,Vijayanagar,Yeshwantpur,,,Yes,Wrong Address,No,,No,,,4,,,UPI
+21-09-2025,13:17:00,CNR2746548,Successful,CUST274912,Bike,Sarakki,Residency Road,2.5,2.4,No,,No,,No,,345,0.8,4.7,4.6,UPI
+21-09-2025,15:06:00,CNR8432510,Successful,CUST469438,Prime SUV,Sarakki,Basavanagudi,11.6,13.7,No,,No,,No,,749,19.2,4.4,4.9,Cash
+14-09-2025,16:48:00,CNR8224069,Other,CUST966286,Bike,Kudlu,Richmond Town,,,No,,No,,No,,,3.3,,,UPI
+07-09-2025,19:04:00,CNR5262908,Incomplete,CUST477496,Prime SUV,Airport Road,Residency Road,,,No,,No,,Yes,Customer Demand,,9.2,,,UPI
+30-09-2025,16:10:00,CNR1273509,Successful,CUST642752,Auto,Kengeri,Koramangala,6.1,9.4,No,,No,,No,,363,7.5,4.1,4.5,Card
+07-09-2025,20:36:00,CNR6283223,Cancelled by Driver,CUST122755,Bike,Sarjapur Road,Kundalahalli,,,No,,Yes,Customer related issue,No,,,3,,,Cash
+06-09-2025,13:51:00,CNR6966913,Successful,CUST263690,Auto,Banerghatta Road,Peenya,5.3,5,No,,No,,No,,342,7.8,4.1,4.7,UPI
+08-09-2025,11:07:00,CNR2541912,Successful,CUST698199,Mini,Electronic City,Hulimavu,8.2,9.2,No,,No,,No,,148,6.3,4.3,4.8,UPI
+12-09-2025,14:14:00,CNR3900822,Successful,CUST611994,eBike,Sarjapur Road,Sarjapur Road,2.6,3.1,No,,No,,No,,87,6.7,4.2,5,Cash
+28-09-2025,16:09:00,CNR6039762,Successful,CUST139186,Bike,Yeshwantpur,Cooke Town,3,6.8,No,,No,,No,,356,9.8,4.4,3.9,UPI
+04-09-2025,19:09:00,CNR6610127,Successful,CUST464831,Prime SUV,Koramangala 5th Block,Koramangala 1st Block,12.5,13.1,No,,No,,No,,827,20.5,4.7,3.8,Card
+06-09-2025,19:08:00,CNR4803691,Successful,CUST883997,Mini,Kudlu,Koramangala,7.3,8.8,No,,No,,No,,470,2.4,4.8,4,UPI
+21-09-2025,06:55:00,CNR6113416,Successful,CUST649855,Auto,Chamarajpet,Yeshwantpur,3.9,2.2,No,,No,,No,,224,4.6,4.8,4.4,UPI
+16-09-2025,09:46:00,CNR3570227,Successful,CUST152973,Bike,Residency Road,Airport Road,4.1,3.8,No,,No,,No,,756,22.1,4.2,4.7,UPI
+20-09-2025,07:32:00,CNR4725978,Successful,CUST552917,Prime Sedan,Residency Road,Malleshwaram,10.7,12.1,No,,No,,No,,364,3.3,4.4,4.6,Wallet
+05-09-2025,15:45:00,CNR1827302,Other,CUST674779,Mini,Whitefield,Residency Road,,,No,,No,,No,,,7.5,,,Card
+24-09-2025,08:13:00,CNR3262755,Cancelled by Customer,CUST604283,Mini,Ulsoor,Residency Road,,,Yes,Driver asked to cancel,No,,No,,,8.2,,,UPI
+19-09-2025,18:33:00,CNR9795418,Cancelled by Customer,CUST358207,Prime Plus,Kundalahalli,Sadananda Nagar,,,Yes,AC is not working (Only for 4-wheelers),No,,No,,,6.7,,,UPI
+05-09-2025,17:27:00,CNR7938755,Successful,CUST544114,Prime Sedan,Jalahalli,Basavanagudi,5.4,6.8,No,,No,,No,,213,5.3,4.6,4.4,Wallet
+21-09-2025,19:08:00,CNR6114011,Successful,CUST277477,Prime SUV,Ejipura,Airport Road,7.8,7.2,No,,No,,No,,499,8.5,5,4.1,Cash
+14-09-2025,21:46:00,CNR4917305,Successful,CUST309385,Bike,Malleshwaram,Chikkabanavara,5.3,5.6,No,,No,,No,,916,22.8,4.3,4.4,UPI
+05-09-2025,18:37:00,CNR1914996,Cancelled by Customer,CUST354854,Prime SUV,Malleshwaram,Marathahalli,,,Yes,Driver is not moving towards pickup location,No,,No,,,11.5,,,UPI
+11-09-2025,14:02:00,CNR1381650,Successful,CUST447997,Prime Plus,Chamarajpet,Electronic City,12.5,13.1,No,,No,,No,,182,8.5,4,4.2,Cash
+17-09-2025,10:24:00,CNR9103837,Successful,CUST753306,Bike,Malleshwaram,Sarjapur Road,3.3,6.7,No,,No,,No,,273,7.6,5,5,UPI
+01-09-2025,15:56:00,CNR9838222,Successful,CUST145594,Prime Plus,Brigade Road,Marathahalli,1.4,3,No,,No,,No,,118,5.2,4.3,5,UPI
+21-09-2025,10:37:00,CNR1890622,Cancelled by Driver,CUST587546,Mini,Koramangala,Jayanagar,,,No,,Yes,The customer was coughing/sick,No,,,6,,,Wallet
+21-09-2025,21:34:00,CNR7043474,Successful,CUST213132,Auto,Hosur Road,Cooke Town,7.7,10.1,No,,No,,No,,296,4.6,4,4.2,UPI
+14-09-2025,22:40:00,CNR2671072,Successful,CUST430779,Mini,Kudlu,Chamarajpet,3.6,4.6,No,,No,,No,,370,8.5,5,4.8,Cash
+07-09-2025,22:29:00,CNR8683734,Successful,CUST687923,Prime SUV,Indiranagar,MG Road,11.9,17.7,No,,No,,No,,499,1.8,4.5,4,UPI
+17-09-2025,11:41:00,CNR9219709,Successful,CUST512509,Bike,Indiranagar,Sanjay Nagar,4.8,4.6,No,,No,,No,,279,3.6,4.4,4.8,Card
+13-09-2025,11:09:00,CNR4962858,Successful,CUST625600,Prime Sedan,Brigade Road,Vijayanagar,9.5,9.8,No,,No,,No,,67,7.4,5,4.2,UPI
+14-09-2025,19:54:00,CNR1494355,Successful,CUST681896,Prime SUV,Banaswadi,Malleshwaram,12.9,14,No,,No,,No,,156,8,4.5,4.8,Card
+14-09-2025,08:20:00,CNR2472955,Successful,CUST865344,Mini,Nagarbhavi,Ejipura,9.6,10.1,No,,No,,No,,999,18.8,5,4.5,Cash
+21-09-2025,13:07:00,CNR5032585,Successful,CUST700727,Auto,Kengeri,Kudlu,4.7,8.2,No,,No,,No,,221,7.8,4.8,4.5,UPI
+18-09-2025,09:31:00,CNR3324928,Successful,CUST709254,Mini,Jalahalli,HSR Layout,9.4,11.8,No,,No,,No,,213,5.8,4.5,5,Cash
+21-09-2025,14:56:00,CNR3269160,Cancelled by Driver,CUST550955,Prime SUV,Sadananda Nagar,Malleshwaram,,,No,,Yes,Customer related issue,No,,,6.1,,,UPI
+12-09-2025,15:30:00,CNR9941610,Cancelled by Driver,CUST854388,Auto,Basavanagudi,Malleshwaram,,,No,,Yes,The customer was coughing/sick,No,,,22.2,,,UPI
+28-09-2025,13:03:00,CNR7899659,Other,CUST418083,Mini,Vijayanagar,Talaghattapura,,,No,,No,,No,,,7.5,,,Cash
+25-09-2025,07:49:00,CNR3206973,Successful,CUST293720,Auto,Ejipura,Ejipura,6.2,7.2,No,,No,,No,,250,7.2,4.2,4.2,UPI
+19-09-2025,09:56:00,CNR4895376,Successful,CUST342129,Bike,Sanjay Nagar,Whitefield,1.7,3.7,No,,No,,No,,285,1.5,3.9,4.4,Wallet
+14-09-2025,14:34:00,CNR8864546,Successful,CUST846606,Mini,Banashankari,Cooke Town,7.8,7.1,No,,No,,No,,466,8.4,3.3,4.6,UPI
+07-09-2025,09:17:00,CNR4796232,Other,CUST133795,Mini,Koramangala,Kundalahalli,,,No,,No,,No,,,7.9,,,UPI
+07-09-2025,17:27:00,CNR4402982,Successful,CUST894586,Prime Plus,Banashankari,Airport Road,7.1,9.1,No,,No,,No,,691,34.5,4.5,3.9,Cash
+15-09-2025,11:32:00,CNR8676330,Successful,CUST358771,Mini,Sadananda Nagar,MG Road,4.8,4.8,No,,No,,No,,308,0.5,4.7,5,UPI
+27-09-2025,18:17:00,CNR6249548,Incomplete,CUST513296,Mini,Talaghattapura,Yeshwantpur,,,No,,No,,Yes,Other Issue,,8.3,,,Card
+21-09-2025,18:01:00,CNR1646123,Cancelled by Driver,CUST645940,Auto,Baiyappanahalli,MG Road,,,No,,Yes,Customer related issue,No,,,22,,,UPI
+17-09-2025,12:45:00,CNR1658532,Cancelled by Customer,CUST684791,Mini,Chikkabanavara,Vijayanagar,,,Yes,Driver asked to cancel,No,,No,,,19.8,,,Card
+10-09-2025,12:47:00,CNR6109570,Cancelled by Driver,CUST911259,eBike,Baiyappanahalli,Rajajinagar,,,No,,Yes,Personal & Car related issues,No,,,10,,,UPI
+21-09-2025,21:25:00,CNR3386384,Cancelled by Driver,CUST586097,eBike,Airport Road,Whitefield,,,No,,Yes,Personal & Car related issues,No,,,21.8,,,Card
+07-09-2025,15:59:00,CNR3270069,Successful,CUST512160,Mini,Airport Road,Indiranagar,7.3,6.7,No,,No,,No,,270,5.5,4.9,3.9,UPI
+20-09-2025,18:09:00,CNR4387856,Incomplete,CUST576769,Auto,Basavanagudi,Sarjapur Road,,,No,,No,,Yes,Other Issue,,7.9,,,UPI
+26-09-2025,18:15:00,CNR3072728,Cancelled by Customer,CUST195620,Auto,Airport Road,Vijayanagar,,,Yes,Wrong Address,No,,No,,,6.3,,,UPI
+22-09-2025,22:38:00,CNR9584338,Successful,CUST741804,Prime SUV,Cooke Town,Sarakki,13.6,10.7,No,,No,,No,,193,3.7,4.2,4.2,Card
+24-09-2025,21:34:00,CNR6623607,Successful,CUST692960,Prime SUV,Malleshwaram,Rajajinagar,12.5,13.7,No,,No,,No,,771,2.3,4.2,4.1,UPI
+07-09-2025,18:09:00,CNR1860847,Incomplete,CUST539963,Prime Sedan,Hulimavu,Sadananda Nagar,,,No,,No,,Yes,Vehicle Breakdown,,9.9,,,UPI
+21-09-2025,08:00:00,CNR3207395,Successful,CUST312705,Auto,Chikkabanavara,Kalyan Nagar,4.5,4.8,No,,No,,No,,301,0.9,4.2,3.8,Card
+15-09-2025,14:30:00,CNR1096478,Successful,CUST737517,Prime SUV,Richmond Town,Electronic City,6.6,11.3,No,,No,,No,,301,4,4.5,4.8,Cash
+14-09-2025,12:59:00,CNR8413438,Successful,CUST183262,Mini,Koramangala,Richmond Town,7.1,7.8,No,,No,,No,,720,10.7,4.2,4,UPI
+10-09-2025,16:43:00,CNR4483580,Successful,CUST151295,Prime Plus,Brigade Road,Hosur Road,7.3,9.1,No,,No,,No,,205,7.9,3.9,4.6,Cash
+07-09-2025,06:33:00,CNR6007018,Successful,CUST447195,Prime SUV,Brigade Road,Hebbal,10.1,10.7,No,,No,,No,,471,4.9,4.7,3.9,UPI
+07-09-2025,17:28:00,CNR5771113,Successful,CUST740774,Bike,Sarjapur Road,Kudlu,6.3,5,No,,No,,No,,291,9.3,4.8,4.4,Cash
+19-09-2025,22:29:00,CNR8639301,Successful,CUST885734,Mini,MG Road,Whitefield,4.4,7.5,No,,No,,No,,712,13.6,4.8,4.7,Cash
+12-09-2025,21:19:00,CNR7357547,Successful,CUST960109,Auto,Koramangala 5th Block,Sarakki,4.9,5.9,No,,No,,No,,83,5.4,4,5,UPI
+14-09-2025,08:04:00,CNR5603979,Cancelled by Customer,CUST445200,Mini,Shivaji Nagar,Electronic City,,,Yes,AC is not working (Only for 4-wheelers),No,,No,,,10.4,,,UPI
+04-09-2025,15:45:00,CNR9874251,Other,CUST191928,Mini,Sarjapur Road,Kudlu,,,No,,No,,No,,,17.5,,,Wallet
+30-09-2025,10:54:00,CNR8164770,Successful,CUST738419,eBike,Kalyan Nagar,Shivaji Nagar,5.3,7.4,No,,No,,No,,128,0.5,4.3,4.8,Card
+21-09-2025,21:49:00,CNR3176225,Successful,CUST744129,Mini,Shivaji Nagar,Hulimavu,0.6,2,No,,No,,No,,499,5.3,4.9,5,UPI
+15-09-2025,09:04:00,CNR4904421,Successful,CUST843007,Prime Sedan,Jalahalli,Koramangala,9.3,9.3,No,,No,,No,,346,3.5,4.3,5,UPI
+14-09-2025,19:35:00,CNR2978465,Cancelled by Driver,CUST873291,eBike,Ejipura,Koramangala 1st Block,,,No,,Yes,The customer was coughing/sick,No,,,6,,,UPI
+13-09-2025,19:45:00,CNR4562439,Successful,CUST111846,Mini,Sarjapur Road,Marathahalli,6.7,5,No,,No,,No,,276,6.2,5,3.9,Card
+04-09-2025,11:07:00,CNR9500841,Successful,CUST676710,Prime Sedan,Koramangala,Yelahanka,11.2,17.1,No,,No,,No,,126,4.7,4.1,5,UPI
+13-09-2025,18:21:00,CNR1488508,Successful,CUST972460,Auto,Kammanahalli,Kammanahalli,2.6,3.7,No,,No,,No,,946,21,4.9,4.7,UPI
+14-09-2025,14:05:00,CNR1596568,Cancelled by Driver,CUST777015,Auto,Malleshwaram,Vijayanagar,,,No,,Yes,The customer was coughing/sick,No,,,5.2,,,UPI
+14-09-2025,19:53:00,CNR7944979,Successful,CUST878656,Auto,Shivaji Nagar,Kengeri,3.7,6.7,No,,No,,No,,130,2.6,4.5,4.5,Wallet
+21-09-2025,15:28:00,CNR9990666,Successful,CUST119627,Prime Plus,Nagarbhavi,Kammanahalli,8.6,12.2,No,,No,,No,,999,17.9,4.7,5,UPI
+28-09-2025,12:02:00,CNR2110870,Cancelled by Customer,CUST256557,Prime Sedan,Indiranagar,Kammanahalli,,,Yes,AC is not working (Only for 4-wheelers),No,,No,,,36.6,,,UPI
+27-09-2025,15:44:00,CNR7535837,Other,CUST296481,Mini,Chikkabanavara,Kengeri,,,No,,No,,No,,,11.6,,,Wallet
+11-09-2025,06:32:00,CNR5554970,Successful,CUST533973,Auto,Richmond Town,Banerghatta Road,5.7,7,No,,No,,No,,364,13,4.3,4.9,UPI
+28-09-2025,09:41:00,CNR9809723,Cancelled by Driver,CUST417003,Auto,Banerghatta Road,MG Road,,,No,,Yes,Personal & Car related issues,No,,,13.4,,,Cash
+14-09-2025,06:25:00,CNR9097744,Cancelled by Driver,CUST624344,Auto,Kammanahalli,Seshadripuram,,,No,,Yes,The customer was coughing/sick,No,,,24.2,,,Card
+24-09-2025,08:26:00,CNR2648387,Other,CUST962074,Prime SUV,Shivaji Nagar,Nagarbhavi,,,No,,No,,No,,,38,,,UPI
+07-09-2025,06:37:00,CNR8706923,Successful,CUST506415,Bike,Shivaji Nagar,Yelahanka,2.2,0.9,No,,No,,No,,324,7.2,4.5,4.8,Card
+28-09-2025,17:43:00,CNR2460891,Successful,CUST449479,Mini,MG Road,Hebbal,4.7,5.7,No,,No,,No,,499,4.2,4.6,4.6,Card
+21-09-2025,11:19:00,CNR1377156,Successful,CUST705615,Bike,Vijayanagar,Electronic City,3.3,3.5,No,,No,,No,,327,7.3,4.4,4.8,UPI
+07-09-2025,10:43:00,CNR9930106,Successful,CUST434652,Bike,Bharathnagar,Yelahanka,2.8,5.3,No,,No,,No,,467,4.8,4.4,4.1,UPI
+07-09-2025,07:57:00,CNR1255965,Successful,CUST753205,Mini,Hebbal,Electronic City,8,11.4,No,,No,,No,,310,6.4,4.4,4.4,UPI
+18-09-2025,10:37:00,CNR3374929,Successful,CUST838568,Bike,Yeshwantpur,Richmond Town,0.5,1.8,No,,No,,No,,158,2.6,4.4,4.6,Wallet
+11-09-2025,21:13:00,CNR6683095,Other,CUST666836,Mini,HSR Layout,Indiranagar,,,No,,No,,No,,,5.4,,,UPI
+21-09-2025,07:48:00,CNR7435734,Cancelled by Driver,CUST156413,Auto,Residency Road,Banashankari,,,No,,Yes,More than permitted people in there,No,,,24.2,,,UPI
+21-09-2025,11:19:00,CNR6575607,Successful,CUST957150,Prime Plus,Chikkabanavara,Bharathnagar,7.8,8.4,No,,No,,No,,508,15.8,5,4.3,UPI
+05-09-2025,21:44:00,CNR8813071,Successful,CUST695370,Auto,Sarjapur Road,Baiyappanahalli,3,2.4,No,,No,,No,,148,8.8,4.4,4.6,Cash
+11-09-2025,16:59:00,CNR8808058,Other,CUST593403,Prime Plus,Banaswadi,Malleshwaram,,,No,,No,,No,,,16.9,,,Card
+21-09-2025,21:34:00,CNR7097668,Successful,CUST511122,Prime Plus,Bharathnagar,Kammanahalli,13.1,12.7,No,,No,,No,,949,20.2,5,4,Cash
+28-09-2025,13:44:00,CNR9179005,Successful,CUST131734,Auto,Yelahanka,Sanjay Nagar,7,5.7,No,,No,,No,,248,7.2,5,4.6,UPI
+27-09-2025,10:49:00,CNR6848796,Successful,CUST733801,Mini,Frazer Town,Hebbal,9.7,12,No,,No,,No,,438,5.7,4.2,4.2,Wallet
+21-09-2025,07:49:00,CNR6467186,Other,CUST683165,Mini,Kengeri,Chamarajpet,,,No,,No,,No,,,1.6,,,UPI
+20-09-2025,10:04:00,CNR5088457,Successful,CUST674566,Auto,Seshadripuram,Cooke Town,3.8,7.7,No,,No,,No,,189,2.6,4.3,5,UPI
+07-09-2025,17:50:00,CNR8233471,Cancelled by Driver,CUST922412,Prime SUV,Yeshwantpur,Kammanahalli,,,No,,Yes,Customer related issue,No,,,2,,,UPI
+07-09-2025,17:25:00,CNR2306851,Successful,CUST875282,Prime SUV,Yeshwantpur,Ulsoor,3.8,5.5,No,,No,,No,,421,9.9,4.3,4.8,UPI
+20-09-2025,11:33:00,CNR2638360,Successful,CUST961953,Mini,Kengeri,Residency Road,10.4,8.9,No,,No,,No,,466,7.8,4.2,5,Cash
+06-09-2025,19:53:00,CNR7357071,Cancelled by Driver,CUST443312,Mini,Bharathnagar,Brigade Road,,,No,,Yes,Customer related issue,No,,,6.2,,,Card
+28-09-2025,21:24:00,CNR1003092,Cancelled by Customer,CUST893853,Auto,Malleshwaram,Airport Road,,,Yes,Wrong Address,No,,No,,,8.1,,,UPI
+21-09-2025,13:37:00,CNR4282741,Successful,CUST315651,Bike,Basavanagudi,Kengeri,3.8,3.3,No,,No,,No,,354,5.4,4.5,5,UPI
+28-09-2025,11:11:00,CNR8293509,Successful,CUST852658,Prime SUV,Sanjay Nagar,Whitefield,8.6,12.3,No,,No,,No,,191,6.6,4.7,4.6,UPI
+21-09-2025,14:42:00,CNR7781307,Incomplete,CUST988811,Auto,Marathahalli,Brigade Road,,,No,,No,,Yes,Other Issue,,4.4,,,UPI
+29-09-2025,06:00:00,CNR7027124,Cancelled by Customer,CUST215027,Prime SUV,Indiranagar,Richmond Town,,,Yes,AC is not working (Only for 4-wheelers),No,,No,,,7.4,,,UPI
+14-09-2025,11:25:00,CNR7422144,Successful,CUST525756,Mini,Chamarajpet,Electronic City,4.2,7.2,No,,No,,No,,50,4.4,4.2,4.7,UPI
+14-09-2025,09:12:00,CNR7452434,Cancelled by Driver,CUST984293,Prime SUV,Koramangala 1st Block,Malleshwaram,,,No,,Yes,Customer related issue,No,,,4.3,,,UPI
+07-09-2025,07:13:00,CNR1263533,Cancelled by Customer,CUST250990,Bike,Ulsoor,Bharathnagar,,,Yes,Driver asked to cancel,No,,No,,,11,,,Card
+05-09-2025,16:57:00,CNR7976896,Successful,CUST578180,Prime SUV,Sarjapur Road,Kudlu,8,6.2,No,,No,,No,,658,4.8,4,3.6,UPI
+21-09-2025,13:45:00,CNR9546564,Cancelled by Customer,CUST544726,Mini,Airport Road,Cooke Town,,,Yes,Driver asked to cancel,No,,No,,,5.9,,,UPI
+14-09-2025,06:07:00,CNR9357686,Successful,CUST987938,Bike,Ejipura,Frazer Town,2,1.2,No,,No,,No,,329,6.2,4.2,4.5,UPI
+28-09-2025,15:50:00,CNR7156735,Successful,CUST135087,Prime SUV,Yeshwantpur,Seshadripuram,7.5,10.7,No,,No,,No,,955,22.4,4.6,5,UPI
+06-09-2025,14:13:00,CNR2343236,Successful,CUST248989,Bike,Shivaji Nagar,Chikkabanavara,2.9,5.9,No,,No,,No,,591,10,3.8,4.7,UPI
+14-09-2025,07:20:00,CNR9780469,Successful,CUST739705,Auto,Seshadripuram,Vijayanagar,5.9,6.3,No,,No,,No,,652,15.6,4.4,4.1,Wallet
+28-09-2025,07:19:00,CNR6242875,Cancelled by Driver,CUST742818,Auto,Kammanahalli,Chamarajpet,,,No,,Yes,More than permitted people in there,No,,,13.7,,,UPI
+14-09-2025,21:27:00,CNR8872413,Successful,CUST701846,Bike,Koramangala 1st Block,Sanjay Nagar,2.6,5.4,No,,No,,No,,995,15.7,5,4.5,UPI
+26-09-2025,10:56:00,CNR3810320,Successful,CUST137042,Bike,Kudlu,Talaghattapura,3.9,6.1,No,,No,,No,,157,0.7,4.4,4.2,Wallet
+25-09-2025,10:26:00,CNR2030419,Other,CUST759868,Mini,Rajajinagar,Yeshwantpur,,,No,,No,,No,,,3.4,,,Cash
+30-09-2025,19:48:00,CNR1457985,Successful,CUST400748,Mini,HSR Layout,Frazer Town,9,8.3,No,,No,,No,,185,8.3,4.8,5,UPI
+25-09-2025,10:18:00,CNR3223631,Successful,CUST745710,Prime Sedan,Kalyan Nagar,Koramangala,9.7,11.8,No,,No,,No,,605,16.3,4.5,4.3,UPI
+20-09-2025,21:31:00,CNR3535634,Successful,CUST791174,Mini,Banashankari,Kalyan Nagar,5.6,9.3,No,,No,,No,,898,27.1,5,4.7,UPI
+07-09-2025,09:05:00,CNR9848116,Cancelled by Driver,CUST134697,Prime Sedan,Whitefield,Malleshwaram,,,No,,Yes,Customer related issue,No,,,6.1,,,UPI
+27-09-2025,18:50:00,CNR7928115,Incomplete,CUST907789,Mini,Bharathnagar,Airport Road,,,No,,No,,Yes,Customer Demand,,22.5,,,UPI
+07-09-2025,18:31:00,CNR6789409,Successful,CUST156964,Mini,Chikkabanavara,Yelahanka,7.8,9,No,,No,,No,,332,7.3,4.3,3.4,UPI
+14-09-2025,14:07:00,CNR6056101,Cancelled by Customer,CUST599401,Bike,Chikkabanavara,Chamarajpet,,,Yes,Wrong Address,No,,No,,,8.1,,,UPI
+14-09-2025,08:28:00,CNR9899342,Successful,CUST555851,Auto,Airport Road,Cooke Town,2.1,5.1,No,,No,,No,,392,6.5,4.9,4.6,UPI
+28-09-2025,17:39:00,CNR1688161,Successful,CUST202093,Prime SUV,Vijayanagar,Sanjay Nagar,11,10.8,No,,No,,No,,999,8.9,4.4,5,Wallet
+14-09-2025,21:40:00,CNR5573311,Incomplete,CUST451238,Prime Sedan,Hebbal,Kalyan Nagar,,,No,,No,,Yes,Vehicle Breakdown,,5.5,,,Wallet
+14-09-2025,17:31:00,CNR5056679,Successful,CUST869983,Bike,Sadananda Nagar,Jalahalli,3.8,7.2,No,,No,,No,,295,9.9,5,5,Card
+21-09-2025,22:57:00,CNR4018500,Successful,CUST428487,Mini,Nagarbhavi,Koramangala,8.1,9.3,No,,No,,No,,999,16.8,4.9,4.5,UPI
+01-09-2025,07:40:00,CNR9812472,Cancelled by Driver,CUST208954,Bike,Sanjay Nagar,Banaswadi,,,No,,Yes,The customer was coughing/sick,No,,,18.5,,,UPI
+07-09-2025,06:24:00,CNR2542518,Other,CUST159645,Prime SUV,Bharathnagar,Electronic City,,,No,,No,,No,,,17.8,,,UPI
+21-09-2025,18:05:00,CNR3012881,Successful,CUST190582,eBike,HSR Layout,Cooke Town,4,3.5,No,,No,,No,,428,2.9,4.6,4.2,UPI
+28-09-2025,15:39:00,CNR4099902,Successful,CUST216229,Bike,Kalyan Nagar,Marathahalli,2.2,7,No,,No,,No,,260,4.9,4.8,5,Cash
+28-09-2025,16:54:00,CNR8607523,Successful,CUST389809,Bike,Sarjapur Road,Bharathnagar,6,4,No,,No,,No,,739,14.1,4.8,4.4,UPI
+12-09-2025,08:45:00,CNR2241464,Successful,CUST390756,Bike,Cooke Town,Cooke Town,3,6.3,No,,No,,No,,263,7.4,4.4,4.8,Card
+04-09-2025,22:18:00,CNR5440339,Cancelled by Driver,CUST286572,Mini,Ulsoor,Jalahalli,,,No,,Yes,Customer related issue,No,,,9.1,,,UPI
+21-09-2025,07:51:00,CNR3413781,Successful,CUST666893,Bike,Electronic City,Ejipura,2.4,4.9,No,,No,,No,,326,4.5,5,4.5,Wallet
+28-09-2025,18:12:00,CNR5345236,Successful,CUST208304,Auto,Jayanagar,Yeshwantpur,3.5,9.2,No,,No,,No,,936,23.7,4.2,4.3,UPI
+24-09-2025,06:19:00,CNR9350043,Successful,CUST256085,Mini,Koramangala,MG Road,9.8,13.2,No,,No,,No,,277,8.4,4.3,4.5,UPI
+09-09-2025,17:56:00,CNR6533643,Successful,CUST510339,Mini,Frazer Town,Ejipura,5.5,7,No,,No,,No,,680,24.8,3.8,4.3,Card
+15-09-2025,13:26:00,CNR7776531,Cancelled by Driver,CUST985049,Bike,Jayanagar,Chamarajpet,,,No,,Yes,More than permitted people in there,No,,,8.1,,,Cash
+28-09-2025,19:57:00,CNR9087731,Successful,CUST227091,Mini,Sanjay Nagar,Kammanahalli,5.1,9.3,No,,No,,No,,419,0.8,4.7,4.3,UPI
+14-09-2025,16:47:00,CNR2521139,Cancelled by Driver,CUST483102,Mini,Kammanahalli,Whitefield,,,No,,Yes,The customer was coughing/sick,No,,,15.9,,,UPI
+21-09-2025,09:00:00,CNR1659867,Successful,CUST502824,Bike,Kengeri,Sarjapur Road,0.5,2.7,No,,No,,No,,161,6.1,4.2,5,Card
+06-09-2025,17:45:00,CNR7027401,Successful,CUST610135,Auto,Vijayanagar,Airport Road,2.5,0.5,No,,No,,No,,973,15.6,5,4.6,Cash
+07-09-2025,09:17:00,CNR1425547,Successful,CUST854701,Prime SUV,Richmond Town,Ulsoor,10.3,12.9,No,,No,,No,,196,11.7,3.8,4.3,UPI
+25-09-2025,16:58:00,CNR6162867,Incomplete,CUST623956,Mini,Airport Road,Indiranagar,,,No,,No,,Yes,Customer Demand,,3.7,,,Card
+13-09-2025,18:18:00,CNR1718308,Cancelled by Driver,CUST525205,Auto,Hosur Road,Bharathnagar,,,No,,Yes,Customer related issue,No,,,4.7,,,UPI
+23-09-2025,09:58:00,CNR2208521,Cancelled by Driver,CUST138669,Bike,Ulsoor,Hosur Road,,,No,,Yes,Personal & Car related issues,No,,,0.5,,,UPI
+08-09-2025,17:04:00,CNR3190059,Successful,CUST115063,Auto,Brigade Road,Kengeri,4.5,8.8,No,,No,,No,,665,18.8,4.1,4.5,UPI
+06-09-2025,16:25:00,CNR3863692,Successful,CUST975930,Mini,Hebbal,Yelahanka,6.4,7.8,No,,No,,No,,363,3,4.1,5,Cash
+26-09-2025,09:45:00,CNR2058811,Cancelled by Driver,CUST943530,Prime Plus,Kammanahalli,Talaghattapura,,,No,,Yes,The customer was coughing/sick,No,,,5.4,,,UPI
+06-09-2025,17:40:00,CNR3304005,Cancelled by Customer,CUST437211,eBike,Electronic City,Chikkabanavara,,,Yes,Driver asked to cancel,No,,No,,,7.7,,,UPI
+13-09-2025,08:03:00,CNR5595168,Successful,CUST248097,Bike,Rajajinagar,Sarjapur Road,4.2,5.5,No,,No,,No,,262,4.4,4.7,3.7,UPI
+07-09-2025,10:09:00,CNR1682814,Successful,CUST239849,Auto,Vijayanagar,Ejipura,5.7,4.7,No,,No,,No,,499,5.5,4.3,4.7,UPI
+07-09-2025,21:00:00,CNR9169958,Cancelled by Driver,CUST184643,Auto,Banashankari,Whitefield,,,No,,Yes,The customer was coughing/sick,No,,,17.2,,,UPI
+14-09-2025,19:46:00,CNR8986164,Successful,CUST825990,Auto,Malleshwaram,Vijayanagar,6.6,7.9,No,,No,,No,,401,5.7,5,4.4,UPI
+14-09-2025,10:04:00,CNR3928445,Successful,CUST740195,Bike,Kudlu,Banashankari,2.9,9.8,No,,No,,No,,970,14.1,4.5,5,UPI
+21-09-2025,07:30:00,CNR6053293,Cancelled by Driver,CUST464750,Mini,Sarakki,Richmond Town,,,No,,Yes,Personal & Car related issues,No,,,6.7,,,UPI
+21-09-2025,20:43:00,CNR9515120,Successful,CUST329927,Mini,Vijayanagar,Bharathnagar,2.3,6.2,No,,No,,No,,186,0.5,4.4,3.7,UPI
+03-09-2025,07:55:00,CNR3503452,Successful,CUST818530,eBike,Seshadripuram,Ulsoor,2.3,0.5,No,,No,,No,,236,6.1,5,3.9,UPI
+21-09-2025,06:44:00,CNR1906432,Cancelled by Driver,CUST776185,Prime Sedan,Electronic City,Koramangala 5th Block,,,No,,Yes,More than permitted people in there,No,,,7.1,,,UPI
+03-09-2025,18:38:00,CNR1880075,Successful,CUST663463,Auto,Indiranagar,Ulsoor,1.1,1.7,No,,No,,No,,106,1.5,4.6,4,UPI
+04-09-2025,10:00:00,CNR8462856,Successful,CUST721497,Mini,Koramangala 1st Block,Jalahalli,3.1,3.5,No,,No,,No,,500,7.2,4.2,4.2,UPI
+28-09-2025,09:55:00,CNR2847722,Successful,CUST441974,Prime Plus,Richmond Town,Talaghattapura,10.2,12.5,No,,No,,No,,207,4,4.3,4.7,Card
+07-09-2025,21:12:00,CNR4702106,Incomplete,CUST177101,Mini,Ulsoor,Brigade Road,,,No,,No,,Yes,Customer Demand,,26.4,,,UPI
+07-09-2025,16:24:00,CNR8633480,Successful,CUST286710,Mini,HSR Layout,Baiyappanahalli,5.1,3.8,No,,No,,No,,999,9,4,4.7,UPI
+21-09-2025,22:38:00,CNR5524723,Successful,CUST312033,Prime Sedan,MG Road,Sarjapur Road,0.5,1.2,No,,No,,No,,463,1.3,4.5,3.1,UPI
+10-09-2025,07:53:00,CNR8810369,Other,CUST580854,Mini,Chikkabanavara,Kammanahalli,,,No,,No,,No,,,3.3,,,UPI
+10-09-2025,08:40:00,CNR3851044,Successful,CUST706204,Prime SUV,Banaswadi,Whitefield,10.2,14.2,No,,No,,No,,310,5.7,4.5,4.8,UPI
+17-09-2025,20:42:00,CNR4631304,Successful,CUST720317,Mini,Baiyappanahalli,Kundalahalli,9.6,6.5,No,,No,,No,,259,0.7,5,4.7,UPI
+14-09-2025,20:53:00,CNR5138170,Incomplete,CUST359870,Prime Sedan,Peenya,Banaswadi,,,No,,No,,Yes,Other Issue,,8.5,,,UPI
+28-09-2025,21:35:00,CNR1085187,Successful,CUST538065,Prime SUV,MG Road,Seshadripuram,8.1,6.3,No,,No,,No,,999,31.4,4,4.6,Card
+16-09-2025,13:15:00,CNR9910743,Cancelled by Driver,CUST513474,Mini,Sarjapur Road,Hebbal,,,No,,Yes,Customer related issue,No,,,3.9,,,Card
+05-09-2025,18:51:00,CNR1208423,Incomplete,CUST826830,Bike,Electronic City,HSR Layout,,,No,,No,,Yes,Customer Demand,,7.6,,,Card
+21-09-2025,07:32:00,CNR1267263,Successful,CUST603088,Bike,Rajajinagar,Ejipura,4.3,6.1,No,,No,,No,,441,5.6,4.9,5,UPI
+19-09-2025,15:57:00,CNR1409590,Successful,CUST576935,Mini,HSR Layout,Ejipura,1.7,3.7,No,,No,,No,,290,4.2,4.6,4,UPI
+25-09-2025,12:19:00,CNR8789590,Cancelled by Driver,CUST838094,Mini,Vijayanagar,Jayanagar,,,No,,Yes,The customer was coughing/sick,No,,,12,,,Card
+17-09-2025,11:03:00,CNR8145454,Cancelled by Driver,CUST889460,Prime Sedan,Ejipura,Chamarajpet,,,No,,Yes,Customer related issue,No,,,10.8,,,UPI
+25-09-2025,07:22:00,CNR6632022,Successful,CUST871501,Prime SUV,Frazer Town,Nagarbhavi,11.7,13.5,No,,No,,No,,181,3.6,4.9,3.9,UPI
+03-09-2025,12:32:00,CNR7133596,Successful,CUST587957,Mini,Banerghatta Road,Banerghatta Road,3.5,7.3,No,,No,,No,,306,2.5,4.1,4.5,UPI
+19-09-2025,07:08:00,CNR4434507,Other,CUST245129,Prime SUV,Richmond Town,Chamarajpet,,,No,,No,,No,,,6.6,,,Card
+14-09-2025,22:01:00,CNR4519758,Successful,CUST889759,Bike,Banaswadi,Basavanagudi,8.6,9.5,No,,No,,No,,476,7.4,4.5,4.6,Cash
+09-09-2025,17:36:00,CNR8095573,Successful,CUST390607,Auto,Banerghatta Road,Sanjay Nagar,1.1,4.3,No,,No,,No,,378,1.5,3.7,4.9,UPI
+16-09-2025,20:09:00,CNR3058722,Cancelled by Customer,CUST593002,Bike,Nagarbhavi,Chamarajpet,,,Yes,Wrong Address,No,,No,,,23.7,,,UPI
+21-09-2025,19:39:00,CNR2101048,Successful,CUST297503,Prime SUV,Baiyappanahalli,Whitefield,7.4,10.9,No,,No,,No,,495,12.6,4.5,4.9,Card
+28-09-2025,10:55:00,CNR2290961,Other,CUST214677,Auto,Yelahanka,Sarjapur Road,,,No,,No,,No,,,10.5,,,Card
+07-09-2025,09:29:00,CNR9735688,Successful,CUST757746,Auto,Koramangala 1st Block,Nagarbhavi,7.7,7.5,No,,No,,No,,323,9.1,5,4.9,Card
+07-09-2025,11:55:00,CNR8048611,Successful,CUST565420,Bike,Indiranagar,Marathahalli,2.4,6.6,No,,No,,No,,237,7.7,5,4.7,Cash
+02-09-2025,19:41:00,CNR4897818,Successful,CUST975505,Prime SUV,Hosur Road,Kammanahalli,11.7,12.9,No,,No,,No,,396,6.4,4.1,4.5,UPI
+13-09-2025,17:01:00,CNR6474513,Successful,CUST609763,Mini,Sarjapur Road,Shivaji Nagar,4.1,7.7,No,,No,,No,,999,11.1,5,4.1,UPI
+14-09-2025,11:11:00,CNR3213824,Incomplete,CUST927691,Prime Sedan,Kalyan Nagar,Banaswadi,,,No,,No,,Yes,Vehicle Breakdown,,3.8,,,UPI
+24-09-2025,06:48:00,CNR3488704,Cancelled by Driver,CUST470274,Prime Sedan,Rajajinagar,Ejipura,,,No,,Yes,The customer was coughing/sick,No,,,10.4,,,Wallet
+07-09-2025,08:59:00,CNR3575047,Successful,CUST269087,Prime Plus,MG Road,Basavanagudi,7.1,7.1,No,,No,,No,,384,3.4,4.7,5,UPI
+14-09-2025,12:18:00,CNR4095339,Cancelled by Driver,CUST315120,Mini,MG Road,Bharathnagar,,,No,,Yes,The customer was coughing/sick,No,,,9.5,,,UPI
+07-09-2025,13:39:00,CNR3727935,Successful,CUST659565,Prime Sedan,Indiranagar,Residency Road,8.2,8.6,No,,No,,No,,999,13.1,4.6,5,UPI
+24-09-2025,22:10:00,CNR8684648,Other,CUST435772,Auto,Talaghattapura,Chamarajpet,,,No,,No,,No,,,17.7,,,UPI
+12-09-2025,18:02:00,CNR5958621,Cancelled by Driver,CUST596931,Prime SUV,Chikkabanavara,Yeshwantpur,,,No,,Yes,More than permitted people in there,No,,,8,,,UPI
+13-09-2025,07:55:00,CNR9035971,Cancelled by Driver,CUST142027,Auto,Sarakki,Yelahanka,,,No,,Yes,More than permitted people in there,No,,,5.3,,,UPI
+21-09-2025,09:45:00,CNR8482180,Other,CUST474754,Auto,Brigade Road,Kudlu,,,No,,No,,No,,,4.9,,,Cash
+20-09-2025,09:47:00,CNR5662844,Successful,CUST305222,Auto,Chamarajpet,Airport Road,5.9,7.6,No,,No,,No,,90,6.8,4,4.6,Wallet
+28-09-2025,22:39:00,CNR9586369,Successful,CUST513583,Prime Plus,Basavanagudi,Kudlu,6.6,8.4,No,,No,,No,,443,2.2,4.4,3.8,UPI
+28-09-2025,21:30:00,CNR7057663,Successful,CUST516869,Auto,Koramangala 5th Block,Banerghatta Road,5.7,7.1,No,,No,,No,,363,5.2,4.3,4.7,UPI
+01-09-2025,11:53:00,CNR6894759,Successful,CUST423050,Prime SUV,Sarakki,Whitefield,7,7.5,No,,No,,No,,390,5.9,4.3,4.3,UPI
+28-09-2025,18:39:00,CNR7972774,Successful,CUST942725,Mini,Rajajinagar,Hulimavu,9.8,13.3,No,,No,,No,,771,11.4,4.7,4.3,UPI
+14-09-2025,21:17:00,CNR7949018,Successful,CUST246347,eBike,Kudlu,Whitefield,1.7,7,No,,No,,No,,116,3.3,4.8,4.3,UPI
+11-09-2025,22:52:00,CNR9813089,Cancelled by Customer,CUST451709,Auto,Peenya,Chikkabanavara,,,Yes,Driver is not moving towards pickup location,No,,No,,,7.2,,,UPI
+14-09-2025,21:36:00,CNR5585697,Cancelled by Customer,CUST534649,Auto,Baiyappanahalli,Ejipura,,,Yes,Driver asked to cancel,No,,No,,,4.1,,,UPI
+07-09-2025,20:12:00,CNR7405029,Cancelled by Driver,CUST403524,Mini,MG Road,Kengeri,,,No,,Yes,The customer was coughing/sick,No,,,15.8,,,UPI
+15-09-2025,18:37:00,CNR8775431,Successful,CUST335426,Auto,Koramangala,Malleshwaram,2.7,6.9,No,,No,,No,,227,0.5,4.8,4.2,Cash
+28-09-2025,20:14:00,CNR8927925,Successful,CUST230208,Mini,Marathahalli,Koramangala 1st Block,4.7,1.8,No,,No,,No,,387,7.6,5,3.8,UPI
+28-09-2025,17:00:00,CNR5106228,Successful,CUST129824,Auto,Kundalahalli,Ulsoor,7.1,10.5,No,,No,,No,,1373,31,4.8,4.3,UPI
+04-09-2025,18:43:00,CNR7069317,Cancelled by Driver,CUST709291,Mini,Koramangala 5th Block,Kalyan Nagar,,,No,,Yes,More than permitted people in there,No,,,5.7,,,Card
+29-09-2025,19:57:00,CNR3006281,Successful,CUST491330,Mini,Yeshwantpur,Indiranagar,4.4,7.9,No,,No,,No,,537,15.6,4.2,4.2,UPI
+07-09-2025,06:59:00,CNR3451774,Successful,CUST435209,Mini,Sarjapur Road,HSR Layout,10.8,10.4,No,,No,,No,,156,8.1,4.1,4.3,Cash
+03-09-2025,12:09:00,CNR8038277,Cancelled by Customer,CUST767153,Prime SUV,Sanjay Nagar,Brigade Road,,,Yes,AC is not working (Only for 4-wheelers),No,,No,,,5.3,,,UPI
+21-09-2025,07:18:00,CNR9621249,Other,CUST303229,Bike,Banashankari,Chikkabanavara,,,No,,No,,No,,,8.9,,,UPI
+23-09-2025,15:16:00,CNR6412444,Successful,CUST431570,eBike,Nagarbhavi,Kengeri,2.6,5.3,No,,No,,No,,385,0.5,4.8,4.9,UPI
+21-09-2025,12:11:00,CNR2607817,Successful,CUST660380,Mini,Malleshwaram,Koramangala,5.1,5.6,No,,No,,No,,499,4.4,4.8,5,UPI
+10-09-2025,19:17:00,CNR9135255,Successful,CUST532007,Prime Sedan,Rajajinagar,Hebbal,7.3,8.7,No,,No,,No,,263,10,4,4.4,UPI
+16-09-2025,20:11:00,CNR4161109,Cancelled by Driver,CUST933729,Prime SUV,Ejipura,Sarjapur Road,,,No,,Yes,Personal & Car related issues,No,,,17,,,UPI
+14-09-2025,21:38:00,CNR2281784,Successful,CUST222227,eBike,Indiranagar,Seshadripuram,2.6,0.5,No,,No,,No,,317,6.2,4.5,5,UPI
+21-09-2025,08:22:00,CNR8414487,Successful,CUST726680,Mini,Kammanahalli,Banashankari,5,1.9,No,,No,,No,,585,6.1,4.3,4.3,UPI
+02-09-2025,19:54:00,CNR2989725,Successful,CUST333159,Auto,Sarjapur Road,Malleshwaram,5.8,11.4,No,,No,,No,,218,5.4,3.8,4.2,UPI
+11-09-2025,09:34:00,CNR3184699,Successful,CUST182423,Mini,Chikkabanavara,Yelahanka,7,7.2,No,,No,,No,,234,7.3,4,4.9,UPI
+24-09-2025,18:55:00,CNR8235132,Successful,CUST144582,Prime Plus,MG Road,Bharathnagar,10.8,12.1,No,,No,,No,,264,2.1,4.5,4.3,Cash
+04-09-2025,08:01:00,CNR5244844,Cancelled by Driver,CUST145383,Auto,Bharathnagar,Koramangala,,,No,,Yes,Personal & Car related issues,No,,,20.6,,,UPI
+28-09-2025,09:30:00,CNR4355853,Successful,CUST293757,Bike,Indiranagar,Whitefield,2.8,2.7,No,,No,,No,,297,0.6,5,4.6,Cash
+23-09-2025,10:44:00,CNR6835728,Cancelled by Driver,CUST469311,Auto,Frazer Town,Sadananda Nagar,,,No,,Yes,Customer related issue,No,,,21.1,,,UPI
+16-09-2025,07:09:00,CNR2662717,Cancelled by Driver,CUST959398,Mini,Koramangala,Shivaji Nagar,,,No,,Yes,Customer related issue,No,,,10.5,,,UPI
+29-09-2025,08:55:00,CNR1072627,Successful,CUST860583,Auto,Electronic City,Frazer Town,2.8,5.3,No,,No,,No,,902,15.2,4.6,3.6,Card
+14-09-2025,17:54:00,CNR4105895,Successful,CUST561023,Bike,Hebbal,Banashankari,4.2,7.6,No,,No,,No,,850,9.7,4.2,4.2,UPI
+29-09-2025,13:14:00,CNR4594921,Successful,CUST639231,Prime Plus,Yelahanka,Chikkabanavara,4.8,3.9,No,,No,,No,,1001,22.9,4.7,4.1,UPI
+06-09-2025,07:52:00,CNR9719581,Cancelled by Driver,CUST242514,Mini,Banerghatta Road,Ejipura,,,No,,Yes,Personal & Car related issues,No,,,7.6,,,UPI
+05-09-2025,14:25:00,CNR2941503,Successful,CUST503472,Prime Sedan,Kudlu,Talaghattapura,8.3,10.4,No,,No,,No,,170,6.1,4.7,3.5,UPI
+29-09-2025,13:34:00,CNR4789527,Incomplete,CUST680822,Mini,Koramangala 5th Block,Jalahalli,,,No,,No,,Yes,Vehicle Breakdown,,16,,,UPI
+28-09-2025,12:16:00,CNR4008109,Successful,CUST113406,Prime SUV,Ulsoor,Nagarbhavi,13,12.4,No,,No,,No,,417,13.5,4.8,5,Cash
+14-09-2025,17:14:00,CNR2426162,Incomplete,CUST225008,Auto,Residency Road,Sarjapur Road,,,No,,No,,Yes,Customer Demand,,5.8,,,Card
+23-09-2025,21:13:00,CNR3830705,Successful,CUST167853,Prime Sedan,Jalahalli,Kammanahalli,5.1,9.4,No,,No,,No,,207,9.7,5,4.9,UPI
+27-09-2025,12:53:00,CNR3059607,Cancelled by Customer,CUST344181,eBike,Hulimavu,Ulsoor,,,Yes,Change of plans,No,,No,,,5.1,,,UPI
+23-09-2025,19:40:00,CNR7714837,Cancelled by Driver,CUST473395,Mini,Kudlu,Residency Road,,,No,,Yes,The customer was coughing/sick,No,,,26.6,,,UPI
+07-09-2025,13:45:00,CNR2812554,Successful,CUST228125,Prime Plus,Ulsoor,Banaswadi,10.7,11.5,No,,No,,No,,499,6.4,4.6,4.5,UPI
+07-09-2025,07:41:00,CNR1886716,Successful,CUST970645,Auto,Nagarbhavi,Indiranagar,4.2,3.7,No,,No,,No,,724,21.5,4.7,3.2,UPI
+14-09-2025,17:35:00,CNR6485409,Other,CUST260155,Prime Sedan,Ejipura,Hebbal,,,No,,No,,No,,,16.9,,,UPI
+21-09-2025,14:52:00,CNR9257536,Cancelled by Driver,CUST931239,Mini,Marathahalli,Bharathnagar,,,No,,Yes,The customer was coughing/sick,No,,,4.9,,,UPI
+18-09-2025,19:48:00,CNR1296459,Successful,CUST901075,Auto,Koramangala 5th Block,Yelahanka,3.2,4.5,No,,No,,No,,60,3.5,4.8,4.8,UPI
+11-09-2025,12:25:00,CNR8424860,Successful,CUST581984,Auto,Banashankari,Sarakki,6.2,10.3,No,,No,,No,,418,5.1,4.3,3.8,UPI
+25-09-2025,21:05:00,CNR3753883,Successful,CUST615353,Mini,Kengeri,Ejipura,4.2,5.2,No,,No,,No,,499,4.6,3.8,5,UPI
+24-09-2025,15:42:00,CNR9230125,Successful,CUST792142,Mini,Chamarajpet,Yeshwantpur,4.1,8.3,No,,No,,No,,262,10.3,4.2,4.2,UPI
+19-09-2025,08:40:00,CNR9500764,Successful,CUST158444,Mini,Ulsoor,Peenya,7.7,7.6,No,,No,,No,,500,28.4,4.5,4.8,Cash
+21-09-2025,12:01:00,CNR5772070,Cancelled by Driver,CUST436050,Auto,Peenya,MG Road,,,No,,Yes,The customer was coughing/sick,No,,,2.3,,,UPI
+13-09-2025,18:39:00,CNR1451304,Successful,CUST902364,Prime SUV,Kammanahalli,Cooke Town,10,11.4,No,,No,,No,,499,8.3,4.3,3.5,Cash
+13-09-2025,12:05:00,CNR7911031,Successful,CUST468332,Auto,Richmond Town,Richmond Town,2.7,5,No,,No,,No,,368,10.4,4.1,4.3,UPI
+11-09-2025,07:26:00,CNR2098911,Successful,CUST419723,Auto,Rajajinagar,Indiranagar,7.8,9.7,No,,No,,No,,245,2.7,4.5,4.3,UPI
+03-09-2025,17:13:00,CNR8087921,Successful,CUST695642,Mini,Koramangala 1st Block,Kundalahalli,9.7,12.9,No,,No,,No,,160,7,3.3,4.1,Card
+14-09-2025,06:22:00,CNR6310229,Successful,CUST496086,Mini,Basavanagudi,Yeshwantpur,8,11.1,No,,No,,No,,173,2.2,4.6,4.1,UPI
+15-09-2025,17:47:00,CNR4454568,Successful,CUST452287,Mini,Chikkabanavara,Bharathnagar,5.4,3.4,No,,No,,No,,171,4.4,4.1,4.7,UPI
+21-09-2025,12:12:00,CNR8314717,Cancelled by Driver,CUST311559,Mini,Jayanagar,Chamarajpet,,,No,,Yes,The customer was coughing/sick,No,,,5.3,,,UPI
+03-09-2025,23:00:00,CNR7744899,Other,CUST943687,Prime Plus,Talaghattapura,Whitefield,,,No,,No,,No,,,21.1,,,UPI
+20-09-2025,16:06:00,CNR6651204,Cancelled by Driver,CUST386643,Auto,Shivaji Nagar,Seshadripuram,,,No,,Yes,The customer was coughing/sick,No,,,9,,,UPI
+25-09-2025,17:07:00,CNR6064152,Cancelled by Driver,CUST629152,Bike,Koramangala 5th Block,Bharathnagar,,,No,,Yes,Customer related issue,No,,,2.6,,,UPI
+14-09-2025,10:17:00,CNR9646460,Successful,CUST575244,Bike,Sarakki,Banashankari,2.3,3.2,No,,No,,No,,720,25.1,5,5,Card
+21-09-2025,14:48:00,CNR4129604,Cancelled by Driver,CUST704864,Mini,Bharathnagar,Talaghattapura,,,No,,Yes,The customer was coughing/sick,No,,,19.7,,,UPI
+28-09-2025,15:05:00,CNR8276689,Successful,CUST693616,Bike,Brigade Road,Shivaji Nagar,0.9,1.4,No,,No,,No,,30,7.4,5,4.1,UPI
+14-09-2025,10:06:00,CNR3524512,Cancelled by Driver,CUST882692,Bike,Kengeri,Koramangala 5th Block,,,No,,Yes,Personal & Car related issues,No,,,2.9,,,Card
+21-09-2025,20:26:00,CNR7919567,Other,CUST379901,eBike,Hosur Road,Rajajinagar,,,No,,No,,No,,,11,,,UPI
+20-09-2025,12:55:00,CNR5001087,Cancelled by Driver,CUST219074,Auto,Indiranagar,Richmond Town,,,No,,Yes,The customer was coughing/sick,No,,,18.9,,,Card
+14-09-2025,15:33:00,CNR8317096,Incomplete,CUST542519,Mini,MG Road,Jalahalli,,,No,,No,,Yes,Customer Demand,,7.8,,,UPI
+02-09-2025,19:28:00,CNR5660240,Successful,CUST790666,Mini,Hosur Road,MG Road,1.2,0.9,No,,No,,No,,776,22.9,4,4.8,Card
+15-09-2025,06:20:00,CNR1928237,Cancelled by Customer,CUST188006,Prime Sedan,Kengeri,Jayanagar,,,Yes,Wrong Address,No,,No,,,16.9,,,UPI
+28-09-2025,17:27:00,CNR2515088,Successful,CUST516174,Prime SUV,Hulimavu,HSR Layout,16.4,19.5,No,,No,,No,,446,3.7,4.5,4.6,UPI
+19-09-2025,14:32:00,CNR3024047,Cancelled by Driver,CUST647312,Bike,Peenya,Sadananda Nagar,,,No,,Yes,The customer was coughing/sick,No,,,5.3,,,UPI
+15-09-2025,07:32:00,CNR4994266,Successful,CUST728958,Auto,Basavanagudi,Kammanahalli,3.3,6.4,No,,No,,No,,762,30.8,4.7,4.7,UPI
+22-09-2025,19:45:00,CNR4958384,Successful,CUST543410,Prime Plus,Hebbal,Banashankari,5.6,4.9,No,,No,,No,,348,5.5,4.7,4.5,UPI
+09-09-2025,12:58:00,CNR5266545,Successful,CUST718115,Auto,Chamarajpet,Banerghatta Road,2.1,1.8,No,,No,,No,,195,8.7,3.5,5,UPI
+06-09-2025,15:18:00,CNR8109870,Cancelled by Customer,CUST597920,Bike,Kundalahalli,Malleshwaram,,,Yes,Change of plans,No,,No,,,5.6,,,Cash
+27-09-2025,06:21:00,CNR1584005,Successful,CUST982348,Bike,Brigade Road,Sarjapur Road,2.1,0.5,No,,No,,No,,704,22.2,4,4.5,Cash
+21-09-2025,10:19:00,CNR7454030,Successful,CUST424291,Mini,Sarjapur Road,Banerghatta Road,8.2,8.8,No,,No,,No,,773,30,4.8,4.1,UPI
+21-09-2025,15:07:00,CNR4965830,Successful,CUST999308,Mini,Koramangala,Residency Road,1.5,6.7,No,,No,,No,,659,18.7,4.3,5,Cash
+28-09-2025,11:08:00,CNR2514149,Successful,CUST962671,Bike,Kengeri,Electronic City,6.6,11.5,No,,No,,No,,956,18.6,4.7,4.4,Card
+07-09-2025,13:29:00,CNR6321470,Successful,CUST951703,Bike,Koramangala 1st Block,MG Road,4.9,5.3,No,,No,,No,,219,8.7,4.1,4.7,UPI
+05-09-2025,19:18:00,CNR9249220,Cancelled by Driver,CUST593975,Bike,Kammanahalli,Ejipura,,,No,,Yes,Personal & Car related issues,No,,,2,,,UPI
+27-09-2025,17:55:00,CNR5378351,Successful,CUST630930,Auto,Koramangala 1st Block,Kudlu,1.9,3,No,,No,,No,,789,9.9,4.7,4.1,Cash
+18-09-2025,11:34:00,CNR8604470,Other,CUST828980,Auto,Brigade Road,Hosur Road,,,No,,No,,No,,,11.4,,,UPI
+21-09-2025,19:30:00,CNR3283248,Incomplete,CUST103225,Mini,Vijayanagar,Kengeri,,,No,,No,,Yes,Customer Demand,,5.7,,,Card
+06-09-2025,10:15:00,CNR9663182,Successful,CUST848226,Prime SUV,Hosur Road,Chikkabanavara,7.4,10.8,No,,No,,No,,464,16.6,4.6,4.7,UPI
+20-09-2025,13:00:00,CNR6358628,Successful,CUST573421,Mini,Talaghattapura,HSR Layout,3.7,7.5,No,,No,,No,,242,4.9,5,3.9,UPI
+21-09-2025,20:06:00,CNR6495887,Successful,CUST938366,Prime Sedan,Whitefield,Koramangala 1st Block,6.8,8.3,No,,No,,No,,149,13.7,4.1,4.5,UPI
+14-09-2025,12:26:00,CNR4766269,Successful,CUST121741,Prime SUV,Sarakki,Hosur Road,7,5.9,No,,No,,No,,151,3.7,4.4,5,Wallet
+07-09-2025,07:31:00,CNR8758202,Successful,CUST307897,Prime Sedan,Rajajinagar,Brigade Road,7.3,5.9,No,,No,,No,,499,8.9,4.3,4,Card
+14-09-2025,10:26:00,CNR3504019,Cancelled by Driver,CUST193387,Prime SUV,Rajajinagar,Yeshwantpur,,,No,,Yes,More than permitted people in there,No,,,6.3,,,UPI
+24-09-2025,21:50:00,CNR8611954,Successful,CUST967442,Bike,Yelahanka,Banaswadi,4.3,5.6,No,,No,,No,,970,34,4.4,4.9,UPI
+07-09-2025,20:42:00,CNR5466142,Successful,CUST401950,Bike,Cooke Town,HSR Layout,2.9,1.8,No,,No,,No,,152,5.8,5,4.4,Card
+07-09-2025,09:40:00,CNR5747402,Successful,CUST862008,Bike,Koramangala 1st Block,Banashankari,2.8,6.4,No,,No,,No,,211,2.2,4.3,4.4,UPI
+07-09-2025,10:57:00,CNR5392266,Successful,CUST346924,Mini,Richmond Town,Banerghatta Road,2.8,7.5,No,,No,,No,,427,4.4,5,5,UPI
+21-09-2025,07:27:00,CNR1173144,Successful,CUST591658,Auto,Basavanagudi,Sarjapur Road,5.3,6.9,No,,No,,No,,499,6.9,5,3.7,UPI
+07-09-2025,12:32:00,CNR8101643,Successful,CUST871861,Mini,Jayanagar,Hebbal,3.1,5.6,No,,No,,No,,228,6.1,4.2,5,UPI
+03-09-2025,21:53:00,CNR4939985,Successful,CUST593808,Prime SUV,Kudlu,Bharathnagar,4.5,4.9,No,,No,,No,,883,8.6,4.4,4.5,UPI
+20-09-2025,18:46:00,CNR1763562,Successful,CUST105621,Prime Plus,Ejipura,Cooke Town,2.8,8.2,No,,No,,No,,121,2.5,4.9,5,Cash
+14-09-2025,12:19:00,CNR3218589,Cancelled by Driver,CUST686741,Auto,Banashankari,Kalyan Nagar,,,No,,Yes,More than permitted people in there,No,,,3.9,,,Cash
+28-09-2025,20:58:00,CNR8853160,Successful,CUST238327,Auto,Ejipura,Shivaji Nagar,1.2,5.1,No,,No,,No,,330,6.7,4.9,5,UPI
+09-09-2025,11:20:00,CNR1740918,Cancelled by Driver,CUST234082,Mini,Kundalahalli,Talaghattapura,,,No,,Yes,More than permitted people in there,No,,,12.2,,,UPI
+10-09-2025,20:57:00,CNR5416038,Other,CUST742705,eBike,Kalyan Nagar,Shivaji Nagar,,,No,,No,,No,,,5.5,,,UPI
+28-09-2025,11:23:00,CNR9242223,Incomplete,CUST900771,Prime SUV,Sarakki,Bharathnagar,,,No,,No,,Yes,Vehicle Breakdown,,9.7,,,UPI
+03-09-2025,08:32:00,CNR1915485,Cancelled by Driver,CUST341026,Prime Plus,Seshadripuram,Kalyan Nagar,,,No,,Yes,More than permitted people in there,No,,,4,,,UPI
+14-09-2025,22:59:00,CNR9303225,Other,CUST142773,Mini,Ejipura,Sarakki,,,No,,No,,No,,,0.5,,,Wallet
+15-09-2025,20:26:00,CNR3483929,Successful,CUST229660,Prime Sedan,Electronic City,Marathahalli,1.6,8.5,No,,No,,No,,266,0.5,4.4,4.1,UPI
+07-09-2025,14:40:00,CNR5576682,Cancelled by Customer,CUST690607,Prime SUV,Peenya,Electronic City,,,Yes,Driver is not moving towards pickup location,No,,No,,,5.3,,,Card
+17-09-2025,15:44:00,CNR4029442,Successful,CUST536646,Prime SUV,Richmond Town,Sadananda Nagar,9.3,11.1,No,,No,,No,,234,6.3,4.9,4,UPI
+06-09-2025,11:36:00,CNR1435572,Successful,CUST398090,Bike,Nagarbhavi,Yelahanka,3,7.2,No,,No,,No,,471,4.7,3.8,4.5,Cash
+20-09-2025,22:14:00,CNR2779557,Successful,CUST977634,Prime Sedan,Indiranagar,Whitefield,6.6,6.9,No,,No,,No,,406,6.6,4.4,5,UPI
+21-09-2025,14:11:00,CNR8617787,Cancelled by Driver,CUST758879,Prime SUV,Kudlu,Bharathnagar,,,No,,Yes,Personal & Car related issues,No,,,7.2,,,Card
+21-09-2025,22:13:00,CNR8601790,Successful,CUST440698,Prime SUV,Hulimavu,Yeshwantpur,12.1,11.8,No,,No,,No,,317,1,4.9,4.3,Wallet
+28-09-2025,19:40:00,CNR5747180,Other,CUST438869,Bike,Talaghattapura,Jayanagar,,,No,,No,,No,,,9.5,,,UPI
+20-09-2025,07:34:00,CNR7691735,Cancelled by Driver,CUST367558,Auto,Sadananda Nagar,Residency Road,,,No,,Yes,Customer related issue,No,,,3.4,,,Cash
+07-09-2025,19:18:00,CNR7751088,Cancelled by Driver,CUST398776,Mini,Hosur Road,Malleshwaram,,,No,,Yes,More than permitted people in there,No,,,6.8,,,UPI
+26-09-2025,18:33:00,CNR6202636,Successful,CUST818234,Mini,Sanjay Nagar,Bharathnagar,10.8,11.8,No,,No,,No,,243,7.6,4.3,4.8,UPI
+13-09-2025,09:24:00,CNR9214511,Incomplete,CUST567080,Prime SUV,Seshadripuram,Kundalahalli,,,No,,No,,Yes,Vehicle Breakdown,,7.1,,,UPI
+05-09-2025,13:12:00,CNR7177975,Successful,CUST743687,Prime Plus,Vijayanagar,Koramangala 5th Block,5.9,3.3,No,,No,,No,,392,3.1,5,4.4,Cash
+16-09-2025,22:36:00,CNR8776656,Successful,CUST809298,Prime Plus,Nagarbhavi,Ejipura,11.1,9.6,No,,No,,No,,30,6.5,4.5,4.5,UPI
+15-09-2025,16:44:00,CNR9802632,Other,CUST188049,Prime Sedan,Koramangala 5th Block,Whitefield,,,No,,No,,No,,,12.9,,,UPI
+14-09-2025,08:32:00,CNR3143956,Other,CUST817555,Prime SUV,Richmond Town,Shivaji Nagar,,,No,,No,,No,,,6.5,,,UPI
+19-09-2025,15:24:00,CNR2284002,Other,CUST147285,Mini,Frazer Town,Koramangala 5th Block,,,No,,No,,No,,,10.5,,,Card
+14-09-2025,18:17:00,CNR5251016,Cancelled by Customer,CUST472724,Prime Plus,Whitefield,Sadananda Nagar,,,Yes,Driver is not moving towards pickup location,No,,No,,,9.5,,,UPI
+22-09-2025,13:53:00,CNR4012385,Cancelled by Driver,CUST924366,Prime Plus,Residency Road,MG Road,,,No,,Yes,The customer was coughing/sick,No,,,4.9,,,UPI
+11-09-2025,18:21:00,CNR8633602,Incomplete,CUST894143,Bike,Ejipura,Kalyan Nagar,,,No,,No,,Yes,Customer Demand,,4.8,,,UPI
+07-09-2025,07:20:00,CNR5350628,Cancelled by Driver,CUST806120,Auto,Chamarajpet,Indiranagar,,,No,,Yes,Personal & Car related issues,No,,,7.7,,,UPI
+01-09-2025,17:11:00,CNR9004743,Other,CUST582515,Bike,Bharathnagar,Talaghattapura,,,No,,No,,No,,,10.7,,,UPI
+15-09-2025,16:33:00,CNR7052024,Cancelled by Driver,CUST824211,Bike,Sarjapur Road,Nagarbhavi,,,No,,Yes,The customer was coughing/sick,No,,,0.8,,,Cash
+05-09-2025,08:18:00,CNR1232799,Successful,CUST300070,Auto,Indiranagar,Sarjapur Road,4.4,3.8,No,,No,,No,,866,4.4,5,4.6,UPI
+28-09-2025,09:34:00,CNR9071807,Cancelled by Driver,CUST780130,Auto,Richmond Town,Koramangala 5th Block,,,No,,Yes,Customer related issue,No,,,14.2,,,UPI
+05-09-2025,19:08:00,CNR8774990,Cancelled by Driver,CUST255362,Mini,Indiranagar,Yelahanka,,,No,,Yes,Customer related issue,No,,,5.2,,,UPI
+22-09-2025,13:35:00,CNR9137735,Successful,CUST594392,Auto,Airport Road,Peenya,2.4,3.9,No,,No,,No,,283,3.2,3.6,3.8,UPI
+10-09-2025,20:09:00,CNR7572195,Successful,CUST153395,Prime Sedan,Hebbal,Vijayanagar,9.2,14.7,No,,No,,No,,750,13.6,4.4,4.7,UPI
+14-09-2025,13:05:00,CNR9316519,Successful,CUST872882,Mini,Hulimavu,Sarakki,7.9,8.9,No,,No,,No,,2259,33.2,5,4.1,UPI
+02-09-2025,12:49:00,CNR9155420,Successful,CUST638292,Mini,Ejipura,Nagarbhavi,8.9,12.6,No,,No,,No,,541,17.6,4.8,4.9,Card
+28-09-2025,09:57:00,CNR2018455,Successful,CUST653971,Auto,Yeshwantpur,Basavanagudi,2.3,6,No,,No,,No,,310,0.5,4.3,4.2,UPI
+09-09-2025,17:03:00,CNR7998405,Other,CUST596330,Auto,Ejipura,Hosur Road,,,No,,No,,No,,,7,,,Wallet
+21-09-2025,06:21:00,CNR3706725,Successful,CUST402001,Bike,Seshadripuram,Sanjay Nagar,3.3,2.6,No,,No,,No,,380,0.5,5,4,Card
+16-09-2025,16:01:00,CNR6690043,Successful,CUST731347,eBike,Ejipura,Bharathnagar,4.1,6.4,No,,No,,No,,399,7.1,3.8,4.3,Cash
+28-09-2025,18:20:00,CNR7549342,Successful,CUST537110,eBike,Nagarbhavi,Hosur Road,4.5,4.8,No,,No,,No,,999,22.3,4.8,4.9,UPI
+25-09-2025,19:38:00,CNR3718341,Successful,CUST752048,Prime Plus,Sarjapur Road,Talaghattapura,4.8,8.7,No,,No,,No,,140,4.6,4.9,4.9,Wallet
+15-09-2025,08:57:00,CNR4346789,Other,CUST263907,Mini,Hebbal,Koramangala 1st Block,,,No,,No,,No,,,16.6,,,UPI
+15-09-2025,10:00:00,CNR4513701,Cancelled by Driver,CUST683879,Auto,Indiranagar,Sanjay Nagar,,,No,,Yes,The customer was coughing/sick,No,,,29.7,,,UPI
+21-09-2025,08:58:00,CNR9446974,Cancelled by Driver,CUST133522,Bike,Kammanahalli,Koramangala 5th Block,,,No,,Yes,Customer related issue,No,,,8,,,UPI
+06-09-2025,09:49:00,CNR9159855,Other,CUST370346,Prime SUV,Sanjay Nagar,Sadananda Nagar,,,No,,No,,No,,,4.3,,,Wallet
+28-09-2025,10:33:00,CNR3536352,Cancelled by Customer,CUST994863,Bike,Frazer Town,Kudlu,,,Yes,Driver is not moving towards pickup location,No,,No,,,8.3,,,UPI
+28-09-2025,13:28:00,CNR8669463,Successful,CUST982478,Bike,Hebbal,Ejipura,4.9,7.3,No,,No,,No,,499,4.6,4.8,4.8,UPI
+28-09-2025,07:44:00,CNR1704130,Successful,CUST631948,Auto,Vijayanagar,Yelahanka,5,8.2,No,,No,,No,,949,23.6,5,4.5,UPI
+28-09-2025,08:40:00,CNR5901010,Successful,CUST842563,Mini,Frazer Town,Ulsoor,7.4,8.7,No,,No,,No,,629,15.9,4.5,4.1,UPI
+06-09-2025,17:02:00,CNR7102492,Cancelled by Driver,CUST450861,eBike,Yelahanka,Jalahalli,,,No,,Yes,More than permitted people in there,No,,,4.9,,,UPI
+24-09-2025,06:06:00,CNR5115720,Successful,CUST975365,Bike,Kammanahalli,Marathahalli,5.5,5.2,No,,No,,No,,333,0.5,4.4,4.4,UPI
+05-09-2025,12:21:00,CNR7962689,Successful,CUST478162,Mini,Richmond Town,Malleshwaram,6.3,7.9,No,,No,,No,,635,17.9,3.8,4.7,UPI
+17-09-2025,19:26:00,CNR4828258,Successful,CUST244697,Bike,Koramangala 1st Block,Koramangala 1st Block,2.7,5.8,No,,No,,No,,561,15.3,3.7,5,Card
+28-09-2025,14:48:00,CNR7069566,Successful,CUST131208,Mini,Sadananda Nagar,Koramangala,6.6,6.3,No,,No,,No,,999,15.1,4.9,4.2,UPI
+16-09-2025,07:11:00,CNR2422342,Incomplete,CUST454737,Prime Sedan,Sadananda Nagar,Rajajinagar,,,No,,No,,Yes,Vehicle Breakdown,,4.2,,,Card
+23-09-2025,17:16:00,CNR3532555,Other,CUST702466,Auto,Vijayanagar,Ejipura,,,No,,No,,No,,,10.9,,,UPI
+28-09-2025,22:36:00,CNR5961432,Successful,CUST539673,Mini,Nagarbhavi,Sarjapur Road,4.2,8.2,No,,No,,No,,139,12.3,4.6,5,UPI
+11-09-2025,18:40:00,CNR6262932,Successful,CUST460875,Auto,Kundalahalli,Shivaji Nagar,6.3,10.3,No,,No,,No,,30,6.6,4.6,4.6,UPI
+07-09-2025,12:53:00,CNR8485810,Successful,CUST775156,Prime Plus,Chamarajpet,Ejipura,3.7,4.8,No,,No,,No,,999,16.4,5,4.6,UPI
+21-09-2025,17:54:00,CNR6792344,Successful,CUST951266,Bike,Residency Road,Sadananda Nagar,3.2,5.1,No,,No,,No,,425,6.3,4.4,3.9,UPI
+11-09-2025,06:37:00,CNR6611860,Cancelled by Driver,CUST508937,Bike,Talaghattapura,HSR Layout,,,No,,Yes,The customer was coughing/sick,No,,,11.3,,,Card
+07-09-2025,14:43:00,CNR6238726,Successful,CUST646660,Prime Sedan,Vijayanagar,Rajajinagar,9.1,9.8,No,,No,,No,,275,0.5,4,3.5,Wallet
+28-09-2025,15:12:00,CNR5340101,Successful,CUST353063,eBike,Kengeri,Hulimavu,2.2,4.9,No,,No,,No,,499,7.8,4.6,4.9,UPI
+16-09-2025,18:29:00,CNR2005722,Other,CUST982464,Prime Sedan,Vijayanagar,Frazer Town,,,No,,No,,No,,,9.2,,,UPI
+03-09-2025,17:06:00,CNR3092954,Cancelled by Driver,CUST570534,Prime Sedan,Talaghattapura,Koramangala,,,No,,Yes,Customer related issue,No,,,6,,,UPI
+26-09-2025,22:52:00,CNR9947098,Successful,CUST985517,Mini,Sanjay Nagar,Kengeri,4,5.5,No,,No,,No,,132,8.2,4.1,4.4,UPI
+25-09-2025,18:12:00,CNR3348331,Other,CUST849051,Prime Sedan,Talaghattapura,Richmond Town,,,No,,No,,No,,,2.6,,,UPI
+16-09-2025,09:17:00,CNR7061063,Successful,CUST576378,Auto,Ejipura,Koramangala 5th Block,4.6,4.8,No,,No,,No,,845,23.2,5,4.1,UPI
+05-09-2025,07:03:00,CNR8128416,Successful,CUST236381,Mini,Airport Road,Jayanagar,10.1,10,No,,No,,No,,82,0.5,4,4.9,Cash
+17-09-2025,16:02:00,CNR9706452,Successful,CUST916656,Mini,Kalyan Nagar,Peenya,5.2,8.7,No,,No,,No,,297,6.5,4.5,4.4,Cash
+14-09-2025,13:30:00,CNR9213136,Cancelled by Customer,CUST867260,Prime SUV,Rajajinagar,Malleshwaram,,,Yes,Wrong Address,No,,No,,,7.5,,,Wallet
+21-09-2025,08:12:00,CNR9609823,Successful,CUST654844,Auto,Electronic City,Baiyappanahalli,2.1,2.8,No,,No,,No,,185,6.9,5,4,UPI
+23-09-2025,22:06:00,CNR7196363,Successful,CUST224535,Mini,Koramangala 1st Block,Yelahanka,6.1,9.8,No,,No,,No,,269,10.5,4.6,3.7,Cash
+19-09-2025,06:41:00,CNR9770751,Cancelled by Customer,CUST260751,Auto,Kengeri,Banerghatta Road,,,Yes,Wrong Address,No,,No,,,9.2,,,UPI
+02-09-2025,08:26:00,CNR3384710,Successful,CUST921866,Mini,Brigade Road,Kengeri,1.7,3.4,No,,No,,No,,571,23.8,4.2,4.5,UPI
+07-09-2025,19:58:00,CNR9200596,Successful,CUST102187,Auto,Sanjay Nagar,Jayanagar,1.7,5.4,No,,No,,No,,999,14.7,4.5,5,UPI
+14-09-2025,15:46:00,CNR6195935,Cancelled by Driver,CUST693246,Mini,Kammanahalli,Cooke Town,,,No,,Yes,Customer related issue,No,,,8.3,,,UPI
+24-09-2025,14:36:00,CNR8733225,Successful,CUST898678,Mini,Airport Road,Malleshwaram,8.7,10.1,No,,No,,No,,574,26.2,4.7,3.5,UPI
+12-09-2025,19:39:00,CNR7872422,Successful,CUST506045,Prime Plus,Residency Road,Kammanahalli,4.6,5.7,No,,No,,No,,290,5.1,5,5,UPI
+28-09-2025,21:11:00,CNR8433920,Successful,CUST871660,Prime Sedan,Whitefield,Rajajinagar,6.1,10.5,No,,No,,No,,999,15,5,3.8,UPI
+19-09-2025,19:35:00,CNR6181610,Successful,CUST688297,Mini,Hosur Road,Sarakki,8.9,8.9,No,,No,,No,,303,8.6,4,4.7,UPI
+28-09-2025,15:14:00,CNR1887084,Successful,CUST697944,Mini,Chikkabanavara,Seshadripuram,4.5,8.9,No,,No,,No,,112,5.3,4.7,4.5,Card
+02-09-2025,17:14:00,CNR9923120,Successful,CUST288474,Prime SUV,Kundalahalli,Electronic City,7.6,9.3,No,,No,,No,,446,1.7,3.7,5,UPI
+21-09-2025,21:08:00,CNR8452933,Cancelled by Driver,CUST188759,Bike,Kudlu,Basavanagudi,,,No,,Yes,Personal & Car related issues,No,,,6.6,,,Wallet
+15-09-2025,21:56:00,CNR1390292,Other,CUST456470,Mini,Koramangala 1st Block,Indiranagar,,,No,,No,,No,,,22.3,,,UPI
+12-09-2025,10:23:00,CNR2527147,Cancelled by Driver,CUST220213,Prime SUV,Chamarajpet,Rajajinagar,,,No,,Yes,Customer related issue,No,,,4.1,,,UPI
+08-09-2025,07:31:00,CNR3587505,Successful,CUST421697,Prime SUV,Nagarbhavi,Rajajinagar,10.9,11,No,,No,,No,,321,7.2,4.4,4.6,Card
+28-09-2025,09:05:00,CNR1455856,Successful,CUST847949,Auto,Cooke Town,Hebbal,1.9,8.6,No,,No,,No,,169,13,3.9,4.8,UPI
+14-09-2025,11:31:00,CNR5327419,Cancelled by Driver,CUST493754,Prime SUV,Yelahanka,Brigade Road,,,No,,Yes,Customer related issue,No,,,8.7,,,UPI
+15-09-2025,18:50:00,CNR9462784,Cancelled by Driver,CUST503752,Prime SUV,Kundalahalli,Brigade Road,,,No,,Yes,More than permitted people in there,No,,,5.1,,,UPI
+04-09-2025,06:29:00,CNR7836611,Cancelled by Driver,CUST764316,Prime Plus,Indiranagar,Kundalahalli,,,No,,Yes,Personal & Car related issues,No,,,8.4,,,UPI
+08-09-2025,15:28:00,CNR3106737,Successful,CUST419409,Mini,Airport Road,Whitefield,5.7,7.3,No,,No,,No,,790,24.2,4.4,4.2,UPI
+16-09-2025,19:21:00,CNR3388522,Cancelled by Driver,CUST491438,Mini,Rajajinagar,Richmond Town,,,No,,Yes,More than permitted people in there,No,,,9.4,,,UPI
+28-09-2025,15:28:00,CNR8578973,Successful,CUST143822,Auto,Baiyappanahalli,Ejipura,0.8,0.6,No,,No,,No,,329,3.6,4.3,4.1,UPI
+29-09-2025,06:00:00,CNR2009569,Successful,CUST605608,Prime Sedan,Kalyan Nagar,Nagarbhavi,2.3,3,No,,No,,No,,273,5.5,4.4,4.6,UPI
+13-09-2025,16:47:00,CNR4569422,Cancelled by Driver,CUST713583,eBike,Marathahalli,MG Road,,,No,,Yes,Personal & Car related issues,No,,,3.3,,,Card
+11-09-2025,12:44:00,CNR3063211,Cancelled by Customer,CUST970840,Auto,Sarakki,Kundalahalli,,,Yes,Driver asked to cancel,No,,No,,,19.4,,,Cash
+20-09-2025,22:20:00,CNR6340253,Successful,CUST815234,Prime SUV,Vijayanagar,Kalyan Nagar,8.5,9.6,No,,No,,No,,987,23.1,4.9,4.8,UPI
+21-09-2025,10:39:00,CNR5125991,Successful,CUST794447,Prime SUV,Kammanahalli,Electronic City,8.1,8.8,No,,No,,No,,271,6.7,5,5,Card
+20-09-2025,06:16:00,CNR3243545,Successful,CUST777844,Prime SUV,Kudlu,Seshadripuram,4.6,3.7,No,,No,,No,,178,6.2,4.2,3.1,Wallet
+01-09-2025,08:57:00,CNR7931725,Successful,CUST682788,Prime SUV,Ejipura,Ulsoor,10.7,13.7,No,,No,,No,,781,30.3,5,5,UPI
+18-09-2025,19:26:00,CNR2300622,Other,CUST664814,Auto,Bharathnagar,Airport Road,,,No,,No,,No,,,3.3,,,Card
+13-09-2025,19:52:00,CNR7314548,Cancelled by Driver,CUST967661,Mini,Cooke Town,Banashankari,,,No,,Yes,Personal & Car related issues,No,,,15.9,,,UPI
+06-09-2025,12:19:00,CNR4237849,Successful,CUST566173,Auto,Talaghattapura,Indiranagar,3.6,7.4,No,,No,,No,,763,20,3.9,4.8,UPI
+21-09-2025,18:06:00,CNR7003240,Successful,CUST300814,Auto,Ejipura,Vijayanagar,4.2,4.7,No,,No,,No,,272,6.5,4,3.9,UPI
+21-09-2025,09:59:00,CNR9284734,Incomplete,CUST480632,Auto,Ulsoor,Ejipura,,,No,,No,,Yes,Customer Demand,,11,,,Cash
+01-09-2025,22:47:00,CNR7645223,Cancelled by Customer,CUST216335,Prime SUV,Yeshwantpur,Frazer Town,,,Yes,AC is not working (Only for 4-wheelers),No,,No,,,5.8,,,UPI
+07-09-2025,18:36:00,CNR3944885,Successful,CUST168535,Mini,Talaghattapura,Jayanagar,7.9,8.9,No,,No,,No,,325,5.2,4.4,4.2,Card
+28-09-2025,20:36:00,CNR4824620,Cancelled by Customer,CUST648489,Bike,Kundalahalli,Jalahalli,,,Yes,Driver is not moving towards pickup location,No,,No,,,25.9,,,UPI
+30-09-2025,17:49:00,CNR9941274,Cancelled by Driver,CUST744304,Prime Plus,Sarakki,Baiyappanahalli,,,No,,Yes,More than permitted people in there,No,,,2.2,,,UPI
+21-09-2025,22:05:00,CNR1870113,Other,CUST995336,Prime SUV,Koramangala 5th Block,Koramangala 1st Block,,,No,,No,,No,,,5,,,Wallet
+21-09-2025,13:57:00,CNR9314364,Successful,CUST479030,Mini,MG Road,Hulimavu,7.8,11,No,,No,,No,,402,3.3,3.7,5,UPI
+10-09-2025,13:10:00,CNR9932362,Cancelled by Driver,CUST570665,Prime Sedan,Residency Road,Jalahalli,,,No,,Yes,Personal & Car related issues,No,,,5.1,,,Cash
+30-09-2025,09:51:00,CNR8110523,Successful,CUST178056,Prime SUV,Jalahalli,Rajajinagar,12.4,11.1,No,,No,,No,,30,6.9,4.8,4.4,Cash
+04-09-2025,16:40:00,CNR2622794,Successful,CUST129226,Mini,Indiranagar,Peenya,5.9,8.9,No,,No,,No,,500,26.1,4.2,4.3,UPI
+28-09-2025,20:20:00,CNR5201173,Successful,CUST359159,Auto,Richmond Town,Kammanahalli,3.7,3.2,No,,No,,No,,999,15.7,4.9,4.5,Cash
+27-09-2025,14:52:00,CNR4971899,Successful,CUST176452,Bike,Ejipura,Airport Road,3.7,6.4,No,,No,,No,,553,12.4,5,4.5,UPI
+21-09-2025,15:52:00,CNR3094239,Successful,CUST189689,Prime SUV,MG Road,Cooke Town,8.4,9.6,No,,No,,No,,499,8.7,4.9,5,UPI
+27-09-2025,07:06:00,CNR3139695,Cancelled by Driver,CUST165014,Prime SUV,Airport Road,Brigade Road,,,No,,Yes,More than permitted people in there,No,,,6.3,,,UPI
+04-09-2025,17:33:00,CNR1936000,Cancelled by Customer,CUST686424,Auto,Cooke Town,Residency Road,,,Yes,Wrong Address,No,,No,,,5.1,,,UPI
+07-09-2025,16:13:00,CNR1177948,Successful,CUST575436,Mini,Koramangala 5th Block,Ejipura,7.7,11.2,No,,No,,No,,467,5.1,3.6,4.2,UPI
+13-09-2025,22:00:00,CNR1435739,Other,CUST576133,Mini,Peenya,Jalahalli,,,No,,No,,No,,,3.1,,,UPI
+01-09-2025,18:10:00,CNR2133208,Other,CUST721686,Bike,Jalahalli,Yeshwantpur,,,No,,No,,No,,,5.6,,,UPI
+16-09-2025,12:03:00,CNR8063325,Successful,CUST604783,Bike,Airport Road,Banashankari,5.6,4,No,,No,,No,,112,6.2,3.8,4.5,UPI
+26-09-2025,07:01:00,CNR3142127,Incomplete,CUST426806,Mini,Frazer Town,Hosur Road,,,No,,No,,Yes,Vehicle Breakdown,,16.8,,,Wallet
+20-09-2025,15:14:00,CNR3443176,Other,CUST254569,Mini,Kudlu,Kammanahalli,,,No,,No,,No,,,1.7,,,UPI
+29-09-2025,14:50:00,CNR3425991,Incomplete,CUST160101,Prime Plus,Sarakki,Brigade Road,,,No,,No,,Yes,Customer Demand,,8.9,,,Card
+29-09-2025,16:55:00,CNR4376603,Successful,CUST923408,Auto,Jalahalli,Bharathnagar,2.4,4.8,No,,No,,No,,344,4.1,4.4,4.4,Card
+21-09-2025,13:58:00,CNR6555698,Successful,CUST993395,Mini,Kammanahalli,Ejipura,9.9,11.5,No,,No,,No,,339,3,4.5,5,UPI
+12-09-2025,07:47:00,CNR8621924,Cancelled by Driver,CUST927527,Prime SUV,Ulsoor,Banaswadi,,,No,,Yes,Customer related issue,No,,,14.3,,,UPI
+21-09-2025,13:57:00,CNR4575870,Successful,CUST350629,Mini,Sadananda Nagar,Kammanahalli,6.9,10,No,,No,,No,,725,5.6,4,4.6,UPI
+14-09-2025,12:49:00,CNR4091109,Cancelled by Customer,CUST966212,Prime SUV,Banerghatta Road,Koramangala,,,Yes,Driver is not moving towards pickup location,No,,No,,,5.2,,,Cash
+18-09-2025,08:25:00,CNR5875059,Successful,CUST561801,Prime Plus,Peenya,Chikkabanavara,17.1,19.5,No,,No,,No,,302,4.4,4.5,3.3,Card
+29-09-2025,09:23:00,CNR4318952,Successful,CUST397901,Auto,Kalyan Nagar,Hulimavu,0.5,0.5,No,,No,,No,,168,4.6,3.7,3.9,Card
+27-09-2025,10:11:00,CNR3995428,Cancelled by Driver,CUST305507,Auto,Kalyan Nagar,Hebbal,,,No,,Yes,Customer related issue,No,,,5.5,,,UPI
+14-09-2025,19:26:00,CNR2861751,Successful,CUST454820,Prime SUV,Kengeri,Baiyappanahalli,8.7,12,No,,No,,No,,160,7,4.2,4.4,UPI
+26-09-2025,17:16:00,CNR3874940,Successful,CUST652522,Prime SUV,Ejipura,Koramangala 5th Block,9.5,11.7,No,,No,,No,,742,16.4,4.1,4.1,UPI
+04-09-2025,08:27:00,CNR3194370,Successful,CUST933511,Prime Plus,Chamarajpet,Cooke Town,5.8,6.3,No,,No,,No,,76,4.6,3.8,5,Cash
+12-09-2025,13:19:00,CNR5102862,Incomplete,CUST148439,Bike,Peenya,Jalahalli,,,No,,No,,Yes,Vehicle Breakdown,,19.1,,,Cash
+25-09-2025,11:35:00,CNR5146852,Incomplete,CUST155846,Mini,Kundalahalli,HSR Layout,,,No,,No,,Yes,Other Issue,,20.6,,,Card
+28-09-2025,09:34:00,CNR2365794,Cancelled by Customer,CUST922781,Mini,Bharathnagar,Ejipura,,,Yes,AC is not working (Only for 4-wheelers),No,,No,,,5.6,,,UPI
+14-09-2025,21:03:00,CNR9542262,Cancelled by Customer,CUST492446,Mini,Baiyappanahalli,Banashankari,,,Yes,Change of plans,No,,No,,,8.4,,,UPI
+17-09-2025,14:14:00,CNR9301232,Cancelled by Driver,CUST596771,Prime Sedan,Residency Road,Vijayanagar,,,No,,Yes,Personal & Car related issues,No,,,7.4,,,UPI
+07-09-2025,21:16:00,CNR4405783,Successful,CUST574040,Prime SUV,Residency Road,Electronic City,5.8,9.5,No,,No,,No,,499,11.2,5,5,UPI
+28-09-2025,15:45:00,CNR3637534,Successful,CUST983353,Prime Sedan,Sarakki,Whitefield,7.8,10.7,No,,No,,No,,426,5.2,5,4.8,UPI
+05-09-2025,13:35:00,CNR9704367,Successful,CUST468653,Prime Plus,MG Road,Baiyappanahalli,10.8,14.8,No,,No,,No,,200,5.8,4.2,4.1,UPI
+13-09-2025,13:41:00,CNR8844203,Successful,CUST553515,Mini,Ulsoor,Basavanagudi,6.4,6.9,No,,No,,No,,252,4.7,4.7,5,Card
+02-09-2025,13:32:00,CNR4922352,Successful,CUST378527,Mini,Sanjay Nagar,Whitefield,7.4,13.3,No,,No,,No,,30,5.3,4.3,4.9,UPI
+16-09-2025,15:19:00,CNR2311290,Successful,CUST924047,Prime Sedan,Banaswadi,Hebbal,8.3,10.2,No,,No,,No,,250,0.5,4.4,4.4,Cash
+13-09-2025,15:19:00,CNR4360587,Successful,CUST449970,Prime Plus,Kammanahalli,Kalyan Nagar,4.9,4.3,No,,No,,No,,499,3.9,4.6,5,UPI
+27-09-2025,17:39:00,CNR5604751,Cancelled by Driver,CUST299903,Bike,HSR Layout,Chikkabanavara,,,No,,Yes,The customer was coughing/sick,No,,,19.4,,,UPI
+01-09-2025,11:06:00,CNR5728578,Successful,CUST962253,Prime Sedan,Residency Road,Residency Road,0.5,0.5,No,,No,,No,,651,19.6,4.7,3.8,UPI
+23-09-2025,06:12:00,CNR8918912,Cancelled by Driver,CUST785864,Mini,Chikkabanavara,Malleshwaram,,,No,,Yes,Customer related issue,No,,,14.8,,,UPI
+07-09-2025,18:47:00,CNR4521118,Successful,CUST597484,Prime Plus,Peenya,Sarakki,7.9,3.5,No,,No,,No,,802,11.3,4.2,5,UPI
+22-09-2025,13:52:00,CNR6715319,Successful,CUST930382,Auto,Jalahalli,Koramangala 5th Block,4.1,9.5,No,,No,,No,,722,11.9,4.6,4.4,UPI
+21-09-2025,09:34:00,CNR8359842,Successful,CUST571829,eBike,Indiranagar,Banerghatta Road,2.5,3.5,No,,No,,No,,467,10.4,4.2,5,UPI
+28-09-2025,11:12:00,CNR1162422,Incomplete,CUST624078,eBike,Sanjay Nagar,Kammanahalli,,,No,,No,,Yes,Vehicle Breakdown,,3.4,,,UPI
+21-09-2025,12:53:00,CNR6027078,Successful,CUST441919,Mini,Yeshwantpur,MG Road,6.9,8.5,No,,No,,No,,999,22.6,5,4.4,UPI
+07-09-2025,22:15:00,CNR6540684,Successful,CUST695791,Mini,Kudlu,Kudlu,5.9,4.7,No,,No,,No,,275,6.2,4.7,4.4,Card
+14-09-2025,12:30:00,CNR4425984,Successful,CUST509611,Auto,Cooke Town,Jalahalli,9.2,7.7,No,,No,,No,,325,6,4.4,4.7,UPI
+12-09-2025,22:25:00,CNR8575505,Successful,CUST770043,Prime SUV,Whitefield,Rajajinagar,8.6,9.2,No,,No,,No,,342,12.6,4.8,4.7,Wallet
+18-09-2025,06:32:00,CNR9197571,Other,CUST128142,Prime Plus,Jayanagar,Cooke Town,,,No,,No,,No,,,7.1,,,UPI
+07-09-2025,17:15:00,CNR9797899,Successful,CUST173378,Mini,Banerghatta Road,Shivaji Nagar,0.5,3.6,No,,No,,No,,499,6.7,4.7,4.6,UPI
+12-09-2025,21:31:00,CNR7893107,Cancelled by Driver,CUST510103,Auto,Yelahanka,HSR Layout,,,No,,Yes,More than permitted people in there,No,,,6.3,,,UPI
+23-09-2025,12:38:00,CNR4464154,Successful,CUST236243,Prime SUV,Kengeri,Koramangala 5th Block,10.2,11,No,,No,,No,,886,18.7,4.1,4.9,Wallet
+21-09-2025,08:42:00,CNR6206200,Successful,CUST716029,Prime Plus,Ejipura,Nagarbhavi,5.1,10.7,No,,No,,No,,451,6.5,3.9,4.2,Wallet
+07-09-2025,22:54:00,CNR3393974,Other,CUST567383,Auto,Residency Road,Kudlu,,,No,,No,,No,,,17.1,,,UPI
+17-09-2025,21:32:00,CNR9236918,Successful,CUST582559,Mini,MG Road,Talaghattapura,6.6,10,No,,No,,No,,370,2.8,4.2,4.1,Cash
+21-09-2025,21:40:00,CNR8655554,Other,CUST463627,Bike,Ejipura,Kengeri,,,No,,No,,No,,,5.9,,,Card
+27-09-2025,20:30:00,CNR3938131,Cancelled by Driver,CUST535214,Prime Plus,Ejipura,Hulimavu,,,No,,Yes,More than permitted people in there,No,,,3.3,,,UPI
+28-09-2025,09:07:00,CNR2602797,Successful,CUST512668,Bike,MG Road,Richmond Town,3.6,5.1,No,,No,,No,,541,14.8,4.8,4.1,UPI
+07-09-2025,21:03:00,CNR5897094,Cancelled by Driver,CUST799040,Prime SUV,Sarjapur Road,Hulimavu,,,No,,Yes,Customer related issue,No,,,16.6,,,Card
+28-09-2025,13:01:00,CNR3033912,Cancelled by Driver,CUST486643,Auto,Hebbal,Frazer Town,,,No,,Yes,The customer was coughing/sick,No,,,19.1,,,UPI
+14-09-2025,08:48:00,CNR5240720,Successful,CUST317445,Mini,Baiyappanahalli,Indiranagar,1,4,No,,No,,No,,184,8,5,4.5,UPI
+21-09-2025,18:47:00,CNR8749462,Incomplete,CUST499670,Prime Sedan,Residency Road,Jalahalli,,,No,,No,,Yes,Customer Demand,,10.8,,,UPI
+08-09-2025,18:06:00,CNR3289764,Cancelled by Driver,CUST443000,Bike,Baiyappanahalli,Ulsoor,,,No,,Yes,Personal & Car related issues,No,,,0.5,,,UPI
+18-09-2025,10:08:00,CNR8343784,Successful,CUST247068,Mini,Kundalahalli,Rajajinagar,11.5,11.7,No,,No,,No,,305,2.7,4.2,4.7,Cash
+01-09-2025,07:42:00,CNR3973536,Successful,CUST408433,Auto,Talaghattapura,Residency Road,3.7,6.7,No,,No,,No,,180,6.5,4.6,4,UPI
+21-09-2025,06:11:00,CNR5584412,Successful,CUST260952,Mini,Banashankari,Electronic City,6.3,4.2,No,,No,,No,,982,13.7,5,5,Cash
+28-09-2025,15:05:00,CNR4626672,Successful,CUST563531,Bike,Vijayanagar,Shivaji Nagar,1.9,4.6,No,,No,,No,,244,11.7,4.7,4.7,UPI
+21-09-2025,21:18:00,CNR2724585,Successful,CUST509593,Bike,Airport Road,Brigade Road,4,2,No,,No,,No,,247,6.7,4.2,4.3,UPI
+03-09-2025,12:26:00,CNR4384602,Other,CUST361829,Prime Sedan,Richmond Town,Jalahalli,,,No,,No,,No,,,9,,,UPI
+14-09-2025,22:53:00,CNR1244275,Cancelled by Driver,CUST453492,eBike,Nagarbhavi,Bharathnagar,,,No,,Yes,Personal & Car related issues,No,,,3.4,,,UPI
+26-09-2025,20:10:00,CNR3816607,Cancelled by Customer,CUST859181,Auto,Koramangala 1st Block,Frazer Town,,,Yes,Change of plans,No,,No,,,7.4,,,UPI
+12-09-2025,16:41:00,CNR4180079,Cancelled by Driver,CUST755017,Prime Plus,Chamarajpet,Residency Road,,,No,,Yes,Personal & Car related issues,No,,,25.6,,,UPI
+07-09-2025,07:48:00,CNR6982358,Successful,CUST439075,Auto,Residency Road,Hosur Road,6.6,12,No,,No,,No,,418,7.9,4.6,5,UPI
+14-09-2025,13:49:00,CNR4692601,Successful,CUST169223,Mini,Kundalahalli,Hosur Road,8.7,10,No,,No,,No,,247,5.1,5,4.3,Wallet
+03-09-2025,21:06:00,CNR4666842,Successful,CUST531066,Prime Sedan,Kudlu,Ulsoor,7.6,9.9,No,,No,,No,,1612,46.1,4.6,5,Cash
+06-09-2025,15:09:00,CNR3876606,Successful,CUST364178,Prime SUV,Kudlu,Basavanagudi,4,5,No,,No,,No,,1695,39.9,4.8,5,Card
+21-09-2025,17:34:00,CNR3230219,Successful,CUST448176,Auto,Chikkabanavara,Sarjapur Road,3.2,6.8,No,,No,,No,,30,3.9,4.2,4.7,UPI
+27-09-2025,14:13:00,CNR2132688,Successful,CUST451383,Auto,Peenya,Airport Road,7.1,7.7,No,,No,,No,,254,3.7,4.8,4.6,UPI
+21-09-2025,09:58:00,CNR9445986,Successful,CUST716005,Bike,Koramangala,Banaswadi,1.4,5.3,No,,No,,No,,287,6,5,4.6,Card
+23-09-2025,08:07:00,CNR6181620,Successful,CUST347879,Bike,Chikkabanavara,Richmond Town,1.5,5.5,No,,No,,No,,209,8.9,3.9,4.8,Card
+04-09-2025,12:23:00,CNR9367241,Successful,CUST411023,Prime Plus,Cooke Town,Electronic City,1.6,0.8,No,,No,,No,,176,10.9,4,4.8,UPI
+07-09-2025,18:22:00,CNR8444490,Successful,CUST875165,Prime SUV,HSR Layout,Kundalahalli,15.7,18.8,No,,No,,No,,396,5.6,5,4.3,Wallet
+25-09-2025,06:40:00,CNR9738796,Successful,CUST930241,Prime SUV,Hosur Road,Marathahalli,12.8,16.1,No,,No,,No,,828,12.1,4.5,4.7,UPI
+07-09-2025,18:30:00,CNR6557792,Successful,CUST459376,Prime Plus,Chamarajpet,Brigade Road,10.4,16,No,,No,,No,,954,8.4,4.7,4.8,Card
+21-09-2025,10:14:00,CNR4731991,Successful,CUST737600,Prime SUV,Shivaji Nagar,Basavanagudi,6.5,6.8,No,,No,,No,,342,7.6,4,4.8,UPI
+21-09-2025,07:06:00,CNR9248388,Successful,CUST173384,Prime SUV,Brigade Road,Vijayanagar,4.6,8.3,No,,No,,No,,2404,43,4.8,4.8,UPI
+28-09-2025,08:08:00,CNR2539467,Incomplete,CUST282112,Mini,Electronic City,Richmond Town,,,No,,No,,Yes,Vehicle Breakdown,,7.6,,,Cash
+22-09-2025,11:18:00,CNR3754127,Cancelled by Driver,CUST856729,Prime Plus,Koramangala 5th Block,Banashankari,,,No,,Yes,The customer was coughing/sick,No,,,5.1,,,Card
+10-09-2025,13:39:00,CNR4378948,Cancelled by Driver,CUST385066,Prime SUV,Seshadripuram,Whitefield,,,No,,Yes,The customer was coughing/sick,No,,,19.7,,,UPI
+14-09-2025,08:51:00,CNR8897261,Successful,CUST562816,Mini,Ejipura,Talaghattapura,7.8,5.5,No,,No,,No,,360,5.6,4,4.2,Card
+07-09-2025,22:16:00,CNR9086630,Cancelled by Driver,CUST120773,Bike,Koramangala 5th Block,Whitefield,,,No,,Yes,The customer was coughing/sick,No,,,16.6,,,UPI
+20-09-2025,08:36:00,CNR3947745,Successful,CUST369789,Mini,Kengeri,Baiyappanahalli,8.4,6,No,,No,,No,,499,1.6,4.5,4.9,UPI
+19-09-2025,14:12:00,CNR2206947,Successful,CUST449421,Auto,Seshadripuram,Jalahalli,4.4,3.3,No,,No,,No,,314,7.9,3.9,4.8,UPI
+07-09-2025,06:13:00,CNR9400348,Successful,CUST865847,Bike,Ulsoor,Residency Road,4.4,8.8,No,,No,,No,,862,15.3,4,4.3,UPI
+28-09-2025,22:33:00,CNR7260332,Successful,CUST502692,Mini,Hosur Road,Peenya,10.1,11,No,,No,,No,,483,9.5,4.9,4.1,UPI
+28-09-2025,22:56:00,CNR3088386,Cancelled by Driver,CUST503519,Prime SUV,Rajajinagar,Jalahalli,,,No,,Yes,The customer was coughing/sick,No,,,15.5,,,UPI
+24-09-2025,18:49:00,CNR6848179,Successful,CUST634363,Bike,Vijayanagar,Sarjapur Road,0.5,3,No,,No,,No,,257,5.2,4.7,4.7,Card
+04-09-2025,12:34:00,CNR8114216,Successful,CUST871399,Prime Plus,Seshadripuram,MG Road,8.6,10.2,No,,No,,No,,500,12.8,4.3,4.5,UPI
+13-09-2025,18:03:00,CNR1474058,Cancelled by Customer,CUST831351,Bike,Malleshwaram,Kalyan Nagar,,,Yes,Driver asked to cancel,No,,No,,,6.8,,,UPI
